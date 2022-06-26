@@ -1,0 +1,135 @@
+{
+  "1-10": {
+    "prefix": "s1",
+    "body": [
+      "1-10"
+    ],
+    "description": "1-10"
+  },
+  "11-50": {
+    "prefix": "s11",
+    "body": [
+      "11-50"
+    ],
+    "description": "11-50"
+  },
+  "51-100": {
+    "prefix": "s51",
+    "body": [
+      "51-100"
+    ],
+    "description": "51-100"
+  },
+  "101-250": {
+    "prefix": "s101",
+    "body": [
+      "101-250"
+    ],
+    "description": "101-250"
+  },
+  "251-500": {
+    "prefix": "s251",
+    "body": [
+      "251-500"
+    ],
+    "description": "251-500"
+  },
+  "501-1000": {
+    "prefix": "s501",
+    "body": [
+      "501-1000"
+    ],
+    "description": "501-1000"
+  },
+  "1001-5000": {
+    "prefix": "s1001",
+    "body": [
+      "1001-5000"
+    ],
+    "description": "1001-5000"
+  },
+  "5001-10000": {
+    "prefix": "s5001",
+    "body": [
+      "5001-10000"
+    ],
+    "description": "5001-10000"
+  },
+  "10001+": {
+    "prefix": "s10001",
+    "body": [
+      "10001+"
+    ],
+    "description": "10001+"
+  },
+  "Seed": {
+    "prefix": "seed",
+    "body": [
+      "Seed"
+    ],
+    "description": "Seed"
+  },
+  "Series A": {
+    "prefix": "sa",
+    "body": [
+      "Series A"
+    ],
+    "description": "Series A"
+  },
+  "Series B": {
+    "prefix": "sb",
+    "body": [
+      "Series B"
+    ],
+    "description": "Series B"
+  },
+  "Series C": {
+    "prefix": "sc",
+    "body": [
+      "Series C"
+    ],
+    "description": "Series C"
+  },
+  "Series D": {
+    "prefix": "sd",
+    "body": [
+      "Series D"
+    ],
+    "description": "Series D"
+  },
+  "Series E": {
+    "prefix": "se",
+    "body": [
+      "Series E"
+    ],
+    "description": "Series E"
+  },
+  "Series F": {
+    "prefix": "sf",
+    "body": [
+      "Series F"
+    ],
+    "description": "Series F"
+  },
+  "Series G": {
+    "prefix": "sg",
+    "body": [
+      "Series G"
+    ],
+    "description": "Series G"
+  },
+  "IPOed": {
+    "prefix": "ipoed",
+    "body": [
+      "IPOed"
+    ],
+    "description": "IPOed"
+  },
+  "Acquired": {
+    "prefix": "acquired",
+    "body": [
+      "Acquired"
+    ],
+    "description": "Acquired"
+  }
+}
