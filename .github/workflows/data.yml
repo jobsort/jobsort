@@ -1,0 +1,13 @@
+name: Jobsort Data Actions
+on: [push]
+jobs:
+  Test-Data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: test
+        run: |
+          cat companies.csv | grep -v "^#" | tail -n +2 | sort -c -f
+          cat languages.tsv | grep -v "^#" | tail -n +2 | sort -c -f
+          cat technologies.tsv | grep -v "^#" | tail -n +2 | sort -c -f
