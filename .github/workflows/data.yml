@@ -8,7 +8,6 @@ jobs:
         uses: actions/checkout@v3
       - name: test
         run: |
-          cd data
           cat companies.csv | grep -v "^#" | tail -n +2 | sort -c -f
           cat languages.tsv | grep -v "^#" | tail -n +2 | sort -c -f
           cat technologies.tsv | grep -v "^#" | tail -n +2 | sort -c -f
