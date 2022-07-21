@@ -8,6 +8,7 @@ Thanks to those who have given words of advice over the past months to guide fut
 
 *   The database has more than 20 000 jobs that are constantly refreshed.
 *   The flexible **JobSort Query Language (JSQL)** enables deep searching inside the big database. It'll almost feel like coding when you're searching.
+*   Negative filtering!
 *   **"Job health-checks"** test if each job is still available as you scroll through the results. If the job is dead, it gets stricken through so you don't land on a 404 page.
 
 ### JobSort Query Language
