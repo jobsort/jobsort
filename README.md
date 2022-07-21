@@ -16,6 +16,8 @@ Thanks to those who have given words of advice over the past months to guide fut
 keyword [-keyword] [remote:ok] [[-]lang:string] [[-]tech:string] [days:<uint] [sort:datetime|traffic]
 ```
 
+Use the `-` operator to negate the meaning of most filters. For example, when searching for `java`, search engines also return less relevant `javascript` matches. Thus, search for [`java -javascript`](https://jobsort.com/search?q=java+-javascript) to filter out `javascript` matches when looking for `java` jobs.
+
 Filter | Syntax | Type | Examples
 ---|---|---|---
 Keyword[^1] | `[-]keyword` | `string` | [`java`](https://jobsort.com/search?q=java), [`java -javascript`](https://jobsort.com/search?q=java+-javascript)
