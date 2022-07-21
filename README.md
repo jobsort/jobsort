@@ -16,16 +16,16 @@ Thanks to those who have given words of advice over the past months to guide fut
 keyword [-keyword] [remote:ok] [[-]lang:string] [[-]tech:string] [days:<uint] [sort:datetime|traffic]
 ```
 
-Filter | Syntax | Type | Example | Negative Example
----|---|---|---|---
-Keyword[^1] | `[-]keyword` | `string` | [`java`](https://jobsort.com/search?q=java) | [`java -javascript`](https://jobsort.com/search?q=java+-javascript)
-Remote[^2] | `remote:` | `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok) | n/a
-Programming Language[^3] | `[-]lang:` | `string`, see [languages.tsv](languages.tsv) | [`lang:go`](https://jobsort.com/search?q=lang:go) | [`frontend -lang:php`](https://jobsort.com/search?q=frontend+-lang:php)
-Tech Stack[^4] | `[-]tech:` | `string`, see [technologies.tsv](technologies.tsv) | [`tech:django`](https://jobsort.com/search?q=tech:django) | [`sysadmin -tech:linux`](https://jobsort.com/search?q=sysadmin+-tech:linux)
-Recency[^5] | `days:<` | `uint` | [`days:<7`](https://jobsort.com/search?q=days:<7) | n/a
-Sort Order[^6] | `sort:` | `datetime\|traffic` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic) | n/a
+Filter | Syntax | Type | Examples
+---|---|---|---
+Keyword[^1] | `[-]keyword` | `string` | [`java`](https://jobsort.com/search?q=java), [`java -javascript`](https://jobsort.com/search?q=java+-javascript)
+Remote[^2] | `remote:` | `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
+Programming Language[^3] | `[-]lang:` | `string`, see [languages.tsv](languages.tsv) | [`lang:go`](https://jobsort.com/search?q=lang:go), [`frontend -lang:php`](https://jobsort.com/search?q=frontend+-lang:php)
+Tech Stack[^4] | `[-]tech:` | `string`, see [technologies.tsv](technologies.tsv) | [`tech:django`](https://jobsort.com/search?q=tech:django), [`sysadmin -tech:linux`](https://jobsort.com/search?q=sysadmin+-tech:linux)
+Recency[^5] | `days:<` | `uint` | [`days:<7`](https://jobsort.com/search?q=days:<7)
+Sort Order[^6] | `sort:` | `datetime\|traffic` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic)
 
-#### Example Searches Using JobSort Query Language
+#### Example Searches
 
 *   [`java -javascript`](https://jobsort.com/search?q=java+-javascript) for when `java` matches `javascript` results but you're not a frontend engineer, thus it's useful to remove `javascript` results.
 
