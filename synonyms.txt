@@ -1,3 +1,5 @@
+backend,back-end
+frontend,front-end
 principal,staff
 sde,software development engineer
 sdet,software development engineer in test
