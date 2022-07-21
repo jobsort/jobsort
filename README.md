@@ -16,4 +16,22 @@ Thanks to those who have given words of advice over the past months to guide fut
 
 ### JobSort Query Language
 
-TODO
+```
+keyword1 keyword2 [-keyword3] [remote:ok] [[-]lang:string] [[-]tech:string] [days:<uint] [sort:datetime|traffic]
+```
+
+Filter | Syntax | Type | Example | Negative Filter
+---|---|---|---|---
+Keyword[^1] | `[-]keyword` | `string` | `java` | Yes, for example `java -javascript`
+Remote[^2] | `remote:` | `ok` | `remote:ok` | n/a
+Programming Language[^3] | `[-]lang:` | `string`, see [languages.tsv](languages.tsv) | `lang:go` | Yes, for example `-lang:php`
+Tech Stack[^4] | `[-]tech:` | `string`, see [technologies.tsv](technologies.tsv) | `tech:django` | Yes, for example `-tech:linux`
+Recency[^5] | `days:<` | `uint` | `days:<2` | n/a
+Sort Order[^6] | `sort:` | `datetime\|traffic` | `sort:datetime`, `sort:traffic` | n/a
+
+[^1]: Search like on Google.
+[^2]: Returns only remote jobs; `ok` is the only enum value for `remote:`.
+[^3]: Useful when you search for programming languages that are common English words.
+[^4]: Useful when you love Django on Windows, but dislike Linux.
+[^5]: Returns only jobs found in the last two days.
+[^6]: Sorts the results either by its crawl time in ascending order or its traffic in descending order.
