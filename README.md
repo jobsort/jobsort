@@ -32,7 +32,7 @@ Sort Order[^6] | `sort:` | `datetime\|traffic` | [`sort:datetime`](https://jobso
 #### Example Searches
 
 *   [`java -javascript`](https://jobsort.com/search?q=java+-javascript) for when `java` matches `javascript` results but you're not a frontend engineer, thus it's useful to remove `javascript` results.
-*   [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco') for when you want to move to California but San Francisco is just too expensive.
+*   [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco') for when you want to move to `California` but `San Francisco` is just too expensive.
 
 [^1]: Search like on Google.
 [^2]: Returns only remote jobs; `ok` is the only enum value for `remote:`.
