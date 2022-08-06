@@ -14,7 +14,7 @@ Thanks to those who have given words of advice over the past months to guide fut
 ### JobSort Query Language
 
 ```
-keyword [-keyword] [remote:ok] [[-]lang:string] [[-]tech:string] [days:<uint] [sort:datetime|traffic]
+keyword [-keyword] [remote:ok] [[-]lang:string] [[-]tech:string] [[-]hq:string] [days:<uint] [sort:datetime|traffic]
 ```
 
 Use the `-` operator to negate the meaning of most filters. For example, when searching for `java`, search engines also return less relevant `javascript` matches. Thus, search for [`java -javascript`](https://jobsort.com/search?q=java+-javascript) to filter out `javascript` matches when looking for `java` jobs.
@@ -24,6 +24,7 @@ Filter | Syntax | Type | Examples
 Keyword[^1] | `[-]keyword` | `string` | [`java`](https://jobsort.com/search?q=java), [`java -javascript`](https://jobsort.com/search?q=java+-javascript)
 Programming Language[^3] | `[-]lang:` | `string`, see [languages.tsv](languages.tsv) | [`lang:go`](https://jobsort.com/search?q=lang:go), [`frontend -lang:php`](https://jobsort.com/search?q=frontend+-lang:php)
 Tech Stack[^4] | `[-]tech:` | `string`, see [technologies.tsv](technologies.tsv) | [`tech:django`](https://jobsort.com/search?q=tech:django), [`sysadmin -tech:linux`](https://jobsort.com/search?q=sysadmin+-tech:linux)
+Headquarters | `[-]hq:` | `string` | [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
 Remote[^2] | `remote:` | `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
 Recency[^5] | `days:<` | `uint` | [`days:<7`](https://jobsort.com/search?q=days:<7)
 Sort Order[^6] | `sort:` | `datetime\|traffic` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic)
@@ -31,6 +32,7 @@ Sort Order[^6] | `sort:` | `datetime\|traffic` | [`sort:datetime`](https://jobso
 #### Example Searches
 
 *   [`java -javascript`](https://jobsort.com/search?q=java+-javascript) for when `java` matches `javascript` results but you're not a frontend engineer, thus it's useful to remove `javascript` results.
+*   [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco') for when you want to move to California but San Francisco is just too expensive.
 
 [^1]: Search like on Google.
 [^2]: Returns only remote jobs; `ok` is the only enum value for `remote:`.
