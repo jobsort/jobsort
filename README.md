@@ -14,7 +14,7 @@ Thanks to those who have given words of advice over the past months to guide fut
 ### JobSort Query Language
 
 ```
-[-]keyword [[-]lang:string] [[-]tech:string] [[-]hq:string] [remote:ok] [days:<uint] [sort:datetime|traffic]
+[-]keyword [[-]lang:string] [[-]tech:string] [[-]hq:string] [remote:ok] [days:<uint] [size:<uint] [sort:datetime|traffic]
 ```
 
 Use the `-` operator to negate the meaning of most filters. For example, when searching for `java`, search engines also return less relevant `javascript` matches. Thus, search for [`java -javascript`](https://jobsort.com/search?q=java+-javascript) to filter out `javascript` matches when looking for `java` jobs.
@@ -27,13 +27,15 @@ Tech Stack[^4] | `[-]tech:` | `string`, see [technologies.tsv](technologies.tsv)
 Headquarters | `[-]hq:` | `string` | [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
 Remote[^2] | `remote:` | `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
 Recency[^5] | `days:<` | `uint` | [`days:<7`](https://jobsort.com/search?q=days:<7)
-Company Size | `size:<` or `size:>` | `uint` (employees) | [`size:<100`](https://jobsort.com/search?q=size:<100)
+Company Size | `size:<`, `size:>` | `uint` (employees) | [`size:<100`](https://jobsort.com/search?q=size:<100)
 Sort Order[^6] | `sort:` | `datetime\|traffic` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic)
 
 #### Example Searches
 
 *   [`java -javascript`](https://jobsort.com/search?q=java+-javascript) for when `java` matches `javascript` results but you're not a frontend engineer, thus it's useful to remove `javascript` results.
 *   [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco') for when you want to move to `California` but `San Francisco` is just too expensive.
+*   [`size:<100`](https://jobsort.com/search?q=size:<100) if you like working in small companies with less than 100 employees.
+*   [`size:>1000`](https://jobsort.com/search?q=size:>1000) if you like working in large companies with more than 1000 employees.
 
 [^1]: Search like on Google.
 [^2]: Returns only remote jobs; `ok` is the only enum value for `remote:`.
