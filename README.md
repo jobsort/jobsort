@@ -27,6 +27,7 @@ Tech Stack[^4] | `[-]tech:` | `string`, see [technologies.tsv](technologies.tsv)
 Headquarters | `[-]hq:` | `string` | [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
 Remote[^2] | `remote:` | `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
 Recency[^5] | `days:<` | `uint` | [`days:<7`](https://jobsort.com/search?q=days:<7)
+Company Size | `size:<` or `size:>` | `uint` (employees) | [`size:<100`](https://jobsort.com/search?q=size:<100)
 Sort Order[^6] | `sort:` | `datetime\|traffic` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic)
 
 #### Example Searches
