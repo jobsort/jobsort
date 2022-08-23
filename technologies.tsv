@@ -136,6 +136,7 @@ PICO-8	\bPICO-8\b
 PixiJS	\bPixiJS\b
 Postgraphile	\bPostgraphile\b
 PostgreSQL	\bPostgreSQL\b
+Postman	\bPostman\b
 PouchDB	\bPouchDB\b
 Power BI	\bPower BI\b
 Preact	\bPreact\b
@@ -178,6 +179,7 @@ Tableau	\bTableau\b
 Tailwind	\bTailwind\b
 Tensorflow	\bTensorflow\b
 Terraform	\bTerraform\b
+TestCafe	\bTestCafe\b
 Thrift	\bThrift\b
 Tomcat	\bTomcat\b
 Unity	\bUnity\b
