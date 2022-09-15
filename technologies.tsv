@@ -176,7 +176,7 @@ SVN	\bSVN\b
 Swagger	\bSwagger\b
 Symfony	\bSymfony\b
 Tableau	\bTableau\b
-Tailwind	\bTailwind\b
+Tailwind	\b(Tailwind|TailwindCSS)\b
 Tensorflow	\bTensorflow\b
 Terraform	\bTerraform\b
 TestCafe	\bTestCafe\b
