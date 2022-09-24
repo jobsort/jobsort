@@ -73,6 +73,7 @@ HBase	\bHBase\b
 Heroku	\bHeroku\b
 Homebrew	\bHomebrew\b
 Homebridge	\bHomebridge\b
+HTMX	\bHTMX\b
 Hyperapp	\bHyperapp\b
 Ionic	\bIonic\b
 iOS	\biOS\b
@@ -184,6 +185,7 @@ TestCafe	\bTestCafe\b
 Thrift	\bThrift\b
 Tomcat	\bTomcat\b
 Unity	\bUnity\b
+Unpoly	\bUnpoly\b
 Unreal Engine	\bUnreal Engine\b
 Vagrant	\bVagrant\b
 Vue	\bVue(JS)?\b
