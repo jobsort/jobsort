@@ -136,6 +136,7 @@ Phaser	\bPhaser\b
 Photoshop	\bPhotoshop\b
 PICO-8	\bPICO-8\b
 PixiJS	\bPixiJS\b
+Posit	\bPosit\b
 Postgraphile	\bPostgraphile\b
 PostgreSQL	\bPostgreSQL\b
 Postman	\bPostman\b
@@ -159,6 +160,7 @@ ReactiveUI	\bReactiveUI\b
 Redis	\bRedis\b
 Redux	\bRedux\b
 RocksDB	\bRocksDB\b
+RStudio	\bRStudio\b
 RxDB	\bRxDB\b
 scikit-learn	\bscikit-learn\b
 Scrapy	\bScrapy\b
