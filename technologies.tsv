@@ -168,6 +168,7 @@ Redux	\bRedux\b
 RocksDB	\bRocksDB\b
 RStudio	\bRStudio\b
 RxDB	\bRxDB\b
+S3	\bS3\b
 scikit-learn	\bscikit-learn\b
 Scrapy	\bScrapy\b
 ScummVM	\bScummVM\b
@@ -185,7 +186,6 @@ Svelte	\bSvelte\b
 SVN	\bSVN\b
 Swagger	\bSwagger\b
 Symfony	\bSymfony\b
-S3	\bS3\b
 Tableau	\bTableau\b
 TCP	\bTCP\b
 Tailwind	\b(Tailwind|TailwindCSS)\b
