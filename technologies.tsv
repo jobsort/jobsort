@@ -10,6 +10,7 @@ Apache	\bApache\b
 Apollo	\bApollo\b
 Arch Linux	\bArch Linux\b
 Arduino	\bArduino\b
+ArgoCD	\bArgoCD\b
 Artifactory	\bArtifactory\b
 ASP.NET	\bASP\.NET\b
 Avro	\bAvro\b
@@ -27,6 +28,7 @@ Cassandra	\bCassandra\b
 Ceph	\bCeph\b
 Chromium	\bChromium\b
 CloudFormation	\bCloudFormation\b
+CockroachDB	\bCockroachDB\b
 ColdFusion	\bColdFusion\b
 Confluence	\bConfluence\b
 Cordova	\bCordova\b
@@ -66,6 +68,7 @@ Gradle	\bGradle\b
 Grafana	\bGrafana\b
 Graphene	\bGraphene\b
 GraphQL	\bGraphQL\b
+gRPC	\bgRPC\b
 Gulp	\bGulp\b
 Hadoop	\bHadoop\b
 HAProxy	\bHAProxy\b
@@ -75,6 +78,7 @@ Homebrew	\bHomebrew\b
 Homebridge	\bHomebridge\b
 HTMX	\bHTMX\b
 Hyperapp	\bHyperapp\b
+InfluxDB	\bInfluxDB\b
 Ionic	\bIonic\b
 iOS	\biOS\b
 IPFS	\bIPFS\b
@@ -89,6 +93,7 @@ Kafka	\bKafka\b
 KDE	\bKDE\b
 Keras	\bKeras\b
 Koa	\bKoa\b
+Kubeless	\bKubeless\b
 Laravel	\bLaravel\b
 LaTeX	\bLaTeX\b
 Leaflet	\bLeaflet\b
@@ -143,6 +148,7 @@ Postman	\bPostman\b
 PouchDB	\bPouchDB\b
 Power BI	\bPower BI\b
 Preact	\bPreact\b
+Prometheus	\bPrometheus\b
 ProtoBuf	\b(ProtoBuf|Protocol Buffers)\b
 Pug	\bPug\b
 Puppet	\bPuppet\b
@@ -179,13 +185,16 @@ Svelte	\bSvelte\b
 SVN	\bSVN\b
 Swagger	\bSwagger\b
 Symfony	\bSymfony\b
+S3	\bS3\b
 Tableau	\bTableau\b
+TCP	\bTCP\b
 Tailwind	\b(Tailwind|TailwindCSS)\b
 Tensorflow	\bTensorflow\b
 Terraform	\bTerraform\b
 TestCafe	\bTestCafe\b
 Thrift	\bThrift\b
 Tomcat	\bTomcat\b
+UDP	\bUDP\b
 Unity	\bUnity\b
 Unpoly	\bUnpoly\b
 Unreal Engine	\bUnreal Engine\b
