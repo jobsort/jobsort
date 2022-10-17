@@ -187,8 +187,8 @@ SVN	\bSVN\b
 Swagger	\bSwagger\b
 Symfony	\bSymfony\b
 Tableau	\bTableau\b
-TCP	\bTCP\b
 Tailwind	\b(Tailwind|TailwindCSS)\b
+TCP	\bTCP\b
 Tensorflow	\bTensorflow\b
 Terraform	\bTerraform\b
 TestCafe	\bTestCafe\b
