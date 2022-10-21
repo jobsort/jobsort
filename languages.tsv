@@ -4,6 +4,7 @@ Ada	\bAda\b
 APL	\bAPL\b
 AppleScript	\bAppleScript\b
 Assembly	\bAssembly\b
+AssemblyScript	\bAssemblyScript\b
 Bash	\bBash\b
 Basic	\bBasic\b
 Brainfuck	\bBrainfuck\b
@@ -18,6 +19,7 @@ ClojureScript	\bClojureScript\b
 CMake	\bCMake\b
 COBOL	\b(Cobol|COBOL)\b
 CoffeeScript	\bCoffeeScript\b
+Coq	\bCoq\b
 Crystal	\bCrystal\b
 CSS	\bCSS\b
 Cypher	\bCypher\b
@@ -82,6 +84,7 @@ Pascal	\bPascal\b
 Perl	\bPerl\b
 PHP	\bPHP\b
 PL/SQL	\bPL\/SQL\b
+Pony	\bPony\b
 PowerShell	\bPowerShell\b
 Processing	\bProcessing\b
 Prolog	\bProlog\b
@@ -90,6 +93,7 @@ Pug	\bPug\b
 Puppet	\bPuppet\b
 Pure	\bPure\b
 PureBasic	\bPureBasic\b
+PureScript	\bPureScript\b
 Python	\bPython\b
 Q	\bQ\b
 Qore	\bQore\b
