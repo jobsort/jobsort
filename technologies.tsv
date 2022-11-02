@@ -47,6 +47,7 @@ Ember	\bEmber\b
 Ethereum	\bEthereum\b
 Excel	\bExcel\b
 Express	\bExpress(JS?)\b
+FAST	\bFAST\b
 Fastify	\bFastify\b
 Fedora	\bFedora\b
 Figma	\bFigma\b
@@ -100,6 +101,7 @@ LaTeX	\bLaTeX\b
 Leaflet	\bLeaflet\b
 LevelDB	\bLevelDB\b
 Linux	\bLinux\b
+Lit	\bLit\b
 LLVM	\bLLVM\b
 Lodash	\bLodash\b
 LoopBack	\bLoopBack\b
