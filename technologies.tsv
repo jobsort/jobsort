@@ -132,8 +132,10 @@ Node	\bNode(JS)?\b
 NoSQL	\bNoSQL\b
 NumPy	\bNumPy\b
 Nuxt	\bNuxt(JS)?\b
+OpenBSD	\bOpenBSD\b
 OpenCV	\bOpenCV\b
 OpenGL	\bOpenGL\b
+OpenSSL	\bOpenSSL\b
 openSUSE	\b(openSUSE|OpenSUSE)\b
 Packer	\bPacker\b
 pandas	\bpandas\b
