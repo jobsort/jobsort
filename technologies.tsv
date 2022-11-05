@@ -41,6 +41,7 @@ DirectX	\bDirectX\b
 Django	\bDjango\b
 Docker	\bDocker\b
 Dojo	\bDojo\b
+Drupal	\bDrupal\b
 Elasticsearch	\bElasticsearch\b
 Electron	\bElectron\b
 Ember	\bEmber\b
@@ -89,6 +90,7 @@ Jekyll	\bJekyll\b
 Jenkins	\bJenkins\b
 Jest	\bJest\b
 JIRA	\bJIRA\b
+Joomla	\bJoomla\b
 jQuery	\bjQuery\b
 K8s	\b(K8s|Kubernetes)\b
 Kafka	\bKafka\b
@@ -126,6 +128,7 @@ MySQL	\bMySQL\b
 NativeScript	\bNativeScript\b
 ncurses	\bncurses\b
 Neo4j	\bNeo4j\b
+Nette	\bNette\b
 Next	\b(NextJS|Next\.js)\b
 nginx	\bnginx\b
 NixOS	\bNixOS\b
@@ -142,8 +145,10 @@ openSUSE	\b(openSUSE|OpenSUSE)\b
 Packer	\bPacker\b
 pandas	\bpandas\b
 Perforce	\bPerforce\b
+Phalcon	\bPhalcon\b
 Phaser	\bPhaser\b
 Photoshop	\bPhotoshop\b
+PHPUnit	\bPHPUnit\b
 PICO-8	\bPICO-8\b
 PixiJS	\bPixiJS\b
 Posit	\bPosit\b
