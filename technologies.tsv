@@ -154,6 +154,7 @@ PouchDB	\bPouchDB\b
 Power BI	\bPower BI\b
 Preact	\bPreact\b
 Prometheus	\bPrometheus\b
+Prophet	\bProphet\b
 ProtoBuf	\b(ProtoBuf|Protocol Buffers)\b
 Pug	\bPug\b
 Puppet	\bPuppet\b
