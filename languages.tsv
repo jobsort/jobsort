@@ -50,6 +50,7 @@ Haskell	\bHaskell\b
 Haxe	\bHaxe\b
 HTML	\bHTML\b
 HTML5	\bHTML5\b
+Imba	\bImba\b
 Janet	\bJanet\b
 Java	\bJava\b
 JavaScript	\b(JavaScript|Javascript)\b
@@ -67,6 +68,7 @@ LiveScript	\bLiveScript\b
 Lua	\bLua\b
 Luau	\bLuau\b
 Markdown	\bMarkdown\b
+Mint	\bMint\b
 Mathematica	\bMathematica\b
 MATLAB	\b(Matlab|MATLAB)\b
 Modelica	\bModelica\b
