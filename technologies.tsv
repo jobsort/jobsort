@@ -6,6 +6,7 @@ Android	\bAndroid\b
 Angular	\bAngular(JS)?\b
 Ansible	\bAnsible\b
 Ant	\bAnt\b
+APFS	\bAPFS\b
 Apache	\bApache\b
 Apollo	\bApollo\b
 Arch Linux	\bArch Linux\b
@@ -48,6 +49,7 @@ Ember	\bEmber\b
 Ethereum	\bEthereum\b
 Excel	\bExcel\b
 Express	\bExpress(JS?)\b
+EXT4	\bEXT4\b
 FAST	\bFAST\b
 Fastify	\bFastify\b
 Fedora	\bFedora\b
@@ -136,6 +138,7 @@ NixOS	\bNixOS\b
 NLTK	\bNLTK\b
 Node	\bNode(JS)?\b
 NoSQL	\bNoSQL\b
+NTFS	\bNTFS\b
 NumPy	\bNumPy\b
 Nuxt	\bNuxt(JS)?\b
 OpenBSD	\bOpenBSD\b
