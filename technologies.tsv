@@ -96,6 +96,7 @@ Jenkins	\bJenkins\b
 Jest	\bJest\b
 JIRA	\bJIRA\b
 Joomla	\bJoomla\b
+Jupyter	\bJupyter\b
 jQuery	\bjQuery\b
 K8s	\b(K8s|Kubernetes)\b
 Kafka	\bKafka\b
