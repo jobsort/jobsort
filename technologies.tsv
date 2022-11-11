@@ -172,6 +172,7 @@ Puppet	\bPuppet\b
 Puppeteer	\bPuppeteer\b
 PWA	\bPWA\b
 PyTorch	\bPyTorch\b
+QEMU	\bQEMU\b
 Qt	\bQt\b
 RabbitMQ	\bRabbitMQ\b
 Rails	\bRails\b
