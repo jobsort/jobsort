@@ -43,6 +43,7 @@ Django	\bDjango\b
 Docker	\bDocker\b
 Dojo	\bDojo\b
 Drupal	\bDrupal\b
+Eclipse	\bEclipse\b
 Elasticsearch	\bElasticsearch\b
 Electron	\bElectron\b
 Ember	\bEmber\b
@@ -201,6 +202,7 @@ SQL Server	\bSQL Server\b
 SQLite	\bSQLite\b
 Stata	\bStata\b
 Storybook	\bStorybook\b
+Sublime	\bSublime\b
 Svelte	\bSvelte\b
 SVN	\bSVN\b
 Swagger	\bSwagger\b
@@ -219,6 +221,9 @@ Unity	\bUnity\b
 Unpoly	\bUnpoly\b
 Unreal Engine	\bUnreal Engine\b
 Vagrant	\bVagrant\b
+VIM	\bVIM\b
+Visual Studio	\bVisual Studio\b
+VSCode	\bVSCode\b
 Vue	\bVue(JS)?\b
 Web Components	\b(Web Components|WebComponents)\b
 Web3	\bWeb3\b
@@ -230,5 +235,6 @@ WildFly	\bWildFly\b
 WordPlate	\bWordPlate\b
 WordPress	\bWordPress\b
 Xamarin	\bXamarin\b
+Xcode	\bXcode\b
 Zigbee	\bZigbee\b
 ZooKeeper	\b(ZooKeeper|Zookeeper)\b
