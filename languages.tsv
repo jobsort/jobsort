@@ -124,6 +124,7 @@ Swift	\bSwift\b
 SystemC	\bSystemC\b
 SystemVerilog	\bSystemVerilog\b
 Tcl	\b(Tcl|TCL)\b
+TeX	\bTeX\b
 Textile	\bTextile\b
 TOML	\bTOML\b
 TypeScript	\b(TypeScript|Typescript)\b
