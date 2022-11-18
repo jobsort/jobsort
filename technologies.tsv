@@ -55,6 +55,7 @@ EXT4	\bEXT4\b
 FAST	\bFAST\b
 Fastify	\bFastify\b
 Fedora	\bFedora\b
+FFmpeg	\bFFmpeg\b
 Figma	\bFigma\b
 Final Cut	\bFinal Cut\b
 Firebase	\bFirebase\b
