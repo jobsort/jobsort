@@ -125,6 +125,13 @@
     ],
     "description": "IPOed"
   },
+  "Private": {
+    "prefix": "private",
+    "body": [
+      "Private"
+    ],
+    "description": "Private"
+  },
   "Acquired": {
     "prefix": "acquired",
     "body": [
