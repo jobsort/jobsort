@@ -6,3 +6,4 @@ Series D
 Series E
 Series F
 IPOed
+Private
