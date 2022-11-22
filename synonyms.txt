@@ -1,4 +1,7 @@
 backend,back-end
+ceo,chief executive officer
+coo,chief operating officer
+cto,chief technical officer
 frontend,front-end
 principal,staff
 sde,software development engineer
