@@ -1,5 +1,6 @@
 name	regex
 .NET	\.NET\b
+ActivityPub	\bActivityPub\b
 After Effects	\bAfter Effects\b
 Alpine Linux	\bAlpine Linux\b
 Android	\bAndroid\b
