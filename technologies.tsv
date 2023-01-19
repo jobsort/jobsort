@@ -249,5 +249,6 @@ WordPlate	\bWordPlate\b
 WordPress	\bWordPress\b
 Xamarin	\bXamarin\b
 Xcode	\bXcode\b
+XMPP	\bXMPP\b
 Zigbee	\bZigbee\b
 ZooKeeper	\b(ZooKeeper|Zookeeper)\b
