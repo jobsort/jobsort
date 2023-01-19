@@ -20,6 +20,7 @@ Avro	\bAvro\b
 AWS	\b(AWS|Amazon Web Services)\b
 Azure	\bAzure\b
 Bamboo	\bBamboo\b
+Bazel	\bBazel\b
 BitBucket	\bBitBucket\b
 Bitcoin	\bBitcoin\b
 Blender	\bBlender\b
