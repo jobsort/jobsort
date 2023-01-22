@@ -4,6 +4,7 @@ coo,chief operating officer
 cto,chief technical officer
 frontend,front-end
 gem,group engineering manager
+gm,general manager
 pm,program manager,product manager
 principal,staff
 sde,software development engineer
