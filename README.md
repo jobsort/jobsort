@@ -17,7 +17,7 @@ Thanks to those who have given words of advice over the past months to guide fut
 [-]keyword [[-]lang:string] [[-]tech:string] [[-]company:string] [[-]hq:string] [remote:ok] [days:<uint] [size:<uint] [sort:datetime|traffic]
 ```
 
-The `-` operator negates the meaning of the filter. For example, when searching for `java`, most search engines also return less relevant `javascript` matches. Thus, search for [`java -javascript`](https://jobsort.com/search?q=java+-javascript) to filter out `javascript` hits when looking for `java` jobs.
+The `-` operator negates the meaning of the filter. For example, when searching for `java`, most search engines also return less relevant `javascript` hits. Thus, search for [`java -javascript`](https://jobsort.com/search?q=java+-javascript) to filter out `javascript` hits when looking for `java` jobs.
 
 Filter | Syntax | Type | Examples
 ---|---|---|---
