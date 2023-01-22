@@ -14,7 +14,7 @@ Thanks to those who have given words of advice over the past months to guide fut
 ### JobSort Query Language
 
 ```
-[-]keyword [[-]lang:string] [[-]tech:string] [[-]company:string] [[-]hq:string] [remote:ok] [days:<uint] [size:<uint] [sort:datetime|traffic]
+[-]keyword [[-]lang:string] [[-]tech:string] [[-]company:string] [[-]hq:string] [[-]stage:string] [remote:ok] [days:<uint] [size:<uint] [sort:datetime|traffic]
 ```
 
 The `-` operator negates the meaning of the filter. For example, when searching for `java`, most search engines also return less relevant `javascript` hits. Thus, search for [`java -javascript`](https://jobsort.com/search?q=java+-javascript) to filter out `javascript` hits when looking for `java` jobs.
@@ -24,9 +24,10 @@ Filter | Syntax | Type | Examples
 Keyword[^1] | `[-]keyword` | `string` | [`java`](https://jobsort.com/search?q=java), [`java -javascript`](https://jobsort.com/search?q=java+-javascript)
 Programming Language[^3] | `[-]lang:` | `string`, see [languages.tsv](languages.tsv) | [`lang:go`](https://jobsort.com/search?q=lang:go), [`frontend -lang:php`](https://jobsort.com/search?q=frontend+-lang:php)
 Tech Stack[^4] | `[-]tech:` | `string`, see [technologies.tsv](technologies.tsv) | [`tech:django`](https://jobsort.com/search?q=tech:django), [`sysadmin -tech:linux`](https://jobsort.com/search?q=sysadmin+-tech:linux)
-Companies | `[-]company:` | `string`, see [companies.csv](companies.csv) | [`company:apple`](https://jobsort.com/search?q=company:apple)
+Company | `[-]company:` | `string`, see [companies.csv](companies.csv) | [`company:apple`](https://jobsort.com/search?q=company:apple)
+Stage | `[-]stage:` | `string`, see [stages.txt](stages.txt) | [`stage:seed`](https://jobsort.com/search?q=stage:seed'), [`stage:"series a"`](https://jobsort.com/search?q=stage:'series+a')
 Headquarters | `[-]hq:` | `string` | [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
-Company Size | `size:<`, `size:>` | `uint` (employees) | [`size:<100`](https://jobsort.com/search?q=size:<100)
+Size | `size:<`, `size:>` | `uint` (employees) | [`size:<100`](https://jobsort.com/search?q=size:<100)
 Remote[^2] | `remote:` | `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
 Recency[^5] | `days:<` | `uint` | [`days:<7`](https://jobsort.com/search?q=days:<7)
 Sort Order[^6] | `sort:` | `datetime\|random\|traffic` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:random`](https://jobsort.com/search?q=sort:random), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic)
