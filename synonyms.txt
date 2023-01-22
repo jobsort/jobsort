@@ -3,8 +3,11 @@ ceo,chief executive officer
 coo,chief operating officer
 cto,chief technical officer
 frontend,front-end
+gem,group engineering manager
+pm,program manager,product manager
 principal,staff
 sde,software development engineer
 sdet,software development engineer in test
 seo,search engine optimization
 sre,site reliability engineer
+tpm,technical program manager
