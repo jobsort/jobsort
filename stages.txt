@@ -6,4 +6,5 @@ Series D
 Series E
 Series F
 IPOed
+Acquired
 Private
