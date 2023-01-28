@@ -1,6 +1,6 @@
 # Jobsort
 
-[Jobsort](https://jobsort.com) is a fast job search engine for developers, by developers. Jobsort is powered by a domain-specific language called JobSort Query Language (JSQL) which allows for deep job searching. The database of jobs is updated every few days.
+[Jobsort](https://jobsort.com) is a fast job search engine for developers. Jobsort is powered by a domain-specific language called JobSort Query Language (JSQL) which allows for deep job searching. The database of jobs is updated every few days.
 
 Thanks to those who have given words of advice over the past months to guide future development. The name Jobsort comes from the well-known sorting algorithm Quicksort.
 
