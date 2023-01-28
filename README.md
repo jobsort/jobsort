@@ -4,7 +4,7 @@
 
 Thanks to those who have given words of advice over the past months to guide future development. The name Jobsort comes from the well-known sorting algorithm Quicksort.
 
-### JobSort Query Language
+### JobSort Query Language (JSQL)
 
 ```
 [-]keyword [[-]lang:string] [[-]tech:string] [[-]company:string] [[-]stage:string] [[-]hq:string] [remote:ok] [days:<uint] [size:<uint] [sort:datetime|traffic]
