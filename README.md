@@ -4,7 +4,7 @@
 
 Thanks to those who have given words of advice over the past months to guide future development. The name Jobsort comes from the well-known sorting algorithm Quicksort.
 
-### JobSort Query Language (JSQL)
+## JobSort Query Language (JSQL)
 
 ```
 [-]STRING [[-]lang:STRING] [[-]tech:STRING] [[-]company:STRING] [[-]stage:STRING] [[-]hq:STRING] [remote:ok] [days:<UINT] [size:<UINT] [sort:datetime|random|rank|traffic]
@@ -27,16 +27,9 @@ Filter Syntax | Filter Examples
 
 _Is Jobsort missing a filter operator? Please send an email to <info@jobsort.com> to request more filters!_
 
-#### Example Searches
+## Example Searches
 
 *   [`java -javascript`](https://jobsort.com/search?q=java+-javascript) for when `java` matches `javascript` results but you're not a frontend engineer, thus it's useful to remove `javascript` results.
 *   [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco') for when you want to find a job somewhere in `California` but living in `San Francisco` is just too expensive.
 *   [`size:<100`](https://jobsort.com/search?q=size:<100) if you like working in small companies with less than 100 employees.
 *   [`size:>1000`](https://jobsort.com/search?q=size:>1000) if you like working in large companies with more than 1000 employees.
-
-[^1]: Search like on Google.
-[^2]: Returns only remote jobs; `ok` is the only enum value for `remote:`.
-[^3]: Useful when you search for programming languages that are common English words.
-[^4]: Useful when you love Django on Windows, but dislike Linux.
-[^5]: Returns only jobs found in the last two days.
-[^6]: Sorts the results either by its crawl time in ascending order or its traffic in descending order.
