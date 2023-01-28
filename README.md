@@ -4,6 +4,8 @@
 
 Thanks to those who have given words of advice over the past months to guide future development. The name Jobsort comes from the well-known sorting algorithm Quicksort.
 
+> If you find Jobsort helpful, please consider staring the repo. It helps!
+
 ## JobSort Query Language (JSQL)
 
 ```
@@ -24,6 +26,8 @@ Filter Syntax | Filter Examples
 `remote:` for remote jobs, must be `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
 `days:<` for recency | [`days:<7`](https://jobsort.com/search?q=days:<7)
 `sort:` for sorting, must be `datetime`, `random`, `rank`, `traffic` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:random`](https://jobsort.com/search?q=sort:random), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic), [`sort:rank`](https://jobsort.com/search?q=sort:rank) (default)
+
+Note that if a filter value contains whitespace, the value must be wrapped between `'` or `"`; either works, but examples herein use single quotes rather than double quotes.
 
 > Please send an email to <info@jobsort.com> to request more filters.
 
