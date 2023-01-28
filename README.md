@@ -19,7 +19,7 @@ Filter Syntax | Filter Examples
 `[-]tech:` for tech stacks, see [technologies.tsv](technologies.tsv) | [`tech:django`](https://jobsort.com/search?q=tech:django), [`sysadmin -tech:linux`](https://jobsort.com/search?q=sysadmin+-tech:linux)
 `[-]company:` for company names, see [companies.csv](companies.csv) | [`company:apple`](https://jobsort.com/search?q=company:apple), [`company:'epic games'`](https://jobsort.com/search?q=company:'epic+games')
 `[-]stage:` for startup stages, see [stages.txt](stages.txt) | [`stage:seed`](https://jobsort.com/search?q=stage:seed'), [`stage:'series a'`](https://jobsort.com/search?q=stage:'series+a'), [`stage:'series b'`](https://jobsort.com/search?q=stage:'series+b'), [`stage:'series c'`](https://jobsort.com/search?q=stage:'series+c')
-`[-]hq:` for company headquarters | [`hq:california -hq:'san francisco'`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
+`[-]hq:` for company headquarters, see [companies.csv](companies.csv) | [`hq:california -hq:'san francisco'`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
 `size:<`, `size:>` for number of employees | [`size:<100`](https://jobsort.com/search?q=size:<100), [`size:>100`](https://jobsort.com/search?q=size:>100)
 `remote:` for remote jobs, must be `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
 `days:<` for recency | [`days:<7`](https://jobsort.com/search?q=days:<7)
