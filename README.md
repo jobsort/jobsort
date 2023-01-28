@@ -1,15 +1,8 @@
 # Jobsort
 
-[Jobsort](https://jobsort.com) is a fast job search engine built by developers for developers. JobSort crawls the Internet for new jobs every day to create its jobs database. JobSort is powered by a custom filtering language called JobSort Query Language (JSQL) that enables deep searching.
+[Jobsort](https://jobsort.com) is a fast job search engine for developers, by developers. Jobsort is powered by a domain-specific language called JobSort Query Language (JSQL) which allows for deep job searching. The database of jobs is updated every few days.
 
-Thanks to those who have given words of advice over the past months to guide future development. If you're curious, the name "JobSort" derives from the well-known sorting algorithm "QuickSort."
-
-## Features
-
-*   The database has more than 20 000 jobs that are constantly refreshed.
-*   The flexible **JobSort Query Language (JSQL)** enables deep searching inside the big database. It'll almost feel like coding when you're searching.
-*   Negative filtering!
-*   **"Job health-checks"** test if each job is still available as you scroll through the results. If the job is dead, it gets stricken through so you don't land on a 404 page.
+Thanks to those who have given words of advice over the past months to guide future development. The name Jobsort comes from the well-known sorting algorithm Quicksort.
 
 ### JobSort Query Language
 
