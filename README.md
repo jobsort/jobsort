@@ -12,18 +12,18 @@ Thanks to those who have given words of advice over the past months to guide fut
 
 The `-` operator negates the meaning of the filter. For example, when searching for `java`, most search engines also return less relevant `javascript` hits. Thus, search for [`java -javascript`](https://jobsort.com/search?q=java+-javascript) to filter out `javascript` hits when looking for `java` jobs.
 
-Filter Syntax | Examples
+Filter Syntax | Filter Examples
 ---|---
 `[-]STRING` | [`java`](https://jobsort.com/search?q=java), [`java -javascript`](https://jobsort.com/search?q=java+-javascript)
 `[-]lang:` for programming languages, see [languages.tsv](languages.tsv) | [`lang:go`](https://jobsort.com/search?q=lang:go), [`frontend -lang:php`](https://jobsort.com/search?q=frontend+-lang:php)
 `[-]tech:` for tech stacks, see [technologies.tsv](technologies.tsv) | [`tech:django`](https://jobsort.com/search?q=tech:django), [`sysadmin -tech:linux`](https://jobsort.com/search?q=sysadmin+-tech:linux)
-`[-]company:` for company names, see [companies.csv](companies.csv) | [`company:apple`](https://jobsort.com/search?q=company:apple)
-`[-]stage:` for startup stages, see [stages.txt](stages.txt) | [`stage:seed`](https://jobsort.com/search?q=stage:seed'), [`stage:"series a"`](https://jobsort.com/search?q=stage:'series+a')
-`[-]hq:` for headquarters | [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
+`[-]company:` for company names, see [companies.csv](companies.csv) | [`company:apple`](https://jobsort.com/search?q=company:apple), [`company:'epic games'`](https://jobsort.com/search?q=company:'epic+games')
+`[-]stage:` for startup stages, see [stages.txt](stages.txt) | [`stage:seed`](https://jobsort.com/search?q=stage:seed'), [`stage:'series a'`](https://jobsort.com/search?q=stage:'series+a'), [`stage:'series b'`](https://jobsort.com/search?q=stage:'series+b'), [`stage:'series c'`](https://jobsort.com/search?q=stage:'series+c')
+`[-]hq:` for company headquarters | [`hq:california -hq:'san francisco'`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
 `size:<`, `size:>` for number of employees | [`size:<100`](https://jobsort.com/search?q=size:<100)
-`remote:ok` for remote jobs | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
+`remote:` for remote jobs, must be `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
 `days:<` for recency | [`days:<7`](https://jobsort.com/search?q=days:<7)
-`sort:` for sorting, see `rank\|datetime\|traffic\|random` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:random`](https://jobsort.com/search?q=sort:random), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic)
+`sort:` for sorting, must be `datetime`, `random`, `rank`, `traffic` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:random`](https://jobsort.com/search?q=sort:random), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic), [`sort:rank`](https://jobsort.com/search?q=sort:rank) (default)
 
 #### Example Searches
 
