@@ -14,15 +14,15 @@ The `-` operator negates the meaning of the filter. For example, when searching 
 
 Filter Syntax | Examples
 ---|---
-`[-]keyword` | [`java`](https://jobsort.com/search?q=java), [`java -javascript`](https://jobsort.com/search?q=java+-javascript)
-`[-]lang:` for programming languages, see [languages.tsv](languages.tsv) | [`lang:go`](https://jobsort.com/search?q=lang:go), [`frontend -lang:php`](https://jobsort.com/search?q=frontend+-lang:php)
-`[-]tech:` for tech stacks, see [technologies.tsv](technologies.tsv) | [`tech:django`](https://jobsort.com/search?q=tech:django), [`sysadmin -tech:linux`](https://jobsort.com/search?q=sysadmin+-tech:linux)
-`[-]company:` for company names, see [companies.csv](companies.csv) | [`company:apple`](https://jobsort.com/search?q=company:apple)
-`[-]stage:` for startup stages, see [stages.txt](stages.txt) | [`stage:seed`](https://jobsort.com/search?q=stage:seed'), [`stage:"series a"`](https://jobsort.com/search?q=stage:'series+a')
-`[-]hq:` for headquarters | [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
-`size:<`, `size:>` for number of employees | [`size:<100`](https://jobsort.com/search?q=size:<100)
+`[-]STRING` | [`java`](https://jobsort.com/search?q=java), [`java -javascript`](https://jobsort.com/search?q=java+-javascript)
+`[-]lang:STRING` for programming languages, see [languages.tsv](languages.tsv) | [`lang:go`](https://jobsort.com/search?q=lang:go), [`frontend -lang:php`](https://jobsort.com/search?q=frontend+-lang:php)
+`[-]tech:STRING` for tech stacks, see [technologies.tsv](technologies.tsv) | [`tech:django`](https://jobsort.com/search?q=tech:django), [`sysadmin -tech:linux`](https://jobsort.com/search?q=sysadmin+-tech:linux)
+`[-]company:STRING` for company names, see [companies.csv](companies.csv) | [`company:apple`](https://jobsort.com/search?q=company:apple)
+`[-]stage:STRING` for startup stages, see [stages.txt](stages.txt) | [`stage:seed`](https://jobsort.com/search?q=stage:seed'), [`stage:"series a"`](https://jobsort.com/search?q=stage:'series+a')
+`[-]hq:STRING` for headquarters | [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
+`size:<UINT`, `size:>UINT` for number of employees | [`size:<100`](https://jobsort.com/search?q=size:<100)
 `remote:ok` for remote jobs | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
-`days:<` for recency | [`days:<7`](https://jobsort.com/search?q=days:<7)
+`days:<UINT` for recency | [`days:<7`](https://jobsort.com/search?q=days:<7)
 `sort:` for sorting, see `rank\|datetime\|traffic\|random` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:random`](https://jobsort.com/search?q=sort:random), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic)
 
 #### Example Searches
