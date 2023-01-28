@@ -5,6 +5,7 @@ cto,chief technical officer
 frontend,front-end
 gem,group engineering manager
 gm,general manager
+nyc,new york city
 pm,program manager,product manager
 principal,staff
 sde,software development engineer
