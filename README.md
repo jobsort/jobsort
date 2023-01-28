@@ -25,7 +25,7 @@ Filter Syntax | Filter Examples
 `days:<` for recency | [`days:<7`](https://jobsort.com/search?q=days:<7)
 `sort:` for sorting, must be `datetime`, `random`, `rank`, `traffic` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:random`](https://jobsort.com/search?q=sort:random), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic), [`sort:rank`](https://jobsort.com/search?q=sort:rank) (default)
 
-> Please send an email to <info@jobsort.com> to request more filters!
+> Please send an email to <info@jobsort.com> to request more filters.
 
 ## Example Searches
 
