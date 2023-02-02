@@ -5,7 +5,7 @@ cto,chief technical officer
 frontend,front-end
 gem,group engineering manager
 gm,general manager
-gpt,generative pre-trained transformer
+gpt,generative pretrained transformer
 nyc,new york city
 pm,program manager,product manager
 principal,staff
