@@ -78,6 +78,7 @@ GitHub	\bGitHub\b
 GitLab	\bGitLab\b
 Gnome	\bGnome\b
 Godot	\bGodot\b
+GPT	\bGPT\b
 GraalVM	\bGraalVM\b
 Gradle	\bGradle\b
 Grafana	\bGrafana\b
