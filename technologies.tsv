@@ -223,6 +223,7 @@ Symfony	\bSymfony\b
 Tableau	\bTableau\b
 Tailwind	\b(Tailwind|TailwindCSS)\b
 TCP	\bTCP\b
+tcpdump	\btcpdump\b
 Tensorflow	\bTensorflow\b
 Terraform	\bTerraform\b
 TestCafe	\bTestCafe\b
