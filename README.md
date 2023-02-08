@@ -9,7 +9,7 @@ Thanks to those who have given words of advice over the past months to guide fut
 ## JobSort Query Language (JSQL)
 
 ```
-[-]STRING [-]lang:STRING [-]tech:STRING [-]company:STRING [-]stage:STRING [-]hq:STRING remote:ok date:<UINT size:>UINT sort:date|random|rank|traffic
+[-]STRING [-]lang:STRING [-]tech:STRING [-]company:STRING [-]stage:STRING [-]hq:STRING date:<UINT size:>UINT remote:ok sort:date|random|rank|traffic
 ```
 
 The `-` operator negates the meaning of the filter. For example, when searching for `java`, most search engines also return less relevant `javascript` hits. Thus, search for [`java -javascript`](https://jobsort.com/search?q=java+-javascript) to filter out `javascript` hits when looking for `java` jobs.
