@@ -1,21 +1,21 @@
 url,name,hq,size,stage,funding
 # https://change.org,Change.org,"San Francisco, California, United States",251-500,Series D,72000000USD
-# https://gitlab.com,GitLab,"San Francisco, California, United States",1001-5000,IPOed,413500000USD
+# https://gitlab.com,GitLab,"San Francisco, California, United States",1001-5000,Public,413500000USD
 # https://medium.com,Medium,"San Francisco, California, United States",101-250,Series C,163000000USD
-# https://vmware.com,VMware,"Palo Alto, California, United States",10001+,IPOed,393500000USD
+# https://vmware.com,VMware,"Palo Alto, California, United States",10001+,Public,393500000USD
 https://100thieves.com,100 Thieves,"Los Angeles, California, United States",51-100,Series B,120000000USD
 https://10up.com,10up,"Roseville, California, United States",251-500,Acquired,
 https://1password.com,1Password,"Toronto, Ontario, Canada",101-250,Series A,920135000USD
 https://23andme.com,23andMe,"Sunnyvale, California, United States",501-1000,Series F,1118573609USD
-https://3m.com,3M,"Saint Paul, Minnesota, United States",10001+,IPOed,
+https://3m.com,3M,"Saint Paul, Minnesota, United States",10001+,Public,
 https://54gene.com,54gene,"Washington, District of Columbia, United States",101-250,Series B,44725000USD
 https://6connex.com,6Connex,"San Antonio, Texas, United States",251-500,Acquired,527000USD
 https://6sense.com,6sense,"San Francisco, California, United States",251-500,Series D,426000000USD
 https://75f.io,75F,"Burnsville, Minnesota, United States",101-250,Series A,29855000USD
 https://98point6.com,98point6,"Seattle, Washington, United States",251-500,Series E,247300000USD
 https://abnormalsecurity.com,Abnormal Security,"San Francisco, California, United States",101-250,Series B,284000000USD
-https://absci.com,Absci,"Vancouver, Washington, United States",101-250,IPOed,237859989USD
-https://accolade.com,Accolade,"Plymouth Meeting, Pennsylvania, United States",501-1000,IPOed,458744444USD
+https://absci.com,Absci,"Vancouver, Washington, United States",101-250,Public,237859989USD
+https://accolade.com,Accolade,"Plymouth Meeting, Pennsylvania, United States",501-1000,Public,458744444USD
 https://aclaimant.com,Aclaimant,"Chicago, Illinois, United States",11-50,Series B,27956181USD
 https://acquire.io,Acquire,"San Francisco, California, United States",101-250,Series A,56800000USD
 https://actioniq.com,ActionIQ,"New York, New York, United States",51-100,Series C,144700000USD
@@ -23,31 +23,31 @@ https://activecampaign.com,ActiveCampaign,"Chicago, Illinois, United States",501
 https://activsurgical.com,Activ Surgical,"Boston, Massachusetts, United States",11-50,Series B,100400038USD
 https://acumatica.com,Acumatica,"Kirkland, Washington, United States",101-250,Series C,48300000USD
 https://addepar.com,Addepar,"Mountain View, California, United States",251-500,,661100000USD
-https://adobe.com,Adobe,"San Jose, California, United States",10001+,IPOed,2500000USD
-https://adp.com,ADP,"Roseland, New Jersey, United States",10001+,IPOed,
-https://aerofarms.com,AeroFarms,"Newark, New Jersey, United States",101-250,IPOed,237976638USD
-https://aeva.ai,Aeva,"Mountain View, California, United States",101-250,IPOed,368500000USD
-https://affirm.com,Affirm,"San Francisco, California, United States",501-1000,IPOed,1520000000USD
+https://adobe.com,Adobe,"San Jose, California, United States",10001+,Public,2500000USD
+https://adp.com,ADP,"Roseland, New Jersey, United States",10001+,Public,
+https://aerofarms.com,AeroFarms,"Newark, New Jersey, United States",101-250,Public,237976638USD
+https://aeva.ai,Aeva,"Mountain View, California, United States",101-250,Public,368500000USD
+https://affirm.com,Affirm,"San Francisco, California, United States",501-1000,Public,1520000000USD
 https://afresh.com,Afresh,"San Francisco, California, United States",11-50,Series A,32790000USD
-https://airbnb.com,Airbnb,"San Francisco, California, United States",10001+,IPOed,6423132065USD
+https://airbnb.com,Airbnb,"San Francisco, California, United States",10001+,Public,6423132065USD
 https://airmeet.com,Airmeet,"Lewes, Delaware, United States",251-500,Series A,50000000USD
 https://airship.com,Airship,"Portland, Oregon, United States",251-500,Series F,100900000USD
 https://airtable.com,Airtable,"San Francisco, California, United States",251-500,Series E,1352600000USD
 https://aisera.com,Aisera,"Palo Alto, California, United States",101-250,Series C,74499999USD
 https://aiven.io,Aiven,"Helsinki, Southern Finland, Finland",101-250,Series C,420000000USD
-https://akamai.com,Akamai,"Cambridge, Massachusetts, United States",10001+,IPOed,35000000USD
+https://akamai.com,Akamai,"Cambridge, Massachusetts, United States",10001+,Public,35000000USD
 https://alchemy.com,Alchemy,,11-50,Series B,
 https://alertive.com,Alertive Healthcare,"Seattle, Washington, United States",11-50,,250000USD
 https://algolia.com,Algolia,"San Francisco, California, United States",251-500,Series C,334220000USD
 https://algonomy.com,Algonomy,"San Francisco, California, United States",501-1000,,
 https://algorand.com,Algorand,,51-100,,
 https://algorithmia.com,Algorithmia,"Seattle, Washington, United States",11-50,Series B,38080000USD
-https://allbirds.com,Allbirds,"San Francisco, California, United States",251-500,IPOed,202450000USD
+https://allbirds.com,Allbirds,"San Francisco, California, United States",251-500,Public,202450000USD
 https://ally.io,Ally,"Bellevue, Washington, United States",251-500,Series C,73000000USD
-https://amazon.com,Amazon,"Seattle, Washington, United States",10001+,IPOed,108000000USD
+https://amazon.com,Amazon,"Seattle, Washington, United States",10001+,Public,108000000USD
 https://ambition.com,Ambition,"Chattanooga, Tennessee, United States",11-50,Series A,21200000USD
-https://amd.com,AMD,"Santa Clara, California, United States",10001+,IPOed,
-https://amdocs.com,Amdocs,"Chesterfield, Missouri, United States",10001+,IPOed,
+https://amd.com,AMD,"Santa Clara, California, United States",10001+,Public,
+https://amdocs.com,Amdocs,"Chesterfield, Missouri, United States",10001+,Public,
 https://amperity.com,Amperity,"Seattle, Washington, United States",101-250,Series C,187000000USD
 https://ample.com,Ample,"San Francisco, California, United States",11-50,Series C,275729852USD
 https://amprobotics.com,AMP Robotics,"Louisville, Colorado, United States",51-100,Series B,76067503USD
@@ -57,7 +57,7 @@ https://apollo.io,Apollo,"San Francisco, California, United States",11-50,Series
 https://appannie.com,App Annie,,501-1000,,
 https://appfire.com,Appfire,"Burlington, Massachusetts, United States",251-500,,149000000USD
 https://appharvest.com,AppHarvest,,51-100,,
-https://apple.com,Apple,"Cupertino, California, United States",10001+,IPOed,6180230000USD
+https://apple.com,Apple,"Cupertino, California, United States",10001+,Public,6180230000USD
 https://apploi.com,Apploi,"New York, New York, United States",51-100,Series B,45500000USD
 https://applyboard.com,ApplyBoard,"Waterloo, Ontario, Canada",1001-5000,Series D,483480000USD
 https://appnovation.com,Appnovation,"Vancouver, British Columbia, Canada",251-500,,19902270USD
@@ -69,25 +69,25 @@ https://arcticwolf.com,Arctic Wolf,"Eden Prairie, Minnesota, United States",501-
 https://arriscomposites.com,Arris Composites,"Berkeley, California, United States",51-100,Series B,64130994USD
 https://arthur.ai,Arthur AI,"New York, New York, United States",11-50,Series A,18300000USD
 https://arturo.ai,Arturo,"Chicago, Illinois, United States",11-50,Series B,33000000USD
-https://asana.com,Asana,"San Francisco, California, United States",501-1000,IPOed,453200000USD
+https://asana.com,Asana,"San Francisco, California, United States",501-1000,Public,453200000USD
 https://aspiration.com,Aspiration,"Marina Del Rey, California, United States",101-250,,250000000USD
 https://astronomer.io,Astronomer,"Cincinnati, Ohio, United States",101-250,Series B,282900000USD
 https://athleticbrewing.com,Athletic Brewing,"Stratford, Connecticut, United States",11-50,,151372130USD
-https://atlassian.com,Atlassian,"Sydney, New South Wales, Australia",1001-5000,IPOed,210000000USD
+https://atlassian.com,Atlassian,"Sydney, New South Wales, Australia",1001-5000,Public,210000000USD
 https://atmosphere.tv,Atmoshpere TV,"Austin, Texas, United States",51-100,Series B,148742685USD
 https://attentivemobile.com,Attentive,,501-1000,Series E,
 https://attunely.com,Attunely,"Seattle, Washington, United States",1-10,Series A,12700000USD
 https://augmedics.com,Augmedics,"Arlington Heights, Illinois, United States",11-50,Series C,61100000USD
 https://augury.com,Augury,"New York, New York, United States",101-250,Series E,294000000USD
 https://auth0.com,Auth0,"Bellevue, Washington, United States",501-1000,Acquired,332275000USD
-https://autodesk.com,Autodesk,"San Rafael, California, United States",10001+,IPOed,
+https://autodesk.com,Autodesk,"San Rafael, California, United States",10001+,Public,
 https://automationanywhere.com,Automation Anywhere,"San Jose, California, United States",1001-5000,,849300000USD
 https://automattic.com,Automattic,"San Francisco, California, United States",1001-5000,,985900000USD
 https://avantstay.com,AvantStay,"Los Angeles, California, United States",101-250,Series A,686000000USD
 https://avast.com,Avast,"Prague, Hlavni mesto Praha, Czech Republic",1001-5000,,100000000USD
 https://axonius.com,Axonius,"New York, New York, United States",101-250,,665000000USD
 https://ayarlabs.com,Ayar Labs,"Emeryville, California, United States",51-100,Series B,194650000USD
-https://bambuser.com,Bambuser,"Stockholm, Stockholms Lan, Sweden",101-250,IPOed,122149152USD
+https://bambuser.com,Bambuser,"Stockholm, Stockholms Lan, Sweden",101-250,Public,122149152USD
 https://baremetrics.com,Baremetrics,"San Francisco, California, United States",1-10,Seed,800000USD
 https://bbot.menu,Bbot,"Astoria, New York, United States",51-100,Series A,22220000USD
 https://beacon.com,Beacon,"London, England, United Kingdom",101-250,Series B,65000000USD
@@ -99,7 +99,7 @@ https://better.com,Better,"New York, New York, United States",5001-10000,,905000
 https://bevy.com,Bevy,"Palo Alto, California, United States",101-250,Series C,61400000USD
 https://beyond.ai,Beyond Limits,"Glendale, California, United States",101-250,Series C,158500000USD
 https://beyondidentity.com,Beyond Identity,"New York, New York, United States",101-250,Series B,205000000USD
-https://beyondmeat.com,Beyond Meat,"Manhattan Beach, California, United States",501-1000,IPOed,122000000USD
+https://beyondmeat.com,Beyond Meat,"Manhattan Beach, California, United States",501-1000,Public,122000000USD
 https://bigboxvr.com,BigBox VR,"Seattle, Washington, United States",11-50,Seed,6450000USD
 https://bigfishgames.com,Big Fish,"Seattle, Washington, United States",501-1000,,95244796USD
 https://bigid.com,BigID,"New York, New York, United States",101-250,Series D,246099999USD
@@ -114,14 +114,14 @@ https://blinkist.com,Blinkist,"Berlin, Berlin, Germany",51-100,Series C,34771978
 https://blizzard.com,Blizzard Entertainment,"Irvine, California, United States",5001-10000,,
 https://blockfi.com,BlockFi,"Jersey City, New Jersey, United States",101-250,,1400000000USD
 https://bloomscape.com,Bloomscape,"Detroit, Michigan, United States",51-100,Series B,24200000USD
-https://blueapron.com,BlueApron,"New York, New York, United States",501-1000,IPOed,352500000USD
+https://blueapron.com,BlueApron,"New York, New York, United States",501-1000,Public,352500000USD
 https://bluecanoelearning.com,Blue Canoe,"Bellevue, Washington, United States",11-50,Seed,4400000USD
 https://blueconduit.com,BlueConduit,"Ann Arbor, Michigan, United States",11-50,,
 https://bluenalu.com,BlueNalu,"San Diego, California, United States",1-10,,84750000USD
 https://blueorigin.com,Blue Origin,"Kent, Washington, United States",251-500,,167350000USD
 https://bluevoyant.com,BlueVoyant,"New York, New York, United States",101-250,Series C,525500000USD
 https://boardable.com,Boardable,"Indianapolis, Indiana, United States",51-100,Series A,15166242USD
-https://boeing.com,Boeing,"Chicago, Illinois, United States",10001+,IPOed,1500043317USD
+https://boeing.com,Boeing,"Chicago, Illinois, United States",10001+,Public,1500043317USD
 https://boltive.com,Boltive,"Seattle, Washington, United States",11-50,Seed,4000000USD
 https://bombas.com,Bombas,"New York, New York, United States",101-250,,150000002USD
 https://booking.com,Booking,"Amsterdam, Noord-Holland, The Netherlands",10001+,,
@@ -130,7 +130,7 @@ https://boox.eco,Boox,,1-10,Series A,
 https://boringcompany.com,The Boring Company,"Pflugerville, Texas, United States",51-100,,908000000USD
 https://bostondynamics.com,Boston Dynamics,"Waltham, Massachusetts, United States",251-500,,37000000USD
 https://boundless.com,Boundless,"Seattle, Washington, United States",11-50,Series B,43800000USD
-https://box.com,Box,"Redwood City, California, United States",1001-5000,IPOed,1058950000USD
+https://box.com,Box,"Redwood City, California, United States",1001-5000,Public,1058950000USD
 https://br.iq,Briq,,51-100,Series B,
 https://brace.ai,Brace,"New York, New York, United States",11-50,Series B,30450000USD
 https://brainbase.com,Brainbase,"Los Angeles, California, United States",51-100,Series A,12000000USD
@@ -156,7 +156,7 @@ https://cariuma.com,Cariuma,"Rio, Rio de Janeiro, Brazil",11-50,,13000000USD
 https://carto.com,Carto,"New York, New York, United States",101-250,Series C,92000000USD
 https://casaone.com,CasaOne,"Emeryville, California, United States",101-250,,77500000USD
 https://catalyst.io,Catalyst,"New York, New York, United States",51-100,Series B,45400000USD
-https://cazoo.co.uk,Cazoo,"London, England, United Kingdom",1001-5000,IPOed,1986961261USD
+https://cazoo.co.uk,Cazoo,"London, England, United Kingdom",1001-5000,Public,1986961261USD
 https://cedar.com,Cedar,"New York, New York, United States",101-250,Series D,351000000USD
 https://centrical.com,Centrical,"New York, New York, United States",101-250,Series C,66000000USD
 https://certn.co,Certn,"Victoria, British Columbia, Canada",11-50,Series A,83920348USD
@@ -174,8 +174,8 @@ https://chippercash.com,Chipper Cash,"San Francisco, California, United States",
 https://chromamedicine.com,Chroma Medicine,"Cambridge, Massachusetts, United States",11-50,Series A,125000000USD
 https://chronosphere.io,Chronosphere,"New York, New York, United States",101-250,Series C,254400000USD
 https://circleci.com,CircleCI,"San Francisco, California, United States",501-1000,Series F,315000000USD
-https://cisco.com,Cisco,"San Jose, California, United States",10001+,IPOed,2500000USD
-https://citrix.com,Citrix Systems,"Fort Lauderdale, Florida, United States",5001-10000,IPOed,20000000USD
+https://cisco.com,Cisco,"San Jose, California, United States",10001+,Public,2500000USD
+https://citrix.com,Citrix Systems,"Fort Lauderdale, Florida, United States",5001-10000,Public,20000000USD
 https://citrusad.com,CitrusAd,"Brisbane, Queensland, Australia",51-100,Acquired,12500000AUD
 https://cityblock.com,Cityblock Health,"Brooklyn, New York, United States",251-500,Series D,891300000USD
 https://clari.com,Clari,"Sunnyvale, California, United States",501-1000,Series E,496000000USD
@@ -184,7 +184,7 @@ https://clearcover.com,Clearcover,"Chicago, Illinois, United States",251-500,Ser
 https://clickup.com,ClickUp,"San Diego, California, United States",501-1000,Series C,537500000USD
 https://clio.com,Clio,"Vancouver, British Columbia, Canada",501-1000,Series E,386000000USD
 https://closefactor.com,CloseFactor,"Palo Alto, California, United States",11-50,Seed,4500000USD
-https://cloudflare.com,Cloudflare,"San Francisco, California, United States",501-1000,IPOed,332200000USD
+https://cloudflare.com,Cloudflare,"San Francisco, California, United States",501-1000,Public,332200000USD
 https://clumio.com,Clumio,"Santa Clara, California, United States",101-250,Series C,186000000USD
 https://cmsmax.com,CMS Max,"Webster, New York, United States",11-50,,
 https://coalitioninc.com,Coalition,"San Francisco, California, United States",101-250,Series E,770000000USD
@@ -192,16 +192,16 @@ https://cockroachlabs.com,Cockroach Labs,"New York, New York, United States",101
 https://code.org,Code.org,"Seattle, Washington, United States",51-100,,57900000USD
 https://codepath.org,CodePath.org,"San Francisco, California, United States",1-10,,5100000USD
 https://coherehealth.com,Cohere Health,"Boston, Massachusetts, United States",101-250,Series B,56099972USD
-https://coinbase.com,Coinbase,"San Francisco, California, United States",1001-5000,IPOed,549034825USD
+https://coinbase.com,Coinbase,"San Francisco, California, United States",1001-5000,Public,549034825USD
 https://coinflip.tech,CoinFlip,"Skokie, Illinois, United States",101-250,,
 https://coldquanta.com,ColdQuanta,"Boulder, Colorado, United States",101-250,,71550000USD
 https://collibra.com,Collibra,"Brussels, Brussels Hoofdstedelijk Gewest, Belgium",501-1000,Series G,596486133USD
 https://color.com,Color,"Burlingame, California, United States",251-500,Series D,482000000USD
 https://companycam.com,CompanyCam,"Lincoln, Nebraska, United States",11-50,Series B,38000000USD
 https://compass.com,Compass,"New York, New York, United States",10001+,Series G,1528000000USD
-https://concur.com,Concur,"Bellevue, Washington, United States",1001-5000,IPOed,291754092USD
+https://concur.com,Concur,"Bellevue, Washington, United States",1001-5000,Public,291754092USD
 https://conductor.com,Conductor,"New York, New York, United States",101-250,Acquired,210648126USD
-https://confluent.io,Confluent,"Mountain View, California, United States",1001-5000,IPOed,455900000USD
+https://confluent.io,Confluent,"Mountain View, California, United States",1001-5000,Public,455900000USD
 https://convertkit.com,ConvertKit,"Boise, Idaho, United States",11-50,,
 https://convoy.com,Convoy,"Seattle, Washington, United States",501-1000,Series D,930500000USD
 https://coolberg.in,Coolberg,"Mumbai, Maharashtra, India",101-250,Series A,3500000USD
@@ -214,7 +214,7 @@ https://craftsvilla.com,Craftsvilla,"Mumbai, Maharashtra, India",101-250,,626917
 https://creatopy.com,Creatopy,"San Francisco, California, United States",101-250,,
 https://cred.club,CRED,,251-500,Series D,
 https://creditkarma.com,Credit Karma,"San Francisco, California, United States",501-1000,Acquired,868000000USD
-https://crescolabs.com,Cresco Labs,"Chicago, Illinois, United States",501-1000,IPOed,522502402USD
+https://crescolabs.com,Cresco Labs,"Chicago, Illinois, United States",501-1000,Public,522502402USD
 https://cribl.io,Cribl,"San Francisco, California, United States",101-250,Series C,402208560USD
 https://crickethealth.com,Cricket Health,"Boston, Massachusetts, United States",101-250,Series B,111070000USD
 https://cropin.com,CropIn,"Bengaluru, Karnataka, India",101-250,Series C,32599576USD
@@ -252,7 +252,7 @@ https://definedcrowd.com,DefinedCrowd,,251-500,Series B,
 https://degreed.com,Degreed,"Pleasanton, California, United States",501-1000,,411805796USD
 https://deliverect.com,Deliverect,"Ghent, Oost-Vlaanderen, Belgium",101-250,Series C,236799209USD
 https://deliverr.com,Deliverr,,101-250,Series D,
-https://dell.com,Dell,"Round Rock, Texas, United States",10001+,IPOed,
+https://dell.com,Dell,"Round Rock, Texas, United States",10001+,Public,
 https://deloitte.com,Deloitte,,10001+,,
 https://demodesk.com,Demodesk,"Munich, Bayern, Germany",51-100,Seed,10600000USD
 https://density.io,Density,"San Francisco, California, United States",51-100,Series D,217200000USD
@@ -264,38 +264,38 @@ https://dexterity.ai,Dexterity,"Redwood City, California, United States",101-250
 https://dialpad.com,Dialpad,"San Francisco, California, United States",501-1000,Series E,400000000USD
 https://digitalasset.com,Digital Asset,"New York, New York, United States",101-250,Series D,307200000USD
 https://digitalhands.com,Digital Hands,"Tampa, Florida, United States",101-250,,15000000USD
-https://digitalocean.com,DigitalOcean,"New York, New York, United States",501-1000,IPOed,491275418USD
+https://digitalocean.com,DigitalOcean,"New York, New York, United States",501-1000,Public,491275418USD
 https://discord.com,Discord,"San Francisco, California, United States",501-1000,Series H,995408718USD
 https://divvydose.com,divvyDOSE,"Rock Island, Illinois, United States",11-50,Acquired,
 https://divvyhomes.com,Divvy,"San Francisco, California, United States",51-100,,1225000000USD
-https://dlocal.com,dLocal,"Montevideo, NA - Uruguay, Uruguay",251-500,IPOed,357000000USD
+https://dlocal.com,dLocal,"Montevideo, NA - Uruguay, Uruguay",251-500,Public,357000000USD
 https://dnanexus.com,DNAnexus,"Mountain View, California, United States",101-250,Series H,472600000USD
 https://docker.com,Docker,"Palo Alto, California, United States",51-100,Series B,435855439USD
-https://docusign.com,DocuSign,"San Francisco, California, United States",1001-5000,IPOed,536199999USD
-https://doma.com,Doma,"San Francisco, California, United States",251-500,IPOed,679615152USD
-https://doordash.com,DoorDash,"San Francisco, California, United States",10001+,IPOed,2471820000USD
+https://docusign.com,DocuSign,"San Francisco, California, United States",1001-5000,Public,536199999USD
+https://doma.com,Doma,"San Francisco, California, United States",251-500,Public,679615152USD
+https://doordash.com,DoorDash,"San Francisco, California, United States",10001+,Public,2471820000USD
 https://dover.com,Dover,"San Francisco, California, United States",11-50,Series A,22800000USD
 https://dragos.com,Dragos,"Hanover, Maryland, United States",251-500,Series D,364200000USD
 https://dreambox.com,DreamBox Learning,"Bellevue, Washington, United States",251-500,Series C,175600000USD
 https://dremio.com,Dremio,"Santa Clara, California, United States",101-250,Series D,410000000USD
 https://drift.com,Drift,"Boston, Massachusetts, United States",251-500,Series C,107000000USD
 https://drinkhydrant.com,Hydrant,"New York, New York, United States",11-50,Series A,23900000USD
-https://dropbox.com,Dropbox,"San Francisco, California, United States",1001-5000,IPOed,1707215000USD
+https://dropbox.com,Dropbox,"San Francisco, California, United States",1001-5000,Public,1707215000USD
 https://duckduckgo.com,DuckDuckGo,"Paoli, Pennsylvania, United States",51-100,,172000000USD
 https://duffel.com,Duffel,"London, England, United Kingdom",11-50,Series B,56200000USD
 https://dunzo.com,Dunzo,"Bengaluru, Karnataka, India",1001-5000,Series E,700149438USD
-https://duolingo.com,Duolingo,"Pittsburgh, Pennsylvania, United States",501-1000,IPOed,183300000USD
+https://duolingo.com,Duolingo,"Pittsburgh, Pennsylvania, United States",501-1000,Public,183300000USD
 https://dutchie.com,Dutchie,"Bend, Oregon, United States",251-500,Series D,603000000USD
-https://ea.com,Electronic Arts,"Redwood City, California, United States",5001-10000,IPOed,2200000USD
+https://ea.com,Electronic Arts,"Redwood City, California, United States",5001-10000,Public,2200000USD
 https://easyknock.com,EasyKnock,"New York, New York, United States",11-50,Series B,401700000USD
 https://easypost.com,EasyPost,"Lehi, Utah, United States",251-500,Series B,88700000USD
-https://ebay.com,eBay,"San Jose, California, United States",10001+,IPOed,6700000USD
+https://ebay.com,eBay,"San Jose, California, United States",10001+,Public,6700000USD
 https://ecoflow.com,EcoFlow,"San Francisco, California, United States",251-500,,114395255USD
 https://ecosense.io,Ecosense,"San Jose, California, United States",1-10,Seed,1000000USD
 https://educative.io,Educative,"Bellevue, Washington, United States",11-50,Seed,14595000USD
 https://ekohealth.com,Eko Health,"Oakland, California, United States",101-250,Series C,125500000USD
-https://elastic.co,Elastic,"Mountain View, California, United States",1001-5000,IPOed,161999996USD
-https://electreon.com,Electreon,"Beit Yanai, HaMerkaz, Israel",11-50,IPOed,50000000USD
+https://elastic.co,Elastic,"Mountain View, California, United States",1001-5000,Public,161999996USD
+https://electreon.com,Electreon,"Beit Yanai, HaMerkaz, Israel",11-50,Public,50000000USD
 https://electroneek.com,ElectroNeek,"Austin, Texas, United States",11-50,Series A,23655000USD
 https://elevate.bio,ElevateBio,,101-250,,
 https://elvie.com,Elvie,"London, England, United Kingdom",51-100,Series C,151860009USD
@@ -310,8 +310,8 @@ https://equitybee.com,EquityBee,"Palo Alto, California, United States",11-50,Ser
 https://equityzen.com,EquityZen,,11-50,,
 https://espres.so,espresso,"Sydney, New South Wales, Australia",11-50,,
 https://etleap.com,Etleap,"San Francisco, California, United States",11-50,Seed,1600000USD
-https://etsy.com,Etsy,"Brooklyn, New York, United States",1001-5000,IPOed,97256127USD
-https://eventbrite.com,Eventbrite,"San Francisco, California, United States",501-1000,IPOed,557250000USD
+https://etsy.com,Etsy,"Brooklyn, New York, United States",1001-5000,Public,97256127USD
+https://eventbrite.com,Eventbrite,"San Francisco, California, United States",501-1000,Public,557250000USD
 https://everactive.com,Everactive,"Santa Clara, California, United States",51-100,Series C,114050000USD
 https://everlywell.com,Everlywell,"Austin, Texas, United States",101-250,,325000000USD
 https://evernote.com,Evernote,"Redwood City, California, United States",251-500,Series E,290000000USD
@@ -321,14 +321,14 @@ https://evidence.dev,Evidence,"Toronto, Ontario, Canada",1-10,Seed,125000USD
 https://evisit.com,eVisit,"Mesa, Arizona, United States",11-50,Series B,110783376USD
 https://evisort.com,Evisort,"San Mateo, California, United States",101-250,Series B,155600000USD
 https://exabeam.com,Exabeam,"Foster City, California, United States",501-1000,Series E,390000000USD
-https://expedia.com,Expedia,,5001-10000,IPOed,
+https://expedia.com,Expedia,,5001-10000,Public,
 https://expel.io,Expel,"Herndon, Virginia, United States",101-250,Series D,257800000USD
 https://explorium.ai,Explorium,"Tel Aviv, Tel Aviv, Israel",101-250,Series C,125100000USD
 https://extend.com,Extend,"San Francisco, California, United States",101-250,Series C,320400000USD
 https://extrahop.com,ExtraHop,"Seattle, Washington, United States",501-1000,Series C,61600000USD
-https://facebook.com,Facebook,,10001+,IPOed,
+https://facebook.com,Facebook,,10001+,Public,
 https://factal.com,Factal,"Seattle, Washington, United States",11-50,Series A,4500000USD
-https://factset.com,FactSet,"Norwalk, Connecticut, United States",5001-10000,IPOed,
+https://factset.com,FactSet,"Norwalk, Connecticut, United States",5001-10000,Public,
 https://faire.com,Faire,"San Francisco, California, United States",251-500,Series F,1708162662USD
 https://fairmarkit.com,Fairmarkit,"Boston, Massachusetts, United States",51-100,Series B,41888963USD
 https://fairphone.com,Fairphone,"Amsterdam, Noord-Holland, The Netherlands",11-50,,40675649USD
@@ -341,7 +341,7 @@ https://figure.com,Figure,"San Francisco, California, United States",251-500,Ser
 https://finexio.com,Finexio,"San Mateo, California, United States",11-50,,62500000USD
 https://finixpayments.com,Finix Payments,,101-250,Series B,
 https://fireblocks.com,Fireblocks,"New York, New York, United States",101-250,Series D,1039000000USD
-https://fiskerinc.com,Fisker,,101-250,IPOed,
+https://fiskerinc.com,Fisker,,101-250,Public,
 https://fivetran.com,Fivetran,"Oakland, California, United States",251-500,Series D,728108000USD
 https://flawlessai.com,Flawless,"London, England, United Kingdom",51-100,,
 https://flexport.com,Flexport,"San Francisco, California, United States",1001-5000,,2239000000USD
@@ -368,7 +368,7 @@ https://fredhutch.org,Fred Hutch,"Seattle, Washington, United States",5001-10000
 https://freenome.com,Freenome,"South San Francisco, California, United States",101-250,Series C,1097550000USD
 https://freshly.com,Freshly,"New York, New York, United States",251-500,Acquired,107000000USD
 https://frontapp.com,Front,,101-250,Series C,
-https://garmin.com,Garmin,"Schaffhausen, Schaffhausen, Switzerland",5001-10000,IPOed,
+https://garmin.com,Garmin,"Schaffhausen, Schaffhausen, Switzerland",5001-10000,Public,
 https://gemini.com,Gemini,,101-250,,
 https://generallyintelligent.ai,Generally Intelligent,"San Francisco, California, United States",1-10,Series A,20000000USD
 https://geocaching.com,Geocaching,"Seattle, Washington, United States",51-100,,
@@ -402,11 +402,11 @@ https://glow.fm,Glow,"Seattle, Washington, United States",1-10,Acquired,2300000U
 https://glowforge.com,Glowforge,"Seattle, Washington, United States",11-50,,113165000USD
 https://goat.com,GOAT,,501-1000,,
 https://goclove.com,Clove,"Philadelphia, Pennsylvania, United States",1-10,Seed,1500000USD
-https://godaddy.com,GoDaddy,"Scottsdale, Arizona, United States",1001-5000,IPOed,800000000USD
+https://godaddy.com,GoDaddy,"Scottsdale, Arizona, United States",1001-5000,Public,800000000USD
 https://godigit.com,Digit Insurance,"Bengaluru, Karnataka, India",1001-5000,,585617180USD
 https://gofordelivers.com,GoFor,,101-250,Series A,
 https://gong.io,Gong,"San Francisco, California, United States",501-1000,Series E,583000000USD
-https://gopro.com,GoPro,"San Mateo, California, United States",251-500,IPOed,288205000USD
+https://gopro.com,GoPro,"San Mateo, California, United States",251-500,Public,288205000USD
 https://goshippo.com,Shippo,"San Francisco, California, United States",101-250,Series E,154275000USD
 https://gosite.com,GoSite,"San Diego, California, United States",51-100,Series B,59750000USD
 https://gostudent.org/us,GoStudent,,501-1000,Series C,
@@ -433,8 +433,8 @@ https://hashicorp.com,HashiCorp,"San Francisco, California, United States",1001-
 https://hawkemedia.com,Hawke Media,"Santa Monica, California, United States",101-250,,
 https://headset.io,Headset,"Seattle, Washington, United States",51-100,,24057255USD
 https://headspace.com,Headspace,,251-500,,
-https://helbiz.com,Helbiz,"New York, New York, United States",501-1000,IPOed,78350000USD
-https://hellofresh.com,HelloFresh,"Berlin, Berlin, Germany",1001-5000,IPOed,367459141USD
+https://helbiz.com,Helbiz,"New York, New York, United States",501-1000,Public,78350000USD
+https://hellofresh.com,HelloFresh,"Berlin, Berlin, Germany",1001-5000,Public,367459141USD
 https://hellofyllo.com,Fyllo,"Chicago, Illinois, United States",101-250,Series B,98000000USD
 https://hellolanding.com,Landing,"Birmingham, Alabama, United States",251-500,,304750000USD
 https://hellotend.com,Tend,"New York, New York, United States",251-500,Series C,198000000USD
@@ -446,7 +446,7 @@ https://hightouch.io,Hightouch,"San Francisco, California, United States",11-50,
 https://himarley.com,Hi Marley,"Boston, Massachusetts, United States",11-50,Series B,41700000USD
 https://hingehealth.com,Hinge Health,"San Francisco, California, United States",501-1000,Series E,1026132500USD
 https://hioperator.com,HiOperator,"San Francisco, California, United States",11-50,Private,500000USD
-https://hioscar.com,Oscar,"New York, New York, United States",1001-5000,IPOed,1632500000USD
+https://hioscar.com,Oscar,"New York, New York, United States",1001-5000,Public,1632500000USD
 https://hirenimble.com,Nimble,"San Francisco, California, United States",1-10,Seed,120000USD
 https://hive.com,Hive,"New York, New York, United States",51-100,Series B,26000000USD
 https://hiya.com,Hiya,"Seattle, Washington, United States",101-250,Series A,18000000USD
@@ -456,11 +456,11 @@ https://hometownticketing.com,HomeTown Ticketing,"Columbus, Ohio, United States"
 https://homeward.com,Homeward,"Austin, Texas, United States",251-500,,501000000USD
 https://honeycomb.io,Honeycomb,"San Francisco, California, United States",51-100,Series C,85400000USD
 https://hopin.com,Hopin,"London, England, United Kingdom",501-1000,Series D,1021440519USD
-https://hp.com,HP,"Palo Alto, California, United States",10001+,IPOed,4200000000USD
+https://hp.com,HP,"Palo Alto, California, United States",10001+,Public,4200000000USD
 https://hqo.com,HqO,"Boston, Massachusetts, United States",101-250,Series C,106850000USD
 https://hubilo.com,Hubilo,"San Francisco, California, United States",251-500,Series B,153000000USD
 https://huboo.com,Huboo,"Bristol, Bristol, City of, United Kingdom",251-500,Series B,100785069USD
-https://hubspot.com,HubSpot,"Cambridge, Massachusetts, United States",1001-5000,IPOed,100500000USD
+https://hubspot.com,HubSpot,"Cambridge, Massachusetts, United States",1001-5000,Public,100500000USD
 https://hulu.com,Hulu,"Los Angeles, California, United States",1001-5000,Acquired,683000000USD
 https://humaninterest.com,Human Interest,"San Francisco, California, United States",501-1000,Series D,336700000USD
 https://hunter.io,Hunter,"Paris, Ile-de-France, France",1-10,,
@@ -470,7 +470,7 @@ https://hyperfine.io,Hyperfine,"Guilford, Connecticut, United States",51-100,Ser
 https://hyperproof.io,Hyperproof,"Bellevue, Washington, United States",11-50,Series A,22281000USD
 https://hyperscience.com,Hyperscience,"New York, New York, United States",101-250,Series D,288879675USD
 https://hypr.com,Hypr,"New York, New York, United States",101-250,Series C,67100000USD
-https://ibm.com,IBM,"Armonk, New York, United States",10001+,IPOed,
+https://ibm.com,IBM,"Armonk, New York, United States",10001+,Public,
 https://icertis.com,Icertis,"Bellevue, Washington, United States",1001-5000,Series F,370999968USD
 https://iconbuild.com,Icon,"Austin, Texas, United States",251-500,Series B,451500000USD
 https://id.me,ID.me,"Mclean, Virginia, United States",501-1000,,275245000USD
@@ -478,7 +478,7 @@ https://idelic.com,Idelic,"Pittsburgh, Pennsylvania, United States",51-100,Serie
 https://ifit.com,iFit,"Logan, Utah, United States",101-250,,200000000USD
 https://igalia.com,Igalia,"A Coruna, Galicia, Spain",51-100,,
 https://illumio.com,Illumio,"Sunnyvale, California, United States",251-500,Series E,557500000USD
-https://immunovant.com,Immunovant,,101-250,IPOed,
+https://immunovant.com,Immunovant,,101-250,Public,
 https://immuta.com,Immuta,"Boston, Massachusetts, United States",51-100,Series D,258200000USD
 https://impossiblefoods.com,Impossible Foods,"Redwood City, California, United States",501-1000,Series G,1896200000USD
 https://incountry.com,InCountry,"San Francisco, California, United States",51-100,Series A,40000000USD
@@ -493,34 +493,34 @@ https://insitro.com,Insitro,"South San Francisco, California, United States",101
 https://instabase.com,Instabase,"San Francisco, California, United States",101-250,Series B,131970000USD
 https://instacart.com,Instacart,"San Francisco, California, United States",5001-10000,,2919023124USD
 https://instagram.com,Instagram,"Menlo Park, California, United States",251-500,Acquired,57500000USD
-https://instructure.com,Instructure,"Salt Lake City, Utah, United States",501-1000,IPOed,89100000USD
+https://instructure.com,Instructure,"Salt Lake City, Utah, United States",501-1000,Public,89100000USD
 https://insurify.com,Insurify,"Cambridge, Massachusetts, United States",51-100,Series B,129600000USD
-https://intel.com,Intel,"Santa Clara, California, United States",10001+,IPOed,12510000USD
+https://intel.com,Intel,"Santa Clara, California, United States",10001+,Public,12510000USD
 https://intercom.com,Intercom,"San Francisco, California, United States",501-1000,,240750000USD
 https://interfirst.com,Interfirst,"Chicago, Illinois, United States",251-500,,
 https://interplaylearning.com,Interplay Learning,"Austin, Texas, United States",51-100,Series B,24500000USD
-https://intuit.com,Intuit,"Mountain View, California, United States",5001-10000,IPOed,18851000USD
+https://intuit.com,Intuit,"Mountain View, California, United States",5001-10000,Public,18851000USD
 https://invideo.io,InVideo,"Singapore, Central Region, Singapore",101-250,Series E,52500000USD
 https://invixium.com,Invixium,"Toronto, Ontario, Canada",11-50,Series C,13116566USD
 https://irl.com,IRL,"San Francisco, California, United States",11-50,Series C,197000000USD
-https://irobot.com,iRobot,"Bedford, Massachusetts, United States",501-1000,IPOed,30000000USD
+https://irobot.com,iRobot,"Bedford, Massachusetts, United States",501-1000,Public,30000000USD
 https://ironcladapp.com,Ironclad,"San Francisco, California, United States",101-250,,334000000USD
-https://isoplexis.com,IsoPlexis,"Branford, Connecticut, United States",101-250,IPOed,330500000USD
+https://isoplexis.com,IsoPlexis,"Branford, Connecticut, United States",101-250,Public,330500000USD
 https://jetbrains.com,JetBrains,"Prague, Hlavni mesto Praha, Czech Republic",1001-5000,,
 https://jetclosing.com,JetClosing,"Seattle, Washington, United States",51-100,Series B,44300000USD
-https://jfrog.com,JFrog,"Sunnyvale, California, United States",501-1000,IPOed,226500000USD
+https://jfrog.com,JFrog,"Sunnyvale, California, United States",501-1000,Public,226500000USD
 https://joinclubhouse.com,Clubhouse,"San Francisco, California, United States",11-50,Series C,110000000USD
 https://joinlane.com,Lane,"Toronto, Ontario, Canada",51-100,Acquired,13870000USD
 https://jumpcloud.com,JumpCloud,"Louisville, Colorado, United States",251-500,Series F,416717501USD
 https://junilearning.com,Juni Learning,"San Francisco, California, United States",251-500,Series A,11290000USD
 https://junipersquare.com,Juniper Square,"San Francisco, California, United States",101-250,Series C,108000000USD
 https://jwplayer.com,JW Player,"New York, New York, United States",101-250,Series E,170700000USD
-https://kahoot.com,Kahoot!,"Oslo, Oslo, Norway",101-250,IPOed,363886599USD
+https://kahoot.com,Kahoot!,"Oslo, Oslo, Norway",101-250,Public,363886599USD
 https://kaiahealth.com,Kaia Health,"Brooklyn, New York, United States",101-250,Series C,123000000USD
 https://kalderos.com,Kalderos,"Chicago, Illinois, United States",51-100,Series B,35000000USD
 https://kalera.com,Kalera,"Orlando, Florida, United States",51-100,,10000000USD
 https://kandji.io,Kandji,"San Diego, California, United States",51-100,Series B,188375000USD
-https://karunatx.com,Karuna Therapeutics,"Boston, Massachusetts, United States",101-250,IPOed,368600000USD
+https://karunatx.com,Karuna Therapeutics,"Boston, Massachusetts, United States",101-250,Public,368600000USD
 https://katefarms.com,Kate Farms,"Santa Barbara, California, United States",51-100,,113000000USD
 https://khealth.com,K Health,"New York, New York, United States",251-500,Series E,271345000USD
 https://kindbody.com,Kindbody,"New York, New York, United States",101-250,Series C,154659305USD
@@ -531,7 +531,7 @@ https://koho.ca,KOHO Financial,"Toronto, Ontario, Canada",101-250,Series C,27886
 https://komodohealth.com,Komodo Health,"San Francisco, California, United States",251-500,Series E,314000000USD
 https://kraken.com,Kraken,,1001-5000,,
 https://krisp.ai,Krisp,"Berkeley, California, United States",51-100,Series A,17500000USD
-https://kronosbio.com,Kronos Bio,"San Mateo, California, United States",11-50,IPOed,278000000USD
+https://kronosbio.com,Kronos Bio,"San Mateo, California, United States",11-50,Public,278000000USD
 https://kuleana.co,Kuleana,"San Francisco, California, United States",1-10,Seed,21204677USD
 https://kustomer.com,Kustomer,"New York, New York, United States",101-250,Acquired,173500000USD
 https://labelbox.com,Labelbox,"San Francisco, California, United States",101-250,Series C,188900000USD
@@ -544,32 +544,32 @@ https://leetcode.com,LeetCode,"Palo Alto, California, United States",11-50,Serie
 https://legalpad.io,Legalpad,"Seattle, Washington, United States",11-50,Seed,11820000USD
 https://lendio.com,Lendio,"Lehi, Utah, United States",251-500,Series E,108500000USD
 https://lendistry.com,Lendistry,"Brea, California, United States",11-50,,1500000USD
-https://lenovo.com,Lenovo,"Beijing, Beijing, China",10001+,IPOed,850025000USD
+https://lenovo.com,Lenovo,"Beijing, Beijing, China",10001+,Public,850025000USD
 https://letsdeel.com,Deel,,251-500,,
 https://letsgetchecked.com,LetsGetChecked,"New York, New York, United States",501-1000,Series D,263000000USD
 https://level.com,Level,"New York, New York, United States",101-250,Series A,27000000USD
 https://lexion.ai,Lexion,"Seattle, Washington, United States",1-10,Seed,15200000USD
-https://lg.com,LG Electronics,"Seoul, Seoul-t'ukpyolsi, South Korea",10001+,IPOed,
+https://lg.com,LG Electronics,"Seoul, Seoul-t'ukpyolsi, South Korea",10001+,Public,
 https://li.me,Lime,"San Francisco, California, United States",501-1000,,1500000000USD
 https://lifen.fr,Lifen,"Paris, Ile-de-France, France",11-50,Series B,88765346USD
 https://lili.co,Lili,"New York, New York, United States",11-50,Series B,80000000USD
-https://limeade.com,Limeade,"Bellevue, Washington, United States",101-250,IPOed,99868894USD
+https://limeade.com,Limeade,"Bellevue, Washington, United States",101-250,Public,99868894USD
 https://liongard.com,Liongard,"Houston, Texas, United States",51-100,Series B,32750000USD
 https://livefeather.com,Feather,"New York, New York, United States",51-100,,76020000USD
 https://liveouter.com,Outer,"Santa Monica, California, United States",11-50,Series B,64950000USD
 https://loadsmart.com,Loadsmart,"Chicago, Illinois, United States",251-500,Series C,346400000USD
 https://locusrobotics.com,Locus Robotics,"Wilmington, Massachusetts, United States",101-250,Series E,299000000USD
 https://logicgate.com,LogicGate,"Chicago, Illinois, United States",101-250,Series C,156000000USD
-https://logitech.com,Logitech,"Newark, California, United States",5001-10000,IPOed,
+https://logitech.com,Logitech,"Newark, California, United States",5001-10000,Public,
 https://lookout.com,Lookout,"San Francisco, California, United States",251-500,,282339000USD
-https://lordstownmotors.com,Lordstown,"Warren, Ohio, United States",501-1000,IPOed,915080000USD
+https://lordstownmotors.com,Lordstown,"Warren, Ohio, United States",501-1000,Public,915080000USD
 https://lovevery.com,Lovevery,"Boise, Idaho, United States",51-100,Series C,125967047USD
 https://lugg.com,Lugg,"San Francisco, California, United States",1-10,Seed,3900000USD
 https://luigisbox.com,Luigi's Box,"Wilmington, Delaware, United States",251-500,Private,
 https://lullabot.com,Lullabot,"Providence, Rhode Island, United States",51-100,Private,
 https://lumatax.com,LumaTax,"Seattle, Washington, United States",1-10,,11000000USD
 https://lunchbox.io,Lunchbox,"New York, New York, United States",101-250,Series A,72059996USD
-https://lyft.com,Lyft,"San Francisco, California, United States",1001-5000,IPOed,4913606778USD
+https://lyft.com,Lyft,"San Francisco, California, United States",1001-5000,Public,4913606778USD
 https://lyrahealth.com,Lyra Health,"Burlingame, California, United States",501-1000,Series F,910100000USD
 https://m1finance.com,M1 Finance,,251-500,Series E,
 https://magicbell.com,MagicBell,"San Francisco, California, United States",1-10,Seed,4400000USD
@@ -580,11 +580,11 @@ https://mambaby.com,MAM Baby,"Neckarsulm, Baden-Wurttemberg, Germany",11-50,,
 https://mambu.com,Mambu,"Berlin, Berlin, Germany",251-500,Series D,387000000EUR
 https://manticoregames.com,Manticore Games,"San Mateo, California, United States",101-250,Series C,160812151USD
 https://mantl.com,Mantl,"New York, New York, United States",51-100,Series B,62285000USD
-https://marqeta.com,Marqeta,"Oakland, California, United States",501-1000,IPOed,530110000USD
+https://marqeta.com,Marqeta,"Oakland, California, United States",501-1000,Public,530110000USD
 https://masterclass.com,MasterClass,"San Francisco, California, United States",251-500,Series F,461400000USD
 https://materialize.com,Materialize,"New York, New York, United States",11-50,Series B,100500000USD
 https://matillion.com,Matillion,"Manchester, Manchester, United Kingdom",101-250,Series E,310308117USD
-https://mcafee.com,McAfee,"Santa Clara, California, United States",5001-10000,IPOed,
+https://mcafee.com,McAfee,"Santa Clara, California, United States",5001-10000,Public,
 https://medable.com,Medable,"Palo Alto, California, United States",251-500,Series D,506638069USD
 https://medly.com,Medly Pharmacy,"Brooklyn, New York, United States",101-250,Series B,100000000USD
 https://meetsoci.com,SOCi,"San Diego, California, United States",251-500,Series D,117750000USD
@@ -595,9 +595,9 @@ https://mercury.com,Mercury,"San Francisco, California, United States",101-250,S
 https://messagebird.com,MessageBird,"Amsterdam, Noord-Holland, The Netherlands",251-500,Series C,1100120000USD
 https://meticulous.ai,Meticulous,,1-10,Seed,125000USD
 https://metronome.com,Metronome,"San Francisco, California, United States",11-50,Series A,35000000USD
-https://microsoft.com,Microsoft,"Redmond, Washington, United States",10001+,IPOed,1000000USD
+https://microsoft.com,Microsoft,"Redmond, Washington, United States",10001+,Public,1000000USD
 https://mikmak.com,MikMak,"Brooklyn, New York, United States",101-250,Series A,14000000USD
-https://mimecast.com,Mimecast,"London, England, United Kingdom",1001-5000,IPOed,90244478USD
+https://mimecast.com,Mimecast,"London, England, United Kingdom",1001-5000,Public,90244478USD
 https://mindoula.com,Mindoula Health,"Silver Spring, Maryland, United States",251-500,Series C,42000000USD
 https://mindsdb.com,MindsDB,"Berkeley, California, United States",11-50,Seed,7800000USD
 https://mindsize.com,Mindsize,"San Diego, California, United States",11-50,,
@@ -605,7 +605,7 @@ https://mindtickle.com,Mindtickle,"San Francisco, California, United States",251
 https://misfitsmarket.com,Misfits Market,"Pennsauken, New Jersey, United States",101-250,Series C,526500000USD
 https://missionlane.com,Mission Lane,"San Francisco, California, United States",101-250,,675000000USD
 https://molekule.com,Molekule,"San Francisco, California, United States",101-250,,118549998USD
-https://monday.com,Monday.com,"Tel Aviv, Tel Aviv, Israel",251-500,IPOed,384100000USD
+https://monday.com,Monday.com,"Tel Aviv, Tel Aviv, Israel",251-500,Public,384100000USD
 https://moneytap.com,MoneyTap,"Bangalore, Karnataka, India",101-250,Series B,40300000USD
 https://monogramhealth.com,Monogram Health,"Nashville, Tennessee, United States",101-250,Series B,171999998USD
 https://motorefi.com,MotoRefi,,11-50,Series B,
@@ -624,11 +624,11 @@ https://nasa.gov,NASA,"Washington, District of Columbia, United States",10001+,,
 https://neeva.com,Neeva,"Mountain View, California, United States",51-100,Series B,77500000USD
 https://neighbor.com,Neighbor,"Lehi, Utah, United States",11-50,Series B,65700000USD
 https://neofinancial.com,Neo Financial,"Calgary, Alberta, Canada",101-250,Series B,235757890USD
-https://netapp.com,NetApp,"Sunnyvale, California, United States",10001+,IPOed,
-https://netflix.com,Netflix,"Los Gatos, California, United States",1001-5000,IPOed,121907714724USD
+https://netapp.com,NetApp,"Sunnyvale, California, United States",10001+,Public,
+https://netflix.com,Netflix,"Los Gatos, California, United States",1001-5000,Public,121907714724USD
 https://netlify.com,Netlify,"San Francisco, California, United States",101-250,Series C,212100000USD
 https://neuralink.com,Neuralink,"Fremont, California, United States",101-250,Series C,373000000USD
-https://newrelic.com,New Relic,"San Francisco, California, United States",1001-5000,IPOed,214500000USD
+https://newrelic.com,New Relic,"San Francisco, California, United States",1001-5000,Public,214500000USD
 https://newsbreak.com,NewsBreak,,101-250,Series C,
 https://nexhealth.com,NexHealth,"San Francisco, California, United States",11-50,Series B,177151998USD
 https://nextdns.io,NextDNS,,1-10,,
@@ -636,10 +636,10 @@ https://nextdoor.com,Nextdoor,"San Francisco, California, United States",501-100
 https://nextechar.com,Nextech AR,"Toronto, Ontario, Canada",101-250,,10661780USD
 https://nextinsurance.com,Next Insurance,"Palo Alto, California, United States",251-500,Series E,881000000USD
 https://nextstep.com,NextStep,"Seattle, Washington, United States",11-50,Series A,15550000USD
-https://ni.com,National Instruments,"Austin, Texas, United States",5001-10000,IPOed,
+https://ni.com,National Instruments,"Austin, Texas, United States",5001-10000,Public,
 https://nianticlabs.com,Niantic,"San Francisco, California, United States",101-250,Series C,770000000USD
-https://nikolamotor.com,Nikola,"Phoenix, Arizona, United States",501-1000,IPOed,3186700000USD
-https://nintendo.com,Nintendo,"Redmond, Washington, United States",5001-10000,IPOed,
+https://nikolamotor.com,Nikola,"Phoenix, Arizona, United States",501-1000,Public,3186700000USD
+https://nintendo.com,Nintendo,"Redmond, Washington, United States",5001-10000,Public,
 https://nintex.com,Nintex,"Bellevue, Washington, United States",251-500,Acquired,135000000USD
 https://nori.com,Nori,"Seattle, Washington, United States",1-10,Seed,12420000USD
 https://notarize.com,Notarize,"Boston, Massachusetts, United States",101-250,Series D,213337968USD
@@ -650,9 +650,9 @@ https://npr.com,NPR,"Washington, District of Columbia, United States",501-1000,,
 https://ns1.com,NS1,"New York, New York, United States",101-250,Series D,118350000USD
 https://nuraphone.com,Nura,"Melbourne, Victoria, Australia",51-100,Series A,21866388USD
 https://nuro.ai,Nuro,"Mountain View, California, United States",501-1000,Series D,2132148855USD
-https://nutanix.com,Nutanix,"San Jose, California, United States",5001-10000,IPOed,1148886043USD
+https://nutanix.com,Nutanix,"San Jose, California, United States",5001-10000,Public,1148886043USD
 https://nuvolo.com,Nuvolo,"Paramus, New Jersey, United States",251-500,Series C,56500000USD
-https://nvidia.com,Nvidia,"Santa Clara, California, United States",10001+,IPOed,35000000USD
+https://nvidia.com,Nvidia,"Santa Clara, California, United States",10001+,Public,35000000USD
 https://nydig.com,NYDIG,,101-250,,
 https://nylas.com,Nylas,"San Francisco, California, United States",101-250,Series C,175000000USD
 https://nymbus.com,Nymbus,"Jacksonville, Florida, United States",101-250,,121421264USD
@@ -674,14 +674,14 @@ https://onesignal.com,OneSignal,"San Mateo, California, United States",51-100,,3
 https://onetrust.com,OneTrust,"Atlanta, Georgia, United States",1001-5000,,926386816USD
 https://onezero.com,oneZero,"Cambridge, Massachusetts, United States",11-50,,
 https://onuniverse.com,Universe,"Brooklyn, New York, United States",11-50,Series B,47320000USD
-https://opendoor.com,Opendoor,"San Francisco, California, United States",501-1000,IPOed,1885950000USD
+https://opendoor.com,Opendoor,"San Francisco, California, United States",501-1000,Public,1885950000USD
 https://openly.com,Openly,"Boston, Massachusetts, United States",101-250,Series B,137650000USD
 https://openpath.com,Openpath,"Culver City, California, United States",51-100,Acquired,63000000USD
 https://openspace.ai,OpenSpace,"San Francisco, California, United States",51-100,Series C,191425000USD
 https://opiniion.com,Opiniion,"Lindon, Utah, United States",11-50,Series A,5750000USD
 https://optimize.health,Optimize Health,"Seattle, Washington, United States",11-50,Series A,19100000USD
 https://optimizely.com,Optimizely,"New York, New York, United States",251-500,Acquired,251200000USD
-https://oracle.com,Oracle,"Redwood Shores, California, United States",10001+,IPOed,
+https://oracle.com,Oracle,"Redwood Shores, California, United States",10001+,Public,
 https://orca.security,Orca Security,"Los Angeles, California, United States",101-250,Series C,632000000USD
 https://orcam.com,OrCam,"Jerusalem, Yerushalayim, Israel",51-100,,86400000USD
 https://ossovr.com,Osso VR,"San Francisco, California, United States",101-250,Series B,109222596USD
@@ -696,18 +696,18 @@ https://oxide.computer,Oxide,"Emeryville, California, United States",11-50,Seed,
 https://ozette.com,Ozette,"New York, New York, United States",11-50,Series A,32000000USD
 https://pachyderm.com,Pachyderm,"San Francisco, California, United States",11-50,Series B,28120000USD
 https://packetfabric.com,PacketFabric,"Culver City, California, United States",51-100,,109949999USD
-https://pagerduty.com,PagerDuty,"San Francisco, California, United States",501-1000,IPOed,173600000USD
+https://pagerduty.com,PagerDuty,"San Francisco, California, United States",501-1000,Public,173600000USD
 https://paige.ai,Paige,"New York, New York, United States",101-250,Series C,220000000USD
-https://palantir.com,Palantir Technologies,"Denver, Colorado, United States",1001-5000,IPOed,3017890015USD
-https://panasonic.com,Panasonic,"Kadoma, Osaka, Japan",10001+,IPOed,
-https://pandora.com,Pandora,"Oakland, California, United States",1001-5000,IPOed,750309362USD
+https://palantir.com,Palantir Technologies,"Denver, Colorado, United States",1001-5000,Public,3017890015USD
+https://panasonic.com,Panasonic,"Kadoma, Osaka, Japan",10001+,Public,
+https://pandora.com,Pandora,"Oakland, California, United States",1001-5000,Public,750309362USD
 https://pangea.app,Pangea,"Providence, Rhode Island, United States",1-10,Seed,2985000USD
 https://panic.com,Panic,"Portland, Oregon, United States",1-10,,
 https://panopto.com,Panopto,"Seattle, Washington, United States",101-250,,50863806USD
 https://papaandbarkley.com,Papa & Barkley,"Eureka, California, United States",251-500,,
 https://parallels.com,Parallels,"Renton, Washington, United States",251-500,Acquired,17400000USD
 https://parthenontx.com,Parthenon Therapeutics,"Cambridge, Massachusetts, United States",11-50,Series A,65000000USD
-https://passagebio.com,Passage Bio,"Philadelphia, Pennsylvania, United States",51-100,IPOed,379500000USD
+https://passagebio.com,Passage Bio,"Philadelphia, Pennsylvania, United States",51-100,Public,379500000USD
 https://paymongo.com,PayMongo,"Taguig, Rizal, Philippines",101-250,Series A,45700000USD
 https://paypal.com,PayPal,,10001+,Acquired,
 https://payscale.com,PayScale,"Seattle, Washington, United States",251-500,Acquired,33386478USD
@@ -723,13 +723,13 @@ https://perkinswill.com,Perkins&Will,"Chicago, Illinois, United States",1001-500
 https://petalcard.com,Petal,"New York, New York, United States",101-250,,704600000USD
 https://pharmapacks.com,Pharmapacks,"Islandia, New York, United States",501-1000,,472500000USD
 https://pharmeasy.in,PharmEasy,"Mumbai, Maharashtra, India",501-1000,Series F,1588538857USD
-https://philips.com,Philips,,10001+,IPOed,
+https://philips.com,Philips,,10001+,Public,
 https://photomath.com,Photomath,"San Mateo, California, United States",101-250,Series B,29000000USD
 https://photoroom.com,PhotoRoom,"Paris, Ile-de-France, France",1-10,Seed,125000USD
 https://physna.com,Physna,"Cincinnati, Ohio, United States",11-50,Series B,85000000USD
 https://pillpack.com,PillPack,"Boston, Massachusetts, United States",501-1000,Acquired,93900000USD
 https://pilot.com,Pilot,"San Francisco, California, United States",101-250,Series C,161300000USD
-https://pinterest.com,Pinterest,,1001-5000,IPOed,
+https://pinterest.com,Pinterest,,1001-5000,Public,
 https://pipe.com,Pipe,"Miami, Florida, United States",11-50,,316000000USD
 https://pivotalcommware.com,Pivotal Commware,"Kirkland, Washington, United States",51-100,Series C,99000000USD
 https://pixar.com,Pixar Animation Studios,"Emeryville, California, United States",1001-5000,Acquired,
@@ -744,8 +744,8 @@ https://polleverywhere.com,Poll Everywhere,"San Francisco, California, United St
 https://pomelohealth.ca,Pomelo Health,,101-250,Series B,
 https://pony.ai,Pony.ai,,251-500,Series C,
 https://popmenu.com,Popmenu,,101-250,Series C,
-https://porch.com,Porch,,501-1000,IPOed,
-https://poshmark.com,Poshmark,"Redwood City, California, United States",1001-5000,IPOed,153000000USD
+https://porch.com,Porch,,501-1000,Public,
+https://poshmark.com,Poshmark,"Redwood City, California, United States",1001-5000,Public,153000000USD
 https://postscript.io,Postscript,"San Francisco, California, United States",51-100,Series B,106200000USD
 https://prescryptive.com,Prescryptive,"Washington, District of Columbia, United States",11-50,Series A,26000000USD
 https://primarybid.com,PrimaryBid,"London, England, United Kingdom",51-100,,251962692USD
@@ -762,10 +762,10 @@ https://public.com,Public,"New York, New York, United States",101-250,Series D,3
 https://puppet.com,Puppet,"Portland, Oregon, United States",251-500,,189500000USD
 https://pureelectric.com,Pure Electric,,101-250,,
 https://purespectrum.com,PureSpectrum,"Westlake Village, California, United States",1-10,Series B,24599991USD
-https://purple.com,Purple,"Alpine, Utah, United States",501-1000,IPOed,1980000USD
+https://purple.com,Purple,"Alpine, Utah, United States",501-1000,Public,1980000USD
 https://pursuecare.com,PursueCare,"Middletown, Connecticut, United States",51-100,Series A,12750000USD
 https://qomplx.com,QOMPLX,"Reston, Virginia, United States",101-250,Series A,107043825USD
-https://qualcomm.com,Qualcomm,"San Diego, California, United States",10001+,IPOed,
+https://qualcomm.com,Qualcomm,"San Diego, California, United States",10001+,Public,
 https://qualia.com,Qualia,"San Francisco, California, United States",251-500,Series D,160000000USD
 https://qualified.com,Qualified,"San Francisco, California, United States",51-100,Series B,163000000USD
 https://qualio.com,Qualio,"San Francisco, California, United States",101-250,Series B,66242233USD
@@ -775,18 +775,18 @@ https://quartile.com,Quartile,"New York, New York, United States",11-50,,
 https://questdb.io,QuestDB,"San Francisco, California, United States",1-10,Series A,14300000USD
 https://qumulo.com,Qumulo,"Seattle, Washington, United States",251-500,Series E,347300000USD
 https://qure.ai,Qure,"Mumbai, Maharashtra, India",11-50,,60331847USD
-https://rackspace.com,Rackspace,"San Antonio, Texas, United States",1001-5000,IPOed,17800000USD
+https://rackspace.com,Rackspace,"San Antonio, Texas, United States",1001-5000,Public,17800000USD
 https://radpowerbikes.com,Rad Power Bikes,"Seattle, Washington, United States",251-500,,329320365USD
 https://ramp.com,Ramp,,101-250,,
 https://rapidapi.com,RapidAPI,"San Francisco, California, United States",101-250,Series C,272500000USD
 https://razorpay.com,Razorpay,"Bangalore, Karnataka, India",1001-5000,Series E,816309769USD
 https://reachdesk.com,Reachdesk,"New York, New York, United States",11-50,Series B,49000000USD
 https://readme.com,ReadMe,"San Francisco, California, United States",11-50,Series A,10120000USD
-https://realpage.com,RealPage,"Richardson, Texas, United States",1001-5000,IPOed,105044577USD
+https://realpage.com,RealPage,"Richardson, Texas, United States",1001-5000,Public,105044577USD
 https://recroom.com,Rec Room,"Seattle, Washington, United States",101-250,Series D,294000000USD
 https://redcanary.com,Red Canary,"Denver, Colorado, United States",101-250,Series C,129850010USD
 https://reddit.com,Reddit,,501-1000,Series E,
-https://redfin.com,Redfin,"Seattle, Washington, United States",1001-5000,IPOed,319620000USD
+https://redfin.com,Redfin,"Seattle, Washington, United States",1001-5000,Public,319620000USD
 https://redhat.com,RedHat,"Raleigh, North Carolina, United States",5001-10000,Acquired,
 https://redislabs.com,Redis Labs,,251-500,,
 https://reflect.run,Reflect,"Philadelphia, Pennsylvania, United States",1-10,Seed,1900000USD
@@ -806,7 +806,7 @@ https://republic.co,Republic,,101-250,Series B,
 https://residenthome.com,Resident,"Mountain View, California, United States",101-250,Series B,169200000USD
 https://respeecher.com,Respeecher,"Kyiv, Kyyiv, Ukraine",11-50,Seed,1500000USD
 https://retool.com,Retool,"San Francisco, California, United States",11-50,Series C,141000000USD
-https://revance.com,Revance,"Newark, California, United States",101-250,IPOed,1489226000USD
+https://revance.com,Revance,"Newark, California, United States",101-250,Public,1489226000USD
 https://revenuecat.com,RevenueCat,"San Francisco, California, United States",11-50,Series B,56500000USD
 https://ribbonhealth.com,Ribbon Health,"New York, New York, United States",51-100,Series B,53800000USD
 https://ridwell.com,Ridwell,"Portland, Oregon, United States",501-1000,,
@@ -818,23 +818,23 @@ https://ro.co,Ro,"New York, New York, United States",251-500,Series D,1026100000
 https://robinhood.com,Robinhood,"Menlo Park, California, United States",1001-5000,,6174623000USD
 https://roblox.com,Roblox,,1001-5000,Series H,
 https://rokt.com,Rokt,"New York, New York, United States",251-500,,487000000USD
-https://roku.com,Roku,"Los Gatos, California, United States",1001-5000,IPOed,208609000USD
-https://romeopower.com,Romeo Power,"Los Angeles, California, United States",51-100,IPOed,866583872USD
+https://roku.com,Roku,"Los Gatos, California, United States",1001-5000,Public,208609000USD
+https://romeopower.com,Romeo Power,"Los Angeles, California, United States",51-100,Public,866583872USD
 https://rover.com,Rover,"Seattle, Washington, United States",5001-10000,Series G,360900000USD
 https://rstudio.com,RStudio,"Boston, Massachusetts, United States",11-50,Seed,166384540USD
 https://rubrik.com,Rubrik,"Palo Alto, California, United States",1001-5000,,565186000USD
 https://rutter.com,Rutter,"San Francisco, California, United States",11-50,Series A,28500000USD
 https://safegraph.com,SafeGraph,"San Francisco, California, United States",51-100,Series B,61000000USD
 https://safetyculture.com,SafetyCulture,"Townsville, Queensland, Australia",251-500,Series D,223152971USD
-https://salesforce.com,Salesforce,"San Francisco, California, United States",10001+,IPOed,65375124USD
+https://salesforce.com,Salesforce,"San Francisco, California, United States",10001+,Public,65375124USD
 https://salsify.com,Salsify,"Boston, Massachusetts, United States",251-500,Series E,452600000USD
 https://salt.security,Salt Security,"Palo Alto, California, United States",51-100,Series C,271000000USD
 https://saltmine.com,Saltmine,"San Francisco, California, United States",101-250,Series A,20000000USD
 https://sambanova.ai,SambaNova Systems,"Palo Alto, California, United States",251-500,Series D,1141254686USD
 https://samsara.com,Samsara,"San Francisco, California, United States",1001-5000,,930000000USD
-https://samsung.com,Samsung Electronics,,10001+,IPOed,
+https://samsung.com,Samsung Electronics,,10001+,Public,
 https://sanabenefits.com,Sana Benefits,"Austin, Texas, United States",11-50,Series A,106759000USD
-https://sap.com,SAP,"Walldorf, Baden-Wurttemberg, Germany",10001+,IPOed,1301371240USD
+https://sap.com,SAP,"Walldorf, Baden-Wurttemberg, Germany",10001+,Public,1301371240USD
 https://sayweee.com,Weee!,"Fremont, California, United States",101-250,Series D,862750000USD
 https://scale.com,Scale AI,"San Francisco, California, United States",251-500,,602620000USD
 https://scalefast.com,Scalefast,"El Segundo, California, United States",101-250,Series B,32000000USD
@@ -848,7 +848,7 @@ https://seegrid.com,Seegrid,"Pittsburgh, Pennsylvania, United States",251-500,,1
 https://segment.com,Segment,"San Francisco, California, United States",501-1000,Acquired,283720000USD
 https://semios.com,Semios,"Vancouver, British Columbia, Canada",101-250,,215362724USD
 https://semperis.com,Semperis,"Hoboken, New Jersey, United States",51-100,Series B,240000000USD
-https://semrush.com,SEMrush,"Boston, Massachusetts, United States",501-1000,IPOed,40000000USD
+https://semrush.com,SEMrush,"Boston, Massachusetts, United States",501-1000,Public,40000000USD
 https://sendbird.com,SendBird,"San Mateo, California, United States",101-250,,220720000USD
 https://sendgrid.com,SendGrid,"Denver, Colorado, United States",251-500,Acquired,80368000USD
 https://sensortower.com,SensorTower,"San Francisco, California, United States",101-250,,46000000USD
@@ -856,11 +856,11 @@ https://sentinelone.com,SentinelOne,"Mountain View, California, United States",5
 https://sentry.io,Sentry,"San Francisco, California, United States",101-250,Series D,217000000USD
 https://seqera.io,Seqera,"Barcelona, Catalonia, Spain",11-50,Series A,27500000USD
 https://sevenbridges.com,Seven Bridges,"Charlestown, Massachusetts, United States",101-250,Series C,113000000USD
-https://sezzle.com,Sezzle,"Minneapolis, Minnesota, United States",51-100,IPOed,301600000USD
+https://sezzle.com,Sezzle,"Minneapolis, Minnesota, United States",51-100,Public,301600000USD
 https://sharpestminds.com,SharpestMinds,"Toronto, Ontario, Canada",51-100,Seed,120000USD
 https://shelfengine.com,Shelf Engine,"Seattle, Washington, United States",51-100,Series B,58220000USD
 https://shipmonk.com,ShipMonk,"Fort Lauderdale, Florida, United States",1001-5000,,365000000USD
-https://shopify.com,Shopify,"Ottawa, Ontario, Canada",5001-10000,IPOed,122250000USD
+https://shopify.com,Shopify,"Ottawa, Ontario, Canada",5001-10000,Public,122250000USD
 https://shopmonkey.io,Shopmonkey,"San Jose, California, United States",101-250,Series C,110000000USD
 https://sidecarhealth.com,Sidecar Health,"El Segundo, California, United States",51-100,Series C,163000000USD
 https://sifive.com,SiFive,"San Mateo, California, United States",251-500,Series E,365500000USD
@@ -881,13 +881,13 @@ https://slack.com,Slack,"San Francisco, California, United States",1001-5000,Acq
 https://slalom.com,Slalom,"Seattle, Washington, United States",5001-10000,,1700000USD
 https://slicelife.com,Slice,"New York, New York, United States",501-1000,Series D,124999996USD
 https://slintel.com,Slintel,"Mountain View, California, United States",101-250,Acquired,26000000USD
-https://smartrent.com,SmartRent,"Scottsdale, Arizona, United States",101-250,IPOed,256500000USD
-https://smartsheet.com,Smartsheet,"Bellevue, Washington, United States",501-1000,IPOed,152212627USD
+https://smartrent.com,SmartRent,"Scottsdale, Arizona, United States",101-250,Public,256500000USD
+https://smartsheet.com,Smartsheet,"Bellevue, Washington, United States",501-1000,Public,152212627USD
 https://smilecdr.com,Smile CDR,"Toronto, Ontario, Canada",51-100,Series A,20000000USD
 https://snapchat.com,Snapchat,,1001-5000,Series F,
 https://snapdocs.com,Snapdocs,"San Francisco, California, United States",101-250,Series D,253000054USD
 https://snapnurse.com,SnapNurse,"Atlanta, Georgia, United States",251-500,,33016348USD
-https://snowflake.com,Snowflake,"San Mateo, California, United States",1001-5000,IPOed,2079355548USD
+https://snowflake.com,Snowflake,"San Mateo, California, United States",1001-5000,Public,2079355548USD
 https://snyk.io,Snyk,"Boston, Massachusetts, United States",501-1000,Series F,849500000USD
 https://social27.com,Social27,"Redmond, Washington, United States",101-250,,1000000USD
 https://socure.com,Socure,"Incline Village, Nevada, United States",101-250,,646900000USD
@@ -896,8 +896,8 @@ https://solidatus.com,Solidatus,"London, England, United Kingdom",11-50,Series A
 https://solidfi.com,Solid,"San Mateo, California, United States",51-100,Series A,17820000USD
 https://sondermind.com,SonderMind,"Denver, Colorado, United States",251-500,Series C,183035000USD
 https://songtradr.com,Songtradr,"Santa Monica, California, United States",101-250,Series D,101240000USD
-https://sonos.com,Sonos,"Santa Barbara, California, United States",251-500,IPOed,455150000USD
-https://sony.com,Sony,,10001+,IPOed,
+https://sonos.com,Sonos,"Santa Barbara, California, United States",251-500,Public,455150000USD
+https://sony.com,Sony,,10001+,Public,
 https://sourcegraph.com,Sourcegraph,,101-250,Series D,
 https://spacex.com,SpaceX,"Hawthorne, California, United States",5001-10000,,9610343846USD
 https://span.io,Span,"San Francisco, California, United States",51-100,,133800000USD
@@ -908,11 +908,11 @@ https://spiff.com,Spiff,"Sandy, Utah, United States",101-250,Series B,62000000US
 https://splashfinancial.com,Splash Financial,"Cleveland, Ohio, United States",51-100,Series B,60900000USD
 https://splashtop.com,Splashtop,"San Jose, California, United States",101-250,Series E,114000000USD
 https://splunk.com,Splunk,"San Francisco, California, United States",1001-5000,,2440000000USD
-https://spotify.com,Spotify,"Stockholm, Stockholms Lan, Sweden",5001-10000,IPOed,2085424679USD
+https://spotify.com,Spotify,"Stockholm, Stockholms Lan, Sweden",5001-10000,Public,2085424679USD
 https://springhealth.com,Spring Health,"New York, New York, United States",251-500,Series C,295500000USD
 https://springhillcompany.com,SpringHill Company,"Los Angeles, California, United States",51-100,,100000000USD
 https://sproutel.com,Sproutel,"Providence, Rhode Island, United States",1-10,,886000USD
-https://squareup.com,Square,"San Francisco, California, United States",1001-5000,IPOed,601166807USD
+https://squareup.com,Square,"San Francisco, California, United States",1001-5000,Public,601166807USD
 https://stability.ai,Stability AI,"London, England, United Kingdom",11-50,Seed,89000000GBP
 https://stackline.com,Stackline,"Seattle, Washington, United States",11-50,Series B,180000000USD
 https://starburst.io,Starburst,"Boston, Massachusetts, United States",101-250,Series C,414000000USD
@@ -920,7 +920,7 @@ https://startengine.com,StartEngine,,51-100,Seed,
 https://statespace.gg,Statespace,"New York, New York, United States",11-50,Series C,102105126USD
 https://steadyhq.com,Steady,"Berlin, Berlin, Germany",11-50,Series A,5225000EUR
 https://steadymd.com,SteadyMD,"St Louis, Missouri, United States",101-250,Series B,35000000USD
-https://stitchfix.com,Stitch Fix,"San Francisco, California, United States",1001-5000,IPOed,79350773USD
+https://stitchfix.com,Stitch Fix,"San Francisco, California, United States",1001-5000,Public,79350773USD
 https://stockx.com,StockX,"Detroit, Michigan, United States",1001-5000,,690000000USD
 https://stord.com,Stord,"Atlanta, Georgia, United States",101-250,Series D,325039990USD
 https://strategybox.com,StrategyBox,"Vancouver, British Columbia, Canada",1-10,Seed,2000000USD
@@ -929,7 +929,7 @@ https://streem.com,Streem,"Portland, Oregon, United States",11-50,Acquired,10481
 https://stripe.com,Stripe,"San Francisco, California, United States",1001-5000,Series H,2335600000USD
 https://strivehealth.com,Strive Health,"Denver, Colorado, United States",101-250,Series B,220000000USD
 https://substack.com,Substack,"San Francisco, California, United States",51-100,Series B,82420000USD
-https://sunnova.com,Sunnova,"Houston, Texas, United States",101-250,IPOed,2305000000USD
+https://sunnova.com,Sunnova,"Houston, Texas, United States",101-250,Public,2305000000USD
 https://supabase.com,Supabase,"San Francisco, California, United States",101-250,Series B,116100000USD
 https://supergoop.com,Supergoop,"San Antonio, Texas, United States",51-100,Series B,
 https://superhuman.com,Superhuman,"San Francisco, California, United States",101-250,Series C,108000000USD
@@ -944,7 +944,7 @@ https://synchron.com,Synchron,"New York, New York, United States",11-50,Series B
 https://syngspace.com,Syng,"Venice, California, United States",,Series A,48750000USD
 https://synology.com,Synology,"Taipei, T'ai-pei, Taiwan",501-1000,,
 https://tablevibe.co,Tablevibe,"Singapore, Central Region, Singapore",1-10,Seed,1600000USD
-https://taboola.com,Taboola,"New York, New York, United States",1001-5000,IPOed,445000000USD
+https://taboola.com,Taboola,"New York, New York, United States",1001-5000,Public,445000000USD
 https://tackle.io,Tackle,"Boise, Idaho, United States",51-100,Series B,148250000USD
 https://talyn.com,Talyn,"Los Angeles, California, United States",1-10,Seed,6300000USD
 https://tanium.com,Tanium,"Kirkland, Washington, United States",1001-5000,,1049991919USD
@@ -959,9 +959,9 @@ https://tekion.com,Tekion,"Pleasanton, California, United States",1001-5000,Seri
 https://telegram.org,Telegram Messenger,"Dubai, Dubai, United Arab Emirates",11-50,,2700000000USD
 https://telerik.com,Telerik,"Sofia, Grad Sofiya, Bulgaria",501-1000,Acquired,
 https://tempo.fit,Tempo,"San Francisco, California, United States",101-250,Series C,298800000USD
-https://teradata.com,Teradata,"San Diego, California, United States",10001+,IPOed,
+https://teradata.com,Teradata,"San Diego, California, United States",10001+,Public,
 https://terminus.com,Terminus,"Atlanta, Georgia, United States",101-250,,170600000USD
-https://tesla.com,Tesla,"Austin, Texas, United States",10001+,IPOed,20182508761USD
+https://tesla.com,Tesla,"Austin, Texas, United States",10001+,Public,20182508761USD
 https://tesorio.com,Tesorio,"San Francisco, California, United States",11-50,Series A,33902965USD
 https://tetrascience.com,TetraScience,"Boston, Massachusetts, United States",51-100,Series B,99145000USD
 https://textio.com,Textio,"Seattle, Washington, United States",101-250,,42499972USD
@@ -974,7 +974,7 @@ https://thoughtspot.com,ThoughtSpot,"Sunnyvale, California, United States",501-1
 https://thrasio.com,Thrasio,,1001-5000,,
 https://thredup.com,ThredUp,"Oakland, California, United States",501-1000,Series F,304120000USD
 https://thriveworks.com,Thriveworks,"Lynchburg, Virginia, United States",501-1000,,
-https://ti.com,Texas Instruments,"Dallas, Texas, United States",10001+,IPOed,1500000000USD
+https://ti.com,Texas Instruments,"Dallas, Texas, United States",10001+,Public,1500000000USD
 https://tigerbeetle.com,TigerBeetle,"San Francisco, California, United States",1-10,Seed,6400000USD
 https://tigergraph.com,TigerGraph,"Redwood City, California, United States",101-250,Series C,171696269USD
 https://tiktok.com,TikTok,"Los Angeles, California, United States",251-500,,
@@ -991,22 +991,22 @@ https://tripadvisor.com,TripAdvisor,"Needham, Massachusetts, United States",5001
 https://truebill.com,Truebill,"Silver Spring, Maryland, United States",101-250,Series D,83900000USD
 https://truepill.com,Truepill,,251-500,,
 https://truework.com,Truework,"San Francisco, California, United States",51-100,Series B,44900000USD
-https://trulia.com,Trulia,"San Francisco, California, United States",501-1000,IPOed,255100000USD
+https://trulia.com,Trulia,"San Francisco, California, United States",501-1000,Public,255100000USD
 https://trulieve.com,Trulieve,,1001-5000,,
 https://truststamp.ai,Trust Stamp,"Atlanta, Georgia, United States",51-100,Series A,29513000USD
 https://trypura.com,Pura,"Orem, Utah, United States",51-100,Seed,4400000USD
-https://tscan.com,TScan Therapeutics,"Waltham, Massachusetts, United States",51-100,IPOed,137500000USD
+https://tscan.com,TScan Therapeutics,"Waltham, Massachusetts, United States",51-100,Public,137500000USD
 https://turntide.com,Turntide,,101-250,,
 https://turo.com,Turo,"San Francisco, California, United States",251-500,Series E,502567273USD
-https://twilio.com,Twilio,"San Francisco, California, United States",1001-5000,IPOed,614415525USD
+https://twilio.com,Twilio,"San Francisco, California, United States",1001-5000,Public,614415525USD
 https://twitch.tv,Twitch,"San Francisco, California, United States",5001-10000,Acquired,35000000USD
-https://twitter.com,Twitter,"San Francisco, California, United States",5001-10000,IPOed,5680191511USD
+https://twitter.com,Twitter,"San Francisco, California, United States",5001-10000,Public,5680191511USD
 https://typingdna.com,TypingDNA,"New York, New York, United States",11-50,Series A,8920000USD
 https://tytocare.com,TytoCare,"New York, New York, United States",101-250,Series D,156700000USD
-https://uber.com,Uber,"San Francisco, California, United States",10001+,IPOed,25212450000USD
-https://ubisoft.com,Ubisoft,"Montreuil-sous-bois, Ile-de-France, France",5001-10000,IPOed,770650631USD
+https://uber.com,Uber,"San Francisco, California, United States",10001+,Public,25212450000USD
+https://ubisoft.com,Ubisoft,"Montreuil-sous-bois, Ile-de-France, France",5001-10000,Public,770650631USD
 https://udaan.com,Udaan,"Bangalore, Karnataka, India",5001-10000,Series D,1478468863USD
-https://ui.com,Ubiquiti Networks,"San Jose, California, United States",501-1000,IPOed,
+https://ui.com,Ubiquiti Networks,"San Jose, California, United States",501-1000,Public,
 https://uipath.com,UiPath,"New York, New York, United States",1001-5000,Series F,1993025000USD
 https://unbounce.com,Unbounce,"Vancouver, British Columbia, Canada",101-250,Series A,39147612USD
 https://uniphore.com,Uniphore,"Palo Alto, California, United States",251-500,Series D,620875000USD
@@ -1017,7 +1017,7 @@ https://unwrap.ai,Unwrap,"Santa Barbara, California, United States",1-10,Seed,32
 https://upchieve.org,UPchieve,"New York, New York, United States",,Seed,
 https://upgrade.com,Upgrade,"San Francisco, California, United States",251-500,Series F,587000000USD
 https://upkey.com,Upkey,"Chicago, Illinois, United States",501-1000,Seed,3000000USD
-https://uplandsoftware.com,Upland Software,"Austin, Texas, United States",1001-5000,IPOed,836376300USD
+https://uplandsoftware.com,Upland Software,"Austin, Texas, United States",1001-5000,Public,836376300USD
 https://uptycs.com,Uptycs,"Waltham, Massachusetts, United States",101-250,Series C,93000000USD
 https://urbint.com,Urbint,"New York, New York, United States",51-100,Series C,109000000USD
 https://usebraintrust.com,Braintrust,"San Jose, California, United States",51-100,,123500000USD
@@ -1043,14 +1043,14 @@ https://visbymedical.com,Visby Medical,"San Jose, California, United States",251
 https://vivun.com,Vivun,"Oakland, California, United States",51-100,Series B,131000000USD
 https://voice.com,Voice,,101-250,,
 https://volansi.com,Volansi,"Concord, California, United States",51-100,Series B,75120000USD
-https://voltacharging.com,Volta Charging,"San Francisco, California, United States",101-250,IPOed,575647795USD
+https://voltacharging.com,Volta Charging,"San Francisco, California, United States",101-250,Public,575647795USD
 https://vorbio.com,Vor Biopharma,"Cambridge, Massachusetts, United States",51-100,Series B,152000000USD
 https://vsco.co,VSCO,"Oakland, California, United States",101-250,Series B,90000000USD
 https://vts.com,VTS,"New York, New York, United States",51-100,Series D,337360000USD
 https://wacom.com,Wacom,"Kazo, Saitama, Japan",1001-5000,,
 https://wandb.ai,Weights & Biases,"San Francisco, California, United States",11-50,Series C,200000000USD
 https://wasabi.com,Wasabi,"Boston, Massachusetts, United States",101-250,Series C,286236648USD
-https://wayfair.com,Wayfair,"Boston, Massachusetts, United States",5001-10000,IPOed,1678000000USD
+https://wayfair.com,Wayfair,"Boston, Massachusetts, United States",5001-10000,Public,1678000000USD
 https://waze.com,Waze,"Palo Alto, California, United States",51-100,Acquired,67050000USD
 https://wealthsimple.com,Wealthsimple,"Toronto, Ontario, Canada",251-500,,900409434USD
 https://webflow.com,Webflow,"San Francisco, California, United States",251-500,Series B,334900000USD
@@ -1059,20 +1059,20 @@ https://wellsaidlabs.com,WellSaid,"Seattle, Washington, United States",1-10,,100
 https://whatsapp.com,WhatsApp,"Santa Clara, California, United States",1001-5000,Acquired,60250000USD
 https://whoop.com,WHOOP,"Boston, Massachusetts, United States",501-1000,Series F,404751000USD
 https://whylabs.ai,WhyLabs,"Seattle, Washington, United States",11-50,Series A,14000000USD
-https://winc.com,Winc,,51-100,IPOed,
-https://wish.com,Wish,"San Francisco, California, United States",1001-5000,IPOed,1638700000USD
+https://winc.com,Winc,,51-100,Public,
+https://wish.com,Wish,"San Francisco, California, United States",1001-5000,Public,1638700000USD
 https://wiz.io,Wiz,"Tel Aviv, Tel Aviv, Israel",101-250,Series C,600000000USD
 https://wizards.com,Wizards of the Coast,,251-500,Acquired,
 https://woflow.com,Woflow,"San Francisco, California, United States",11-50,Seed,10925000USD
 https://wordpress.com,WordPress,"San Francisco, California, United States",101-250,,
 https://workato.com,Workato,"Mountain View, California, United States",251-500,Series D,415000000USD
-https://workiva.com,Workiva,"Ames, Iowa, United States",1001-5000,IPOed,55583497USD
+https://workiva.com,Workiva,"Ames, Iowa, United States",1001-5000,Public,55583497USD
 https://wrench.com,Wrench,"Seattle, Washington, United States",1-10,,38693099USD
 https://wyndly.com,Wyndly,"New York, New York, United States",1-10,Seed,
 https://wyze.com,Wyze,"Kirkland, Washington, United States",101-250,Series A,155000000USD
 https://xometry.com,Xometry,"Gaithersburg, Maryland, United States",251-500,Series E,197200000USD
 https://yellow.ai,Yellow Messenger,"San Mateo, California, United States",251-500,Series C,102150000USD
-https://yelp.com,Yelp,"San Francisco, California, United States",10001+,IPOed,56000000USD
+https://yelp.com,Yelp,"San Francisco, California, United States",10001+,Public,56000000USD
 https://yoodli.ai,Yoodli,"Seattle, Washington, United States",1-10,Seed,7000000USD
 https://yotpo.com,Yotpo,"New York, New York, United States",251-500,,436000000USD
 https://youthtothepeople.com,Youth To The People,"Los Angeles, California, United States",,,2000000USD
@@ -1081,16 +1081,16 @@ https://yugabyte.com,Yugabyte,"Sunnyvale, California, United States",251-500,Ser
 https://zanbato.com,Zanbato,"Mountain View, California, United States",11-50,,53144552USD
 https://zapier.com,Zapier,"San Francisco, California, United States",251-500,,1362949USD
 https://zenbusiness.com/v2,ZenBusiness,,51-100,Series B,
-https://zendesk.com,Zendesk,"San Francisco, California, United States",1001-5000,IPOed,85500000USD
+https://zendesk.com,Zendesk,"San Francisco, California, United States",1001-5000,Public,85500000USD
 https://zenoti.com,Zenoti,"Bellevue, Washington, United States",251-500,Series D,331000000USD
-https://zentalis.com,Zentalis Pharmaceuticals,"New York, New York, United States",101-250,IPOed,517100000USD
+https://zentalis.com,Zentalis Pharmaceuticals,"New York, New York, United States",101-250,Public,517100000USD
 https://zerofox.com,ZeroFox,"Baltimore, Maryland, United States",101-250,Series D,154200000USD
 https://zestmoney.in,ZestMoney,"Bangalore, Karnataka, India",101-250,,120908827USD
-https://zillow.com,Zillow,"Seattle, Washington, United States",5001-10000,IPOed,96627980USD
-https://zip.co,Zip,"Sydney, New South Wales, Australia",501-1000,IPOed,893557988USD
+https://zillow.com,Zillow,"Seattle, Washington, United States",5001-10000,Public,96627980USD
+https://zip.co,Zip,"Sydney, New South Wales, Australia",501-1000,Public,893557988USD
 https://zipari.com,Zipari,"Brooklyn, New York, United States",101-250,,45000000USD
 https://ziplyfiber.com,Ziply Fiber,"Everett, Washington, United States",11-50,Acquired,
 https://zipwhip.com,Zipwhip,"Seattle, Washington, United States",101-250,Series D,91100000USD
 https://zocdoc.com,Zocdoc,"New York, New York, United States",501-1000,,375900000USD
-https://zoom.us,Zoom,"San Jose, California, United States",1001-5000,IPOed,276000000USD
+https://zoom.us,Zoom,"San Jose, California, United States",1001-5000,Public,276000000USD
 https://zoomcare.com,ZoomCare,"Portland, Oregon, United States",501-1000,,
