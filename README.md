@@ -9,7 +9,7 @@ Thanks to those who have given words of advice over the past months to guide fut
 ## JobSort Query Language (JSQL)
 
 ```
-[-]STRING [[-]lang:STRING] [[-]tech:STRING] [[-]company:STRING] [[-]stage:STRING] [[-]hq:STRING] [remote:ok] [days:<UINT] [size:<UINT] [sort:datetime|random|rank|traffic]
+[-]STRING [[-]lang:STRING] [[-]tech:STRING] [[-]company:STRING] [[-]stage:STRING] [[-]hq:STRING] [remote:ok] [date:<UINT] [size:>UINT] [sort:datetime|random|rank|traffic]
 ```
 
 The `-` operator negates the meaning of the filter. For example, when searching for `java`, most search engines also return less relevant `javascript` hits. Thus, search for [`java -javascript`](https://jobsort.com/search?q=java+-javascript) to filter out `javascript` hits when looking for `java` jobs.
@@ -24,7 +24,7 @@ Filter Syntax | Filter Examples
 `[-]hq:` for company headquarters; see [companies.csv](companies.csv) | [`hq:california -hq:'san francisco'`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
 `size:<`, `size:>` for number of employees | [`size:<100`](https://jobsort.com/search?q=size:<100), [`size:>100`](https://jobsort.com/search?q=size:>100), [`size:>100 size:<1000`](https://jobsort.com/search?q=size:>100+size:<1000)
 `remote:` for remote jobs; must be `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
-`days:<` for recency | [`days:<7`](https://jobsort.com/search?q=days:<7)
+`date:<`, `date:>` for job published date; must be in days | [`date:<7`](https://jobsort.com/search?q=date:<7)
 `sort:` for sorting; must be `datetime`, `random`, `rank`, `traffic` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:random`](https://jobsort.com/search?q=sort:random), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic), [`sort:rank`](https://jobsort.com/search?q=sort:rank) (default)
 
 Note that if a filter value contains whitespace, the value must be wrapped between `'` or `"`; either works, but examples herein use single quotes rather than double quotes.
