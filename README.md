@@ -23,8 +23,8 @@ Filter Syntax | Filter Examples
 `[-]stage:` for startup stages; see [stages.txt](stages.txt) | [`stage:seed`](https://jobsort.com/search?q=stage:seed'), [`stage:'series a'`](https://jobsort.com/search?q=stage:'series+a'), [`stage:'series b'`](https://jobsort.com/search?q=stage:'series+b'), [`stage:'series c'`](https://jobsort.com/search?q=stage:'series+c')
 `[-]hq:` for company headquarters; see [companies.csv](companies.csv) | [`hq:california -hq:'san francisco'`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
 `size:<`, `size:>` for number of employees | [`size:<100`](https://jobsort.com/search?q=size:<100), [`size:>100`](https://jobsort.com/search?q=size:>100), [`size:>100 size:<1000`](https://jobsort.com/search?q=size:>100+size:<1000)
-`remote:` for remote jobs; must be `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
 `date:<`, `date:>` for job published date; must be in days | [`date:<7`](https://jobsort.com/search?q=date:<7)
+`remote:` for remote jobs; must be `ok` | [`remote:ok`](https://jobsort.com/search?q=remote:ok)
 `sort:` for sorting; must be `datetime`, `random`, `rank`, `traffic` | [`sort:datetime`](https://jobsort.com/search?q=sort:datetime), [`sort:random`](https://jobsort.com/search?q=sort:random), [`sort:traffic`](https://jobsort.com/search?q=sort:traffic), [`sort:rank`](https://jobsort.com/search?q=sort:rank) (default)
 
 Note that if a filter value contains whitespace, the value must be wrapped between `'` or `"`; either works, but examples herein use single quotes rather than double quotes.
