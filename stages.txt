@@ -5,6 +5,6 @@ Series C
 Series D
 Series E
 Series F
-IPOed
-Acquired
+Public
 Private
+Acquired
