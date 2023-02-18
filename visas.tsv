@@ -1,0 +1,2 @@
+name	regex
+h1b	\b(H-1B|H1-B|H1B)\b
