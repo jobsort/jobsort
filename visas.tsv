@@ -1,2 +1,3 @@
 name	regex
 h1b	\b(H-1B|H1-B|H1B)\b
+h3	\b(H-3|H3)\b
