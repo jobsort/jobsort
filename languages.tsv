@@ -6,7 +6,6 @@ AppleScript	\bAppleScript\b
 Assembly	\bAssembly\b
 AssemblyScript	\bAssemblyScript\b
 Bash	\bBash\b
-Basic	\bBasic\b
 Brainfuck	\bBrainfuck\b
 C	[\s/,;]C[\s/.,;]
 C#	\bC#
@@ -61,7 +60,6 @@ Kusto	\bKusto\b
 LabView	\bLabView\b
 LadderLogic	\bLadderLogic\b
 LaTeX	\bLaTeX\b
-Less	\bLess\b
 LINGO	\bLINGO\b
 Lisp	\b(Lisp|LISP)\b
 LiveScript	\bLiveScript\b
@@ -90,7 +88,6 @@ PHP	\bPHP\b
 PL/SQL	\bPL\/SQL\b
 Pony	\bPony\b
 PowerShell	\bPowerShell\b
-Processing	\bProcessing\b
 Prolog	\bProlog\b
 ProtoBuf	\bProtoBuf\b
 Pug	\bPug\b
