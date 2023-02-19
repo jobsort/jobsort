@@ -9,7 +9,7 @@ Thanks to those who have given words of advice over the past months to guide fut
 ## JobSort Query Language (JSQL)
 
 ```
-[-]STRING [-]lang:STRING [-]tech:STRING [-]company:STRING [-]stage:STRING [-]hq:STRING date:<UINT size:>UINT remote:ok sort:datetime|random|rank|traffic
+[-]STRING [-]lang:STRING [-]tech:STRING [-]visa:STRING [-]company:STRING [-]stage:STRING [-]hq:STRING date:<UINT size:>UINT remote:ok sort:datetime|random|rank|traffic
 ```
 
 The `-` operator negates the meaning of the filter. For example, when searching for `java`, most search engines also return less relevant `javascript` hits. Thus, search for [`java -javascript`](https://jobsort.com/search?q=java+-javascript) to filter out `javascript` hits when looking for `java` jobs.
@@ -19,7 +19,7 @@ Filter Syntax | Filter Examples
 `KEYWORD`, `-KEYWORD` | [`java`](https://jobsort.com/search?q=java), [`java -javascript`](https://jobsort.com/search?q=java+-javascript)
 `lang:`, `-lang:` for programming languages; see [languages.tsv](languages.tsv) | [`lang:go`](https://jobsort.com/search?q=lang:go), [`frontend -lang:php`](https://jobsort.com/search?q=frontend+-lang:php)
 `tech:`, `-tech:` for tech stacks; see [technologies.tsv](technologies.tsv) | [`tech:django`](https://jobsort.com/search?q=tech:django), [`sysadmin -tech:linux`](https://jobsort.com/search?q=sysadmin+-tech:linux)
-`visa:`, `-visa:` for visa sponsorship; see [visas.tsv](visas.tsv) | [`visa:h1b`](https://jobsort.com/search?q=visa:h1b) (US full-time employee), [`visa:h3`](https://jobsort.com/search?q=visa:h3) (US internship)
+`visa:`, `-visa:` for visa sponsorship; see [visas.tsv](visas.tsv) | [`visa:h1b`](https://jobsort.com/search?q=visa:h1b) (US full-time employee)
 `company:`, `-company:` for company names; see [companies.csv](companies.csv) | [`company:apple`](https://jobsort.com/search?q=company:apple), [`company:'epic games'`](https://jobsort.com/search?q=company:'epic+games')
 `stage:`, `-stage:` for startup stages; see [stages.txt](stages.txt) | [`stage:seed`](https://jobsort.com/search?q=stage:seed'), [`stage:'series a'`](https://jobsort.com/search?q=stage:'series+a'), [`stage:'series b'`](https://jobsort.com/search?q=stage:'series+b'), [`stage:'series c'`](https://jobsort.com/search?q=stage:'series+c'), [`-stage:public`](https://jobsort.com/search?q=-stage:public)
 `hq:`, `-hq:` for company headquarters; see [companies.csv](companies.csv) | [`hq:california -hq:'san francisco'`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
