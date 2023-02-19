@@ -1,6 +1,6 @@
 name	regex
-E-3	\bE-3\b
-F-1	\bF-1\b
-H-1B	\bH-1B\b
-H-3	\bH-3\b
-J-1	\bJ-1\b
+E3	\bE-3\b
+F1	\bF-1\b
+H1B	\bH-1B\b
+H3	\bH-3\b
+J1	\bJ-1\b
