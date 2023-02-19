@@ -38,3 +38,10 @@ Note that if a filter value contains whitespace, the value must be wrapped betwe
 *   [`hq:california -hq:"san francisco"`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco') for when you want to find a job somewhere in `California` but living in `San Francisco` is just too expensive.
 *   [`size:<100`](https://jobsort.com/search?q=size:<100) if you like working in small companies with less than 100 employees.
 *   [`size:>1000`](https://jobsort.com/search?q=size:>1000) if you like working in large companies with more than 1000 employees.
+
+## Visa Sponsorship
+
+### United States Immigration
+
+*   H1-B visa is for full-time employees (FTE); see [H-1B visa on Wikipedia](https://en.wikipedia.org/wiki/H-1B_visa)
+*   H-3 visa is for internships; see [H-3 visa on Wikipedia](https://en.wikipedia.org/wiki/H-3_visa)
