@@ -11,3 +11,4 @@ jobs:
           cat companies.csv | grep -v "^#" | tail -n +2 | sort -c -f
           cat languages.tsv | grep -v "^#" | tail -n +2 | sort -c -f
           cat technologies.tsv | grep -v "^#" | tail -n +2 | sort -c -f
+          cat visas.tsv | grep -v "^#" | tail -n +2 | sort -c -f
