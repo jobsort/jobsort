@@ -45,6 +45,7 @@ Note that if a filter value contains whitespace, the value must be wrapped betwe
 
 *   H-1B visa is for full-time employees (FTE); see [H-1B visa on Wikipedia](https://en.wikipedia.org/wiki/H-1B_visa)
 *   E-3 visa is similar to H-1B but only for Australian citizens; see [E-3 visa on Wikipedia](https://en.wikipedia.org/wiki/E-3_visa)
+*   TN visa is similar to H-1B but only for Canadian citizens or nationals of Mexico; see [TN status on Wikipedia](https://en.wikipedia.org/wiki/TN_status)
 *   H-3 visa is for internships; see [H-3 visa on Wikipedia](https://en.wikipedia.org/wiki/H-3_visa)
 *   F-1 visa is for full-time students; see [F-1 visa on Wikipedia](https://en.wikipedia.org/wiki/F_visa)
 *   J-1 visa is for researchers, professors, and exchange visitors; see [J-1 visa on Wikipedia](https://en.wikipedia.org/wiki/J-1_visa)
