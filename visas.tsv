@@ -1,7 +1,7 @@
 name	regex
+# TN	\bTN\b
 E3	\bE-3\b
 F1	\bF-1\b
 H1B	\bH-1B\b
 H3	\bH-3\b
 J1	\bJ-1\b
-TN	\bTN\b
