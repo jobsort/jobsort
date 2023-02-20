@@ -1,5 +1,4 @@
 name	regex
-# TN	\bTN\b
 E3	\bE-3\b
 F1	\bF-1\b
 H1B	\bH-1B\b
