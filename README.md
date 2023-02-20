@@ -19,7 +19,7 @@ Filter Syntax | Filter Examples
 `KEYWORD`, `-KEYWORD` | [`java`](https://jobsort.com/search?q=java), [`java -javascript`](https://jobsort.com/search?q=java+-javascript)
 `lang:`, `-lang:` for programming languages; see [languages.tsv](languages.tsv) | [`lang:go`](https://jobsort.com/search?q=lang:go), [`frontend -lang:php`](https://jobsort.com/search?q=frontend+-lang:php)
 `tech:`, `-tech:` for tech stacks; see [technologies.tsv](technologies.tsv) | [`tech:django`](https://jobsort.com/search?q=tech:django), [`sysadmin -tech:linux`](https://jobsort.com/search?q=sysadmin+-tech:linux)
-`visa:`, `-visa:` for visa sponsorship; see [visas.tsv](visas.tsv) | [`visa:h1b`](https://jobsort.com/search?q=visa:h1b) (US full-time employee)
+`visa:`, `-visa:` for visa sponsorship; see [visas.tsv](visas.tsv) | [`visa:h1b`](https://jobsort.com/search?q=visa:h1b) (FTE[^fte]), [`visa:f1`](https://jobsort.com/search?q=visa:f1) (student)
 `company:`, `-company:` for company names; see [companies.csv](companies.csv) | [`company:apple`](https://jobsort.com/search?q=company:apple), [`company:'epic games'`](https://jobsort.com/search?q=company:'epic+games')
 `stage:`, `-stage:` for startup stages; see [stages.txt](stages.txt) | [`stage:seed`](https://jobsort.com/search?q=stage:seed'), [`stage:'series a'`](https://jobsort.com/search?q=stage:'series+a'), [`stage:'series b'`](https://jobsort.com/search?q=stage:'series+b'), [`stage:'series c'`](https://jobsort.com/search?q=stage:'series+c'), [`-stage:public`](https://jobsort.com/search?q=-stage:public)
 `hq:`, `-hq:` for company headquarters; see [companies.csv](companies.csv) | [`hq:california -hq:'san francisco'`](https://jobsort.com/search?q=hq:california+-hq:'san+francisco')
@@ -49,3 +49,5 @@ Note that if a filter value contains whitespace, the value must be wrapped betwe
 *   F-1 visa is for full-time students; see [F-1 visa on Wikipedia](https://en.wikipedia.org/wiki/F_visa)
 *   J-1 visa is for researchers, professors, and exchange visitors; see [J-1 visa on Wikipedia](https://en.wikipedia.org/wiki/J-1_visa)
 *   TN visa is similar to H-1B but only for Canadian citizens or nationals of Mexico; see [TN status on Wikipedia](https://en.wikipedia.org/wiki/TN_status)
+
+[^fte]: full-time employee (FTE)
