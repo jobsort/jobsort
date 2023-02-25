@@ -7,6 +7,7 @@ fte,full-time employee
 gem,group engineering manager
 gm,general manager
 gpt,generative pretrained transformer
+latam,latin america
 nyc,new york city
 pm,program manager,product manager
 principal,staff
