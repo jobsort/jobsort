@@ -48,5 +48,6 @@ Note that if a filter value contains whitespace, the value must be wrapped betwe
 *   H-3 visa is for internships; see [H-3 visa on Wikipedia](https://en.wikipedia.org/wiki/H-3_visa)
 *   F-1 visa is for full-time students; see [F-1 visa on Wikipedia](https://en.wikipedia.org/wiki/F_visa)
 *   J-1 visa is for researchers, professors, and exchange visitors; see [J-1 visa on Wikipedia](https://en.wikipedia.org/wiki/J-1_visa)
+*   L-1 visa is for employees of an international company with offices in both the United States and abroad; see [L-1 visa on Wikipedia](https://en.wikipedia.org/wiki/L-1_visa)
 
 [^fte]: full-time employee (FTE)
