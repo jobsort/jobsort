@@ -5,6 +5,10 @@ Series C
 Series D
 Series E
 Series F
+Series G
+Series H
+Series I
+Series J
 Public
 Private
 Acquired
