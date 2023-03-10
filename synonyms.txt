@@ -1,11 +1,11 @@
-backend,back-end
+backend,back end
 ceo,chief executive officer
 coo,chief operating officer
 cto,chief technical officer
 cvp,corporate vice president
 evp,executive vice president
-frontend,front-end
-fte,full-time employee
+frontend,front end
+fte,full time employee
 gem,group engineering manager
 gm,general manager
 gpt,generative pretrained transformer
