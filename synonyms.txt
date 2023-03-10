@@ -2,6 +2,8 @@ backend,back-end
 ceo,chief executive officer
 coo,chief operating officer
 cto,chief technical officer
+cvp,corporate vice president
+evp,executive vice president
 frontend,front-end
 fte,full-time employee
 gem,group engineering manager
@@ -16,5 +18,8 @@ sde,software development engineer
 sdet,software development engineer in test
 seo,search engine optimization
 sre,site reliability engineer
+svp,senior vice president
 sysadmin,system administrator
 tpm,technical program manager
+vlsi,very large scale integration
+vp,vice president
