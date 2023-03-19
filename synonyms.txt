@@ -1,5 +1,7 @@
 backend,back end
+cdn,content delivery network
 ceo,chief executive officer
+cms,content management system
 coo,chief operating officer
 cto,chief technical officer
 cvp,corporate vice president
