@@ -1,4 +1,4 @@
-backend,back end
+backend,back-end
 cdn,content delivery network
 ceo,chief executive officer
 cms,content management system
@@ -6,7 +6,7 @@ coo,chief operating officer
 cto,chief technical officer
 cvp,corporate vice president
 evp,executive vice president
-frontend,front end
+frontend,front-end
 fte,full time employee
 gem,group engineering manager
 gm,general manager
