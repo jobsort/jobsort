@@ -389,10 +389,10 @@ https://cprime.com,Cprime,"San Mateo, California, United States",251-500,,
 https://creatopy.com,Creatopy,"San Francisco, California, United States",101-250,,
 https://creator.rest,Creator,"San Francisco, California, United States",11-50,,18732183USD
 https://cred.club,CRED,,251-500,Series D,
-https://credPR.com,cred,"San Francisco, California, United States",11-50,,
 https://credera.com,Credera,"Addison, Texas, United States",251-500,,
 https://creditas.com,Creditas,"Sao Paulo, Sao Paulo, Brazil",1001-5000,,1053950000USD
 https://creditkarma.com,Credit Karma,"San Francisco, California, United States",501-1000,Acquired,868000000USD
+https://credpr.com,cred,"San Francisco, California, United States",11-50,,
 https://crescentpark.com,Crescent Park,"West Chester, Ohio, United States",251-500,,
 https://crescolabs.com,Cresco Labs,"Chicago, Illinois, United States",501-1000,Public,522502402USD
 https://cribl.io,Cribl,"San Francisco, California, United States",101-250,Series C,402208560USD
@@ -512,7 +512,7 @@ https://earnin.com,EarnIn,"Palo Alto, California, United States",101-250,Series 
 https://easyknock.com,EasyKnock,"New York, New York, United States",11-50,Series B,401700000USD
 https://easypost.com,EasyPost,"Lehi, Utah, United States",251-500,Series B,88700000USD
 https://eatbanza.com,Banza,"Detroit, Michigan, United States",1-10,Series B,28800000USD
-https://business.ebanx.com,EBANX,"Curitiba, Parana, Brazil",501-1000,Series B,460000000USD
+https://ebanx.com,EBANX,"Curitiba, Parana, Brazil",501-1000,Series B,460000000USD
 https://ebay.com,eBay,"San Jose, California, United States",10001+,Public,6700000USD
 https://ecobee.com,ecobee,"Toronto, Ontario, Canada",251-500,Series C,149432237USD
 https://ecocart.io,EcoCart,"San Francisco, California, United States",11-50,Series A,17500000USD
@@ -546,7 +546,7 @@ https://equityzen.com,EquityZen,,11-50,,
 https://erasca.com,Erasca,"San Diego, California, United States",101-250,Public,400000000USD
 https://ergatta.com,Ergatta,"Brooklyn, New York, United States",11-50,Series A,35270000USD
 https://ergeon.com,Ergeon,"Palo Alto, California, United States",251-500,Series B,40000000USD
-https://us.escada.com,Escada,"Mountain View, California, United States",,,
+https://escada.com,Escada,"Mountain View, California, United States",,,
 https://espres.so,espresso,"Sydney, New South Wales, Australia",11-50,,
 https://estimote.com,Estimote,"New York, New York, United States",11-50,Series A,29633260USD
 https://etleap.com,Etleap,"San Francisco, California, United States",11-50,Seed,1600000USD
@@ -768,7 +768,7 @@ https://hellotend.com,Tend,"New York, New York, United States",251-500,Series C,
 https://heroku.com,Heroku,"San Francisco, California, United States",51-100,Acquired,13020000USD
 https://hevodata.com,Hevo Data,"San Francisco, California, United States",101-250,Series A,43000000USD
 https://hey.car,Heycar,"Berlin, Berlin, Germany",101-250,,
-https://hire.heyjobs.co,HeyJobs,"Berlin, Berlin, Germany",101-250,Series B,62000000USD
+https://heyjobs.co,HeyJobs,"Berlin, Berlin, Germany",101-250,Series B,62000000USD
 https://hibu.com,Hibu,"Cedar Rapids, Iowa, United States",10001+,,
 https://hicapitalize.com,Capitalize,"New York, New York, United States",1-10,Series A,14500000USD
 https://highmetric.com,Highmetric,"New York, New York, United States",51-100,,
@@ -1114,8 +1114,8 @@ https://neeva.com,Neeva,"Mountain View, California, United States",51-100,Series
 https://neighbor.com,Neighbor,"Lehi, Utah, United States",11-50,Series B,65700000USD
 https://neighbourlytics.com,Neighbourlytics,"North Melbourne, Victoria, Australia",11-50,Seed,2586147USD
 https://neofinancial.com,Neo Financial,"Calgary, Alberta, Canada",101-250,Series B,235757890USD
-https://neon.tech,Neon,"Menlo Park, California, United States",11-50,Series A,30000000USD
 https://neon-free.ch,Neon,"Zurich, Zurich, Switzerland",11-50,,36633018USD
+https://neon.tech,Neon,"Menlo Park, California, United States",11-50,Series A,30000000USD
 https://neowiz.com,Neowiz,"Bundangdong, Kyonggi-do, South Korea",1-10,,
 https://nesto.ca,Nesto,"Montreal, Quebec, Canada",101-250,Series C,151354383USD
 https://netapp.com,NetApp,"Sunnyvale, California, United States",10001+,Public,
@@ -1159,7 +1159,7 @@ https://noyo.com,Noyo,"San Francisco, California, United States",11-50,Series A,
 https://npr.com,NPR,"Washington, District of Columbia, United States",501-1000,,21700000USD
 https://ns1.com,NS1,"New York, New York, United States",101-250,Series D,118350000USD
 https://nubank.com.br,Nubank,"Sao Paulo, Sao Paulo, Brazil",5001-10000,Public,4057602393USD
-https://en.numeris.ca,Numeris,"Toronto, Ontario, Canada",501-1000,,
+https://numeris.ca,Numeris,"Toronto, Ontario, Canada",501-1000,,
 https://nuraphone.com,Nura,"Melbourne, Victoria, Australia",51-100,Series A,21866388USD
 https://nuro.ai,Nuro,"Mountain View, California, United States",501-1000,Series D,2132148855USD
 https://nutanix.com,Nutanix,"San Jose, California, United States",5001-10000,Public,1148886043USD
@@ -1220,7 +1220,6 @@ https://orca.security,Orca Security,"Los Angeles, California, United States",101
 https://orcam.com,OrCam,"Jerusalem, Yerushalayim, Israel",51-100,,86400000USD
 https://orderultra.com,Ultra,"New York, New York, United States",1-10,,
 https://ossovr.com,Osso VR,"San Francisco, California, United States",101-250,Series B,109222596USD
-https://p.ota.to,Potato,"London, England, United Kingdom",101-250,,
 https://ouihelp.fr,Ouihelp,"Paris, Ile-de-France, France",51-100,Series B,33420000EUR
 https://ouster.com,Ouster,"San Francisco, California, United States",251-500,,282000000USD
 https://outdoorvoices.com,Outdoor Voices,"Austin, Texas, United States",101-250,,64424999USD
@@ -1267,7 +1266,6 @@ https://pbsc.co.uk,PBSC,"Mirfield, York, United Kingdom",11-50,,
 https://peakmetrics.com,PeakMetrics,"Los Angeles, California, United States",1-10,,2620000USD
 https://peek.com,Peek,"San Francisco, California, United States",101-250,Series B,119900000USD
 https://peerspace.com,Peerspace,"San Francisco, California, United States",11-50,,34800000USD
-https://pelion.com,Pelion,,,,
 https://pelotongroup.com,Peloton,"Boston, Massachusetts, United States",51-100,,
 https://pendo.io,Pendo,"Raleigh, North Carolina, United States",501-1000,,469500000USD
 https://pennylane.tech,Pennylane,"Paris, Ile-de-France, France",101-250,Series B,69000000EUR
@@ -1297,7 +1295,7 @@ https://pier-marketing.com,Pier,"Felixstowe, Suffolk, United Kingdom",1-10,,
 https://pigment.today,Pigment,"Sint-katelijne-waver, Antwerpen, Belgium",1-10,,
 https://pillpack.com,PillPack,"Boston, Massachusetts, United States",501-1000,Acquired,93900000USD
 https://pilot.com,Pilot,"San Francisco, California, United States",101-250,Series C,161300000USD
-https://en.pinkoi.com,Pinkoi,"Taipei, T'ai-pei, Taiwan",101-250,,9000000USD
+https://pinkoi.com,Pinkoi,"Taipei, T'ai-pei, Taiwan",101-250,,9000000USD
 https://pinterest.com,Pinterest,,1001-5000,Public,
 https://pipe.com,Pipe,"Miami, Florida, United States",11-50,,316000000USD
 https://pipe17.com,Pipe17,"Seattle, Washington, United States",11-50,,8000000USD
@@ -1362,8 +1360,8 @@ https://pumpkin-app.com,Pumpkin,"Laille, Bretagne, France",11-50,Series A,179500
 https://puppet.com,Puppet,"Portland, Oregon, United States",251-500,,189500000USD
 https://pureelectric.com,Pure Electric,,101-250,,
 https://purespectrum.com,PureSpectrum,"Westlake Village, California, United States",1-10,Series B,24599991USD
-https://purple.com,Purple,"Alpine, Utah, United States",501-1000,Public,1980000USD
 https://purple-technology.com,Purple Technology,"Brno, Jihomoravsky kraj, Czech Republic",51-100,,
+https://purple.com,Purple,"Alpine, Utah, United States",501-1000,Public,1980000USD
 https://pursuecare.com,PursueCare,"Middletown, Connecticut, United States",51-100,Series A,12750000USD
 https://pythian.com,Pythian,"Ottawa, Ontario, Canada",251-500,,21000000USD
 https://q-ctrl.com,Q-CTRL,"Haymarket, New South Wales, Australia",51-100,Series B,70771923USD
@@ -1435,7 +1433,7 @@ https://ressac.com,Ressac,"Montreal, Quebec, Canada",11-50,,
 https://restaurant365.com,Restaurant365,"Irvine, California, United States",251-500,Series C,127500000USD
 https://retool.com,Retool,"San Francisco, California, United States",11-50,Series C,141000000USD
 https://retorio.com,Retorio,"Munich, Bayern, Germany",1-10,Seed,
-https://corporate.retro.jp,retro,"Tokyo, Tokyo, Japan",11-50,,100000000JPY
+https://retro.jp,retro,"Tokyo, Tokyo, Japan",11-50,,100000000JPY
 https://revance.com,Revance,"Newark, California, United States",101-250,Public,1489226000USD
 https://revenuecat.com,RevenueCat,"San Francisco, California, United States",51-100,Series B,56500000USD
 https://revolut.com,Revolut,"London, England, United Kingdom",1001-5000,,1710939790USD
@@ -1647,7 +1645,7 @@ https://substack.com,Substack,"San Francisco, California, United States",51-100,
 https://suitsupply.com,Suitsupply,"Amsterdam, Noord-Holland, The Netherlands",5001-10000,Private,
 https://sundevs.com,SunDevs,"Miami, Florida, United States",101-250,,
 https://sunnova.com,Sunnova,"Houston, Texas, United States",101-250,Public,2305000000USD
-https://us.sunpower.com,SunPower,"San Jose, California, United States",1001-5000,Public,184500000USD
+https://sunpower.com,SunPower,"San Jose, California, United States",1001-5000,Public,184500000USD
 https://supabase.com,Supabase,"San Francisco, California, United States",101-250,Series B,116100000USD
 https://superblocks.com,Superblocks,"Stockholm, Stockholms Lan, Sweden",1-10,,7500000SEK
 https://supergoop.com,Supergoop,"San Antonio, Texas, United States",51-100,,
@@ -1767,7 +1765,7 @@ https://tridge.com,Tridge,"Seoul, Seoul-t'ukpyolsi, South Korea",501-1000,Series
 https://tripadvisor.com,Tripadvisor,"Needham, Massachusetts, United States",1001-5000,Public,303300000USD
 https://tripalink.com,Tripalink,"Los Angeles, California, United States",51-100,Series B,48000000USD
 https://trolley.link,Trolley,"London, England, United Kingdom",1-10,,
-https://shop.tropicfeel.com,Tropicfeel,"Barcelona, Catalonia, Spain",11-50,Seed,10672000EUR
+https://tropicfeel.com,Tropicfeel,"Barcelona, Catalonia, Spain",11-50,Seed,10672000EUR
 https://truebill.com,Truebill,"Silver Spring, Maryland, United States",101-250,Series D,83900000USD
 https://truelayer.com,TrueLayer,"London, England, United Kingdom",251-500,Series E,271484591USD
 https://truepill.com,Truepill,,251-500,,
@@ -1846,7 +1844,7 @@ https://vgw.co,VGW,"Perth, Western Australia, Australia",501-1000,,
 https://vhsys.com.br,VHSYS,"Sao Jose Dos Pinhais, Parana, Brazil",51-100,Series B,
 https://via.com.tw,VIA Technologies,"Taipei, T'ai-pei, Taiwan",1001-5000,,
 https://viabill.com,ViaBill,"Aarhus, Midtjylland, Denmark",51-100,,177287226USD
-https://corporate.viamericas.com,Viamericas,"Bethesda, Maryland, United States",251-500,,6000000USD
+https://viamericas.com,Viamericas,"Bethesda, Maryland, United States",251-500,,6000000USD
 https://vida.com,Vida Health,"San Francisco, California, United States",501-1000,Series D,188000000USD
 https://vidmob.com,VidMob,"New York, New York, United States",101-250,Series C,121646783USD
 https://viessmann.de,Viessmann,"Allendorf-eder, Hessen, Germany",10001+,,
