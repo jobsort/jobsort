@@ -57,5 +57,5 @@ Note that if a filter value contains whitespace, the value must be wrapped betwe
 
 ### Coding
 
-*   [Leetcode](https://leetcode.com)
-*   [Project Euler](https://projecteuler.net)
+*   [Leetcode](https://leetcode.com); please find solutions to hundreds of problems at [/leetcode](/leetcode)
+*   [Project Euler](https://projecteuler.net); please find a small set of solutions at [/projecteuler](/projecteuler)
