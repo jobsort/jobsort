@@ -52,3 +52,10 @@ Note that if a filter value contains whitespace, the value must be wrapped betwe
 *   O-1 visa is for those with extraordinary abilities; see [O-1 visa on Wikipedia](https://en.wikipedia.org/wiki/O_visa)
 
 [^fte]: full-time employee (FTE)
+
+## Interview Preparation
+
+### Coding
+
+*   [Leetcode](https://leetcode.com)
+*   [Project Euler](https://projecteuler.net)
