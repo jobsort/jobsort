@@ -1,11 +1,3 @@
----
-name: "Rearrange Spaces Between Words"
-title: "LeetCode Rearrange Spaces Between Words Solution"
-description: "Solution for the rearrange spaces between words problem from LeetCode."
-published: "2023-02-27 PDT"
-modified: "2023-02-27 PDT"
----
-
 # Rearrange Spaces Between Words Problem & Solution
 
 See the [rearrange spaces between words problem on LeetCode](https://leetcode.com/problems/rearrange-spaces-between-words).

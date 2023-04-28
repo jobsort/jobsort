@@ -1,11 +1,3 @@
----
-name: "Insert Delete GetRandom O(1)"
-title: "LeetCode Insert Delete GetRandom O(1) Solution"
-description: "Solution for the insert delete getrandom O(1) problem from LeetCode."
-published: "2023-02-13 PDT"
-modified: "2023-02-13 PDT"
----
-
 # Insert Delete GetRandom O(1) Problem & Solution
 
 See the [insert delete getrandom O(1) problem on LeetCode](https://leetcode.com/problems/insert-delete-getrandom-o1).

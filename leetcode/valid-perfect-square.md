@@ -1,11 +1,3 @@
----
-name: "Valid Perfect Square"
-title: "LeetCode Valid Perfect Square Solution"
-description: "Solution for the valid perfect square problem from LeetCode."
-published: "2021-07-03 PDT"
-modified: "2021-07-03 PDT"
----
-
 # Valid Perfect Square Problem & Solution
 
 Given a positive integer `num`, write a function which returns True if `num` is a perfect square else False.

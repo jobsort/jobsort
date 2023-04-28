@@ -1,11 +1,3 @@
----
-name: "Range Sum of BST"
-title: "LeetCode Range Sum of BST Solution"
-description: "Solution for given the root node of a binary search tree and two integers low and high, return the sum of values of all nodes with a value in the inclusive range [low, high]."
-published: "2021-11-30 PDT"
-modified: "2021-11-30 PDT"
----
-
 # Range Sum of BST Problem & Solution
 
 Given the `root` node of a binary search tree and two integers `low` and `high`, return the sum of values of all nodes with a value in the inclusive range `[low, high]`.

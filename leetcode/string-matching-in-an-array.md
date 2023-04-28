@@ -1,11 +1,3 @@
----
-name: "String Matching in an Array"
-title: "LeetCode String Matching in an Array Solution"
-description: "Solution for given an array of string words. Return all strings in words which is substring of another word in any order.  String words[i] is substring of words[j], if can be obtained removing some characters to left and/or right side of words[j]."
-published: "2021-08-31 PDT"
-modified: "2021-08-31 PDT"
----
-
 # String Matching in an Array Problem & Solution
 
 Given an array of string `words`.

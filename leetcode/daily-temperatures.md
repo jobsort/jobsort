@@ -1,11 +1,3 @@
----
-name: "Daily Temperatures"
-title: "LeetCode Daily Temperatures Solution"
-description: "Solution for the daily temperatures problem from LeetCode."
-published: "2023-02-01 PDT"
-modified: "2023-02-01 PDT"
----
-
 # Daily Temperatures Problem & Solution
 
 See the [daily temperatures problem on LeetCode](https://leetcode.com/problems/daily-temperatures).

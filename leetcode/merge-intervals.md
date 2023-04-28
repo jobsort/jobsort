@@ -1,11 +1,3 @@
----
-name: "Merge Intervals"
-title: "LeetCode Merge Intervals Solution"
-description: "Solution for the merge intervals problem from LeetCode."
-published: "2023-01-16 PDT"
-modified: "2023-01-16 PDT"
----
-
 # Merge Intervals Problem & Solution
 
 See the [merge intervals problem on LeetCode](https://leetcode.com/problems/merge-intervals).

@@ -1,11 +1,3 @@
----
-name: "Find the Pivot Integer"
-title: "LeetCode Find the Pivot Integer Solution"
-description: "Solution for the find the pivot integer problem from LeetCode."
-published: "2022-11-27 PDT"
-modified: "2022-11-27 PDT"
----
-
 # Find the Pivot Integer Problem & Solution
 
 See the [find the pivot integer problem on LeetCode](https://leetcode.com/problems/find-the-pivot-integer).

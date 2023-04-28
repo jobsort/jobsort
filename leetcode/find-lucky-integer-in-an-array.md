@@ -1,11 +1,3 @@
----
-name: "Find Lucky Integer in an Array"
-title: "LeetCode Find Lucky Integer in an Array Solution"
-description: "Solution for the find lucky integer in an array problem from LeetCode."
-published: "2022-12-28 PDT"
-modified: "2022-12-28 PDT"
----
-
 # Find Lucky Integer in an Array Problem & Solution
 
 See the [find lucky integer in an array problem on LeetCode](https://leetcode.com/problems/find-lucky-integer-in-an-array).

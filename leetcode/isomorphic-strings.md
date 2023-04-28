@@ -1,11 +1,3 @@
----
-name: "Isomorphic Strings"
-title: "LeetCode Isomorphic Strings Solution"
-description: "Solution for the isomorphic strings problem from LeetCode."
-published: "2021-06-30 PDT"
-modified: "2021-06-30 PDT"
----
-
 # Isomorphic Strings Problem & Solution
 
 Given two strings `s` and `t`, determine if they are isomorphic.

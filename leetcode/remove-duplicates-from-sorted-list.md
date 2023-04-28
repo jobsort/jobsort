@@ -1,11 +1,3 @@
----
-name: "Remove Duplicates from Sorted List"
-title: "LeetCode Remove Duplicates from Sorted List Solution"
-description: "Solution for the remove duplicates from sorted list problem from LeetCode."
-published: "2021-06-02 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Remove Duplicates from Sorted List Problem & Solution
 
 Given the `head` of a sorted linked list, delete all duplicates such that each element appears only once.

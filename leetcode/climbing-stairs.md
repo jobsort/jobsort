@@ -1,11 +1,3 @@
----
-name: "Climbing Stairs"
-title: "LeetCode Climbing Stairs Solution"
-description: "Solution for the climbing stairs problem from LeetCode."
-published: "2021-06-02 PDT"
-modified: "2021-06-18 PDT"
----
-
 # Climbing Stairs Problem & Solution
 
 You are climbing a staircase.

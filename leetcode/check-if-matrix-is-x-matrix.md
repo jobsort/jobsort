@@ -1,11 +1,3 @@
----
-name: "Check if Matrix is X-Matrix"
-title: "LeetCode Check if Matrix is X-Matrix Solution"
-description: "Solution for the check if matrix is x-matrix problem from LeetCode."
-published: "2022-11-25 PDT"
-modified: "2022-11-25 PDT"
----
-
 # Check if Matrix is X-Matrix Problem & Solution
 
 See the [check if matrix is x-matrix problem on LeetCode](https://leetcode.com/problems/check-if-matrix-is-x-matrix).

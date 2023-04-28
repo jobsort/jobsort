@@ -1,11 +1,3 @@
----
-name: "Maximum Number of Balloons"
-title: "LeetCode Maximum Number of Balloons Solution"
-description: "Solution for the maximum number of balloons problem from LeetCode."
-published: "2021-04-01 PDT"
-modified: "2021-04-01 PDT"
----
-
 # Maximum Number of Balloons Problem & Solution
 
 See the [maximum number of balloons problem on LeetCode](https://leetcode.com/problems/maximum-number-of-balloons).

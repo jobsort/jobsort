@@ -1,11 +1,3 @@
----
-name: "Move Zeroes"
-title: "LeetCode Move Zeroes Solution"
-description: "Solution for the move zeroes problem from LeetCode."
-published: "2021-07-12 PDT"
-modified: "2021-07-12 PDT"
----
-
 # Move Zeroes Problem & Solution
 
 Given an integer array `nums`, move all 0's to the end of it while maintaining the relative order of the non-zero elements.

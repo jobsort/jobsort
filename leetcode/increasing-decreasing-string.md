@@ -1,11 +1,3 @@
----
-name: "Increasing Decreasing String"
-title: "LeetCode Increasing Decreasing String Solution"
-description: "Solution for the increasing decreasing string problem from LeetCode."
-published: "2022-04-07 PDT"
-modified: "2022-04-07 PDT"
----
-
 # Increasing Decreasing String Problem & Solution
 
 See the [increasing decreasing string problem on LeetCode](https://leetcode.com/problems/increasing-decreasing-string).

@@ -1,11 +1,3 @@
----
-name: "Container with Most Water"
-title: "LeetCode Container with Most Water Solution"
-description: "Solution for the container with most water problem from LeetCode."
-published: "2022-04-05 PDT"
-modified: "2022-04-05 PDT"
----
-
 # Container with Most Water Problem & Solution
 
 See the [container with most water problem on LeetCode](https://leetcode.com/problems/container-with-most-water).

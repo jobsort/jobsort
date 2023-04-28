@@ -1,11 +1,3 @@
----
-name: "Maximum Count of Positive Integer and Negative Integer"
-title: "LeetCode Maximum Count of Positive Integer and Negative Integer Solution"
-description: "Solution for the maximum count of positive integer and negative integer problem from LeetCode."
-published: "2023-01-26 PDT"
-modified: "2023-01-26 PDT"
----
-
 # Maximum Count of Positive Integer and Negative Integer Problem & Solution
 
 See the [maximum count of positive integer and negative integer problem on LeetCode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer).

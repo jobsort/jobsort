@@ -1,11 +1,3 @@
----
-name: "Search in Rotated Sorted Array"
-title: "LeetCode Search in Rotated Sorted Array Solution"
-description: "Solution for the search in rotated sorted array problem from LeetCode."
-published: "2022-12-22 PDT"
-modified: "2022-12-22 PDT"
----
-
 # Search in Rotated Sorted Array Problem & Solution
 
 See the [search in rotated sorted array problem on LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array).

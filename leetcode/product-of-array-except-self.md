@@ -1,11 +1,3 @@
----
-name: "Product of Array Except Self"
-title: "LeetCode Product of Array Except Self Solution"
-description: "Solution for the product of array except self problem from LeetCode."
-published: "2022-12-21 PDT"
-modified: "2022-12-21 PDT"
----
-
 # Product of Array Except Self Problem & Solution
 
 See the [product of array except self problem on LeetCode](https://leetcode.com/problems/product-of-array-except-self).

@@ -1,11 +1,3 @@
----
-name: "Split a String in Balanced Strings"
-title: "LeetCode Split a String in Balanced Strings Solution"
-description: "Solution for the split a string in balanced strings problem from LeetCode."
-published: "2022-12-16 PDT"
-modified: "2022-12-16 PDT"
----
-
 # Split a String in Balanced Strings Problem & Solution
 
 See the [split a string in balanced strings problem on LeetCode](https://leetcode.com/problems/split-a-string-in-balanced-strings).

@@ -1,11 +1,3 @@
----
-name: "Merge Two Sorted Lists"
-title: "LeetCode Merge Two Sorted Lists Solution"
-description: "Solution for the merge two sorted lists problem from LeetCode."
-published: "2021-05-24 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Merge Two Sorted Lists Problem & Solution
 
 Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.

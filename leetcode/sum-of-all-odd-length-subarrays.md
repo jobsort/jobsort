@@ -1,11 +1,3 @@
----
-name: "Sum of All Odd Length Subarrays"
-title: "LeetCode Sum of All Odd Length Subarrays Solution"
-description: "Solution for the sum of all odd length subarrays problem from LeetCode."
-published: "2023-02-20 PDT"
-modified: "2023-02-20 PDT"
----
-
 # Sum of All Odd Length Subarrays Problem & Solution
 
 See the [sum of all odd length subarrays problem on LeetCode](https://leetcode.com/problems/sum-of-all-odd-length-subarrays).

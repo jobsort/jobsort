@@ -1,11 +1,3 @@
----
-name: "Distribute Candies"
-title: "LeetCode Distribute Candies Solution"
-description: "Solution for the distribute candies problem from LeetCode."
-published: "2021-07-22 PDT"
-modified: "2021-07-22 PDT"
----
-
 # Distribute Candies Problem & Solution
 
 Alice has `n` candies, where the ith candy is of type `candyType[i]`.

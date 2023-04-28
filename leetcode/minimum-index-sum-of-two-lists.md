@@ -1,11 +1,3 @@
----
-name: "Minimum Index Sum of Two Lists"
-title: "LeetCode Minimum Index Sum of Two Lists Solution"
-description: "Solution for the minimum index sum of two lists problem from LeetCode."
-published: "2022-12-02 PDT"
-modified: "2022-12-02 PDT"
----
-
 # Minimum Index Sum of Two Lists Problem & Solution
 
 See the [minimum index sum of two lists problem on LeetCode](https://leetcode.com/problems/minimum-index-sum-of-two-lists).

@@ -1,11 +1,3 @@
----
-name: "Third Maximum Number"
-title: "LeetCode Third Maximum Number Solution"
-description: "Solution for the third maximum number problem from LeetCode."
-published: "2021-07-27 PDT"
-modified: "2021-07-27 PDT"
----
-
 # Third Maximum Number Problem & Solution
 
 Given integer array `nums`, return the third maximum number in this array.

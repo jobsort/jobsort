@@ -1,11 +1,3 @@
----
-name: "Generate Parentheses"
-title: "LeetCode Generate Parentheses Solution"
-description: "Solution for the generate parentheses problem from LeetCode."
-published: "2022-09-13 PDT"
-modified: "2022-09-13 PDT"
----
-
 # Generate Parentheses Problem & Solution
 
 See the [generate parentheses problem on LeetCode](https://leetcode.com/problems/generate-parentheses).

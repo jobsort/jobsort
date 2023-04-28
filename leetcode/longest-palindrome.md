@@ -1,11 +1,3 @@
----
-name: "Longest Palindrome"
-title: "LeetCode Longest Palindrome Solution"
-description: "Solution for the longest palindrome problem from LeetCode."
-published: "2021-07-26 PDT"
-modified: "2021-07-26 PDT"
----
-
 # Longest Palindrome Problem & Solution
 
 Given a string `s` which consists of lowercase or uppercase letters, return the length of the longest palindrome that can be built with those letters.

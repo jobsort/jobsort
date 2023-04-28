@@ -1,11 +1,3 @@
----
-name: "Search in a Binary Search Tree"
-title: "LeetCode Search in a Binary Search Tree Solution"
-description: "Solution for you are given the root of a binary search tree (BST) and an integer val. Find the node in the BST that the node's value equals val and return the subtree rooted with that node. If such a node does not exist, return null."
-published: "2021-08-22 PDT"
-modified: "2021-08-22 PDT"
----
-
 # Search in a Binary Search Tree Problem & Solution
 
 You are given the `root` of a binary search tree (BST) and an integer `val`.

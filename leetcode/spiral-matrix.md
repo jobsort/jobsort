@@ -1,11 +1,3 @@
----
-name: "Spiral Matrix"
-title: "LeetCode Spiral Matrix Solution"
-description: "Solution for the spiral matrix problem from LeetCode."
-published: "2023-01-15 PDT"
-modified: "2023-01-15 PDT"
----
-
 # Spiral Matrix Problem & Solution
 
 See the [spiral matrix problem on LeetCode](https://leetcode.com/problems/spiral-matrix).

@@ -1,11 +1,3 @@
----
-name: "Guess Number Higher or Lower"
-title: "LeetCode Guess Number Higher or Lower Solution"
-description: "Solution for the guess number higher or lower problem from LeetCode."
-published: "2021-07-06 PDT"
-modified: "2021-07-06 PDT"
----
-
 # Guess Number Higher or Lower Problem & Solution
 
 We are playing the Guess Game. The game is as follows:

@@ -1,11 +1,3 @@
----
-name: "Symmetric Tree"
-title: "LeetCode Symmetric Tree Solution"
-description: "Solution for the symmetric tree problem from LeetCode."
-published: "2021-06-03 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Symmetric Tree Problem & Solution
 
 Given the `root` of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).

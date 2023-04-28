@@ -1,11 +1,3 @@
----
-name: "Set Matrix Zeroes"
-title: "LeetCode Set Matrix Zeroes Solution"
-description: "Solution for the set matrix zeroes problem from LeetCode."
-published: "2023-01-14 PDT"
-modified: "2023-01-14 PDT"
----
-
 # Set Matrix Zeroes Problem & Solution
 
 See the [set matrix zeroes problem on LeetCode](https://leetcode.com/problems/set-matrix-zeroes).

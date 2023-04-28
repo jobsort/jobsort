@@ -1,11 +1,3 @@
----
-name: "Find All Numbers Disappeared in an Array"
-title: "LeetCode Find All Numbers Disappeared in an Array Solution"
-description: "Solution for given an array nums of n integers where nums[i] is in the range [1, n], return an array of all the integers in the range [1, n] that do not appear in nums."
-published: "2021-08-08 PDT"
-modified: "2021-08-08 PDT"
----
-
 # Find All Numbers Disappeared in an Array Problem & Solution
 
 Given an array `nums` of `n` integers where `nums[i]` is in the range `[1, n]`, return an array of all the integers in the range `[1, n]` that do not appear in `nums`.

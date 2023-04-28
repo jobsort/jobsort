@@ -1,11 +1,3 @@
----
-name: "Buddy Strings"
-title: "LeetCode Buddy Strings Solution"
-description: "Solution for the buddy strings problem from LeetCode."
-published: "2022-12-29 PDT"
-modified: "2022-12-29 PDT"
----
-
 # Buddy Strings Problem & Solution
 
 See the [buddy strings problem on LeetCode](https://leetcode.com/problems/buddy-strings).

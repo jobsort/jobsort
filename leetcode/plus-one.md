@@ -1,11 +1,3 @@
----
-name: "Plus One"
-title: "LeetCode Plus One Solution"
-description: "Solution for the plus one problem from LeetCode."
-published: "2021-05-29 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Plus One Problem & Solution
 
 Given a non-empty array of decimal digits representing a non-negative integer, increment one to the integer.

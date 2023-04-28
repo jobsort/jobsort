@@ -1,11 +1,3 @@
----
-name: "Binary Search"
-title: "LeetCode Binary Search Solution"
-description: "Solution for given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1. You must write an algorithm with O(log n) runtime complexity."
-published: "2021-08-18 PDT"
-modified: "2021-08-18 PDT"
----
-
 # Binary Search Problem & Solution
 
 Given an array of integers `nums` which is sorted in ascending order, and an integer `target`, write a function to search `target` in `nums`.

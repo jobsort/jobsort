@@ -1,11 +1,3 @@
----
-name: "K Closest Points to Origin"
-title: "LeetCode K Closest Points to Origin Solution"
-description: "Solution for the k closest points to origin problem from LeetCode."
-published: "2023-03-05 PDT"
-modified: "2023-03-05 PDT"
----
-
 # K Closest Points to Origin Problem & Solution
 
 See the [k closest points to origin problem on LeetCode](https://leetcode.com/problems/k-closest-points-to-origin).

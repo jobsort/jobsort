@@ -1,11 +1,3 @@
----
-name: "Implement Queue using Stacks"
-title: "LeetCode Implement Queue using Stacks Solution"
-description: "Solution for the implement queue using stacks problem from LeetCode."
-published: "2023-02-06 PDT"
-modified: "2023-02-06 PDT"
----
-
 # Implement Queue using Stacks Problem & Solution
 
 See the [implement queue using stacks problem on LeetCode](https://leetcode.com/problems/implement-queue-using-stacks).

@@ -1,11 +1,3 @@
----
-name: "Count Pairs of Similar Strings"
-title: "LeetCode Count Pairs of Similar Strings Solution"
-description: "Solution for the count pairs of similar strings problem from LeetCode."
-published: "2023-01-11 PDT"
-modified: "2023-01-11 PDT"
----
-
 # Count Pairs of Similar Strings Problem & Solution
 
 See the [count pairs of similar strings problem on LeetCode](https://leetcode.com/problems/count-pairs-of-similar-strings).

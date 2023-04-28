@@ -1,11 +1,3 @@
----
-name: "Toeplitz Matrix"
-title: "LeetCode Toeplitz Matrix Solution"
-description: "Solution for given an m x n matrix, return true if the matrix is Toeplitz. Otherwise, return false. A matrix is Toeplitz if every diagonal from top-left to bottom-right has the same elements."
-published: "2021-09-06 PDT"
-modified: "2021-09-06 PDT"
----
-
 # Toeplitz Matrix Problem & Solution
 
 Given an `m x n` matrix, return true if the matrix is Toeplitz.

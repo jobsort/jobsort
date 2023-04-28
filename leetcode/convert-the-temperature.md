@@ -1,11 +1,3 @@
----
-name: "Convert the Temperature"
-title: "LeetCode Convert the Temperature Solution"
-description: "Solution for convert the temperature problem from LeetCode."
-published: "2022-11-23 PDT"
-modified: "2022-11-23 PDT"
----
-
 # Convert the Temperature Problem & Solution
 
 See the [convert the temperature problem on LeetCode](https://leetcode.com/problems/convert-the-temperature).

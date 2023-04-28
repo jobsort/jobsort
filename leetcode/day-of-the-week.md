@@ -1,11 +1,3 @@
----
-name: "Day of the Week"
-title: "LeetCode Day of the Week Solution"
-description: "Solution for the day of the week problem from LeetCode."
-published: "2022-12-14 PDT"
-modified: "2022-12-14 PDT"
----
-
 # Day of the Week Problem & Solution
 
 See the [day of the week problem on LeetCode](https://leetcode.com/problems/day-of-the-week).

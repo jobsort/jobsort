@@ -1,11 +1,3 @@
----
-name: "Take Gifts from the Richest Pile"
-title: "LeetCode Take Gifts from the Richest Pile Solution"
-description: "Solution for the take gifts from the richest pile problem from LeetCode."
-published: "2023-02-15 PDT"
-modified: "2023-02-15 PDT"
----
-
 # Take Gifts from the Richest Pile Problem & Solution
 
 See the [take gifts from the richest pile problem on LeetCode](https://leetcode.com/problems/take-gifts-from-the-richest-pile).

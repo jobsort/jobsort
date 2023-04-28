@@ -1,11 +1,3 @@
----
-name: "Top K Frequent Elements"
-title: "LeetCode Top K Frequent Elements Solution"
-description: "Solution for the top k frequent elements problem from LeetCode."
-published: "2023-03-06 PDT"
-modified: "2023-03-06 PDT"
----
-
 # Top K Frequent Elements Problem & Solution
 
 See the [top k frequent elements problem on LeetCode](https://leetcode.com/problems/top-k-frequent-elements).

@@ -1,11 +1,3 @@
----
-name: "Pascal's Triangle"
-title: "LeetCode Pascal's Triangle Solution"
-description: "The solution for Pascal's triangle problem from LeetCode is to initialize the vector of vector of integers for the edge cases of rows equals 1 or 2, and then keep adding up the inner cells to construct the next rows."
-published: "2021-06-07 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Pascal's Triangle Problem & Solution
 
 Given an integer `numRows`, return the first numRows of Pascal's triangle.

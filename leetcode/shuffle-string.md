@@ -1,11 +1,3 @@
----
-name: "Shuffle String"
-title: "LeetCode Shuffle String Solution"
-description: "Solution for the shuffle string problem from LeetCode."
-published: "2023-02-21 PDT"
-modified: "2023-02-21 PDT"
----
-
 # Shuffle String Problem & Solution
 
 See the [shuffle string problem on LeetCode](https://leetcode.com/problems/shuffle-string).

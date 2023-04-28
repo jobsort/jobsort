@@ -1,11 +1,3 @@
----
-name: "First Unique Character in a String"
-title: "LeetCode First Unique Character in a String Solution"
-description: "Solution for the first unique character in a string problem from LeetCode."
-published: "2021-07-20 PDT"
-modified: "2021-07-20 PDT"
----
-
 # First Unique Character in a String Problem & Solution
 
 Given a string `s`, find the first non-repeating character in it and return its index.

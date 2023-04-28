@@ -1,11 +1,3 @@
----
-name: "Delete Node in a Linked List"
-title: "LeetCode Delete Node in a Linked List Solution"
-description: "Solution for write a function to delete a node in a singly-linked list. You will not be given access to the head of the list, instead you will be given access to the node to be deleted directly. It is guaranteed that the node to be deleted is not a tail node in the list."
-published: "2021-07-05 PDT"
-modified: "2021-08-16 PDT"
----
-
 # Delete Node in a Linked List Problem & Solution
 
 Write a function to delete a node in a singly-linked list.

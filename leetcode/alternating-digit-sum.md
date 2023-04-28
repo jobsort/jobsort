@@ -1,11 +1,3 @@
----
-name: "Alternating Digit Sum"
-title: "LeetCode Alternating Digit Sum Solution"
-description: "Solution for the alternating digit sum problem from LeetCode."
-published: "2023-01-23 PDT"
-modified: "2023-01-23 PDT"
----
-
 # Alternating Digit Sum Problem & Solution
 
 See the [alternating digit sum problem on LeetCode](https://leetcode.com/problems/alternating-digit-sum).

@@ -1,11 +1,3 @@
----
-name: "Sort Integers by the Number of 1 Bits"
-title: "LeetCode Sort Integers by the Number of 1 Bits Solution"
-description: "Solution for the sort integers by the number of 1 bits problem from LeetCode."
-published: "2022-03-26 PDT"
-modified: "2022-03-26 PDT"
----
-
 # Sort Integers by the Number of 1 Bits Problem & Solution
 
 See the [sort integers by the number of 1 bits problem on LeetCode](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits).

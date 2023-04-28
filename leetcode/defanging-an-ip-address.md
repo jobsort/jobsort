@@ -1,11 +1,3 @@
----
-name: "Defanging an IP Address"
-title: "LeetCode Defanging an IP Address Solution"
-description: "Solution for the defanging an IP address problem from LeetCode."
-published: "2023-01-05 PDT"
-modified: "2023-01-05 PDT"
----
-
 # Defanging an IP Address Problem & Solution
 
 See the [defanging an IP address problem on LeetCode](https://leetcode.com/problems/defanging-an-ip-address).

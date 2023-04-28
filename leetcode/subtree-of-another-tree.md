@@ -1,11 +1,3 @@
----
-name: "Subtree of Another Tree"
-title: "LeetCode Subtree of Another Tree Solution"
-description: "Solution for given the roots of two binary trees root and subRoot, return true if there is a subtree of root with the same structure and node values of subRoot and false otherwise. A subtree of a binary tree tree is a tree that consists of a node in tree and all of this node's descendants. The tree tree could also be considered as a subtree of itself."
-published: "2021-08-02 PDT"
-modified: "2021-08-02 PDT"
----
-
 # Subtree of Another Tree Problem & Solution
 
 Given the roots of two binary trees `root` and `subRoot`, return true if there is a subtree of `root` with the same structure and node values of `subRoot` and false otherwise.

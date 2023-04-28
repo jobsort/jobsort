@@ -1,11 +1,3 @@
----
-name: "Letter Combinations of a Phone Number"
-title: "LeetCode Letter Combinations of a Phone Number Solution"
-description: "Solution for the letter combinations of a phone number problem from LeetCode."
-published: "2023-01-12 PDT"
-modified: "2023-01-12 PDT"
----
-
 # Letter Combinations of a Phone Number Problem & Solution
 
 See the [letter combinations of a phone number problem on LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number).

@@ -1,11 +1,3 @@
----
-name: "Intersection of Two Linked Lists"
-title: "LeetCode Intersection of Two Linked Lists Solution"
-description: "Solution for the intersection of two linked lists problem from LeetCode."
-published: "2021-06-23 PDT"
-modified: "2021-06-23 PDT"
----
-
 # Intersection of Two Linked Lists Problem & Solution
 
 Given the heads of two singly linked-lists `headA` and `headB`, return the node at which the two lists intersect.

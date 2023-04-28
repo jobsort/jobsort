@@ -1,11 +1,3 @@
----
-name: "Lowest Common Ancestor of a Binary Search Tree"
-title: "LeetCode Lowest Common Ancestor of a Binary Search Tree Solution"
-description: "Solution for the lowest common ancestor of a binary search tree problem from LeetCode."
-published: "2021-07-15 PDT"
-modified: "2021-07-15 PDT"
----
-
 # Lowest Common Ancestor of a Binary Search Tree Problem & Solution
 
 Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.

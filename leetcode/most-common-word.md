@@ -1,11 +1,3 @@
----
-name: "Most Common Word"
-title: "LeetCode Most Common Word Solution"
-description: "Solution for the most common word problem from LeetCode."
-published: "2022-12-03 PDT"
-modified: "2022-12-03 PDT"
----
-
 # Most Common Word Problem & Solution
 
 See the [most common word problem on LeetCode](https://leetcode.com/problems/most-common-word).

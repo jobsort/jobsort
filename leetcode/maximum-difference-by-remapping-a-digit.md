@@ -1,11 +1,3 @@
----
-name: "Maximum Difference by Remapping a Digit"
-title: "LeetCode Maximum Difference by Remapping a Digit Solution"
-description: "Solution for the maximum difference by remapping a digit problem from LeetCode."
-published: "2023-02-19 PDT"
-modified: "2023-02-19 PDT"
----
-
 # Maximum Difference by Remapping a Digit Problem & Solution
 
 See the [maximum difference by remapping a digit problem on LeetCode](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit).

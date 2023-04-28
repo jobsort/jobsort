@@ -1,11 +1,3 @@
----
-name: "Find N Unique Integers Sum up to Zero"
-title: "LeetCode Find N Unique Integers Sum up to Zero Solution"
-description: "Solution for the find n unique integers sum up to zero problem from LeetCode."
-published: "2023-01-03 PDT"
-modified: "2023-01-03 PDT"
----
-
 # Find N Unique Integers Sum up to Zero Problem & Solution
 
 See the [find n unique integers sum up to zero problem on LeetCode](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero).

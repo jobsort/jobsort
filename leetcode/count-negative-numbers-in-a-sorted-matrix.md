@@ -1,11 +1,3 @@
----
-name: "Count Negative Numbers in a Sorted Matrix"
-title: "LeetCode Count Negative Numbers in a Sorted Matrix Solution"
-description: "Solution for the count negative numbers in a sorted matrix problem from LeetCode."
-published: "2022-03-28 PDT"
-modified: "2022-03-28 PDT"
----
-
 # Count Negative Numbers in a Sorted Matrix Problem & Solution
 
 See the [count negative numbers in a sorted matrix problem on LeetCode](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix).

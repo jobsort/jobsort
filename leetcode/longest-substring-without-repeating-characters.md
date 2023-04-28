@@ -1,11 +1,3 @@
----
-name: "Longest Substring without Repeating Characters"
-title: "LeetCode Longest Substring without Repeating Characters Solution"
-description: "Solution for the longest substring without repeating characters problem from LeetCode."
-published: "2022-03-31 PDT"
-modified: "2022-03-31 PDT"
----
-
 # Longest Substring without Repeating Characters Problem & Solution
 
 See the [longest substring without repeating characters problem on LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters).

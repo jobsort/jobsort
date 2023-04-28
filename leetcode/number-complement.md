@@ -1,11 +1,3 @@
----
-name: "Number Complement"
-title: "LeetCode Number Complement Solution"
-description: "Solution for given a positive integer num, output its complement number. The complement strategy is to flip the bits of its binary representation."
-published: "2021-08-01 PDT"
-modified: "2021-08-01 PDT"
----
-
 # Number Complement Problem & Solution
 
 Given a positive integer `num`, output its complement number.

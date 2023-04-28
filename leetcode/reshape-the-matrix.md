@@ -1,11 +1,3 @@
----
-name: "Reshape the Matrix"
-title: "LeetCode Reshape the Matrix Solution"
-description: "Solution for the reshape the matrix problem from LeetCode."
-published: "2021-07-31 PDT"
-modified: "2021-07-31 PDT"
----
-
 # Reshape the Matrix Problem & Solution
 
 In MATLAB, there is a handy function called reshape which can reshape an m x n matrix into a new one with a different size `r` x `c` keeping its original data.

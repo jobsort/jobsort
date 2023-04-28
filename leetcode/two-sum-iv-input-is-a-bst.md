@@ -1,11 +1,3 @@
----
-name: "Two Sum IV - Input is a BST"
-title: "LeetCode Two Sum IV - Input is a BST Solution"
-description: "Solution for given the root of a Binary Search Tree and a target number k, return true if there exist two elements in the BST such that their sum is equal to the given target."
-published: "2021-09-07 PDT"
-modified: "2021-09-07 PDT"
----
-
 # Two Sum IV - Input is a BST Problem & Solution
 
 Given the `root` of a Binary Search Tree and a target number `k`, return true if there exist two elements in the BST such that their sum is equal to the given target.

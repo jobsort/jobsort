@@ -1,11 +1,3 @@
----
-name: "Add Digits"
-title: "LeetCode Add Digits Solution"
-description: "Solution for the add digits problem from LeetCode."
-published: "2021-07-14 PDT"
-modified: "2021-07-14 PDT"
----
-
 # Add Digits Problem & Solution
 
 Given an integer `num`, repeatedly add all its digits until the result has only one digit, and return it.

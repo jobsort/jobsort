@@ -1,11 +1,3 @@
----
-name: "Binary Tree Paths"
-title: "LeetCode Binary Tree Paths Solution"
-description: "Solution for the binary tree paths problem from LeetCode."
-published: "2021-07-14 PDT"
-modified: "2021-07-14 PDT"
----
-
 # Binary Tree Paths Problem & Solution
 
 Given the `root` of a binary tree, return all root-to-leaf paths in any order.

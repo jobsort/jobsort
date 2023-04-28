@@ -1,11 +1,3 @@
----
-name: "Roman to Integer"
-title: "LeetCode Roman to Integer Solution"
-description: "Solution for the roman to integer problem from LeetCode."
-published: "2021-05-30 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Roman to Integer Problem & Solution
 
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.

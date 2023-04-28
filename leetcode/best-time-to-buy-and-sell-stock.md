@@ -1,11 +1,3 @@
----
-name: "Best Time to Buy and Sell Stock"
-title: "LeetCode Best Time to Buy and Sell Stock Solution"
-description: "Solution for the best time to buy and sell stock problem from LeetCode."
-published: "2021-06-09 PDT"
-modified: "2021-06-10 PDT"
----
-
 # Best Time to Buy and Sell Stock Problem & Solution
 
 You are given an array `prices` where `prices[i]` is the price of a given stock on the `i`th day.

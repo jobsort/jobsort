@@ -1,11 +1,3 @@
----
-name: "Majority Element"
-title: "LeetCode Majority Element Solution"
-description: "Solution for the majority element problem from LeetCode."
-published: "2021-06-15 PDT"
-modified: "2021-06-15 PDT"
----
-
 # Majority Element Problem & Solution
 
 Given an array `nums` of size `n`, return the majority element.

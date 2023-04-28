@@ -1,11 +1,3 @@
----
-name: "N-ary Tree Postorder Traversal"
-title: "LeetCode N-ary Tree Postorder Traversal Solution"
-description: "Solution for given the root of an n-ary tree, return the postorder traversal of its nodes' values. N-ary tree input serialization is represented in their level order traversal. Each group of children is separated by the null value."
-published: "2021-08-20 PDT"
-modified: "2021-08-20 PDT"
----
-
 # N-ary Tree Postorder Traversal Traversal Problem & Solution
 
 Given the `root` of an n-ary tree, return the postorder traversal of its nodes' values.

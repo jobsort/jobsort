@@ -1,11 +1,3 @@
----
-name: "Kth Missing Positive Number"
-title: "LeetCode Kth Missing Positive Number Solution"
-description: "Solution for the kth missing positive number problem from LeetCode."
-published: "2023-01-08 PDT"
-modified: "2023-01-09 PDT"
----
-
 # Kth Missing Positive Number Problem & Solution
 
 See the [kth missing positive number problem on LeetCode](https://leetcode.com/problems/kth-missing-positive-number).

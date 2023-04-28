@@ -1,11 +1,3 @@
----
-name: "Sum of Left Leaves"
-title: "LeetCode Sum of Left Leaves Solution"
-description: "Solution for the sum of left leaves problem from LeetCode."
-published: "2021-07-25 PDT"
-modified: "2021-07-25 PDT"
----
-
 # Sum of Left Leaves Problem & Solution
 
 Given the `root` of a binary tree, return the sum of all left leaves.

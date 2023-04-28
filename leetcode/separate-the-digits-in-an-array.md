@@ -1,11 +1,3 @@
----
-name: "Separate the Digits in an Array"
-title: "LeetCode Separate the Digits in an Array Solution"
-description: "Solution for the separate the digits in an array problem from LeetCode."
-published: "2023-02-14 PDT"
-modified: "2023-02-14 PDT"
----
-
 # Separate the Digits in an Array Problem & Solution
 
 See the [separate the digits in an array problem on LeetCode](https://leetcode.com/problems/separate-the-digits-in-an-array).

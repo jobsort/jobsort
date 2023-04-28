@@ -1,11 +1,3 @@
----
-name: "Excel Sheet Column Number"
-title: "LeetCode Excel Sheet Column Number Solution"
-description: "Solution for given a string columnTitle that represents the column title as appears in an Excel sheet, return its corresponding column number."
-published: "2021-06-16 PDT"
-modified: "2021-08-01 PDT"
----
-
 # Excel Sheet Column Number Problem & Solution
 
 Given a string `columnTitle` that represents the column title as appears in an Excel sheet, return its corresponding column number.

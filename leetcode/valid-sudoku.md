@@ -1,11 +1,3 @@
----
-name: "Valid Sudoku"
-title: "LeetCode Valid Sudoku Solution"
-description: "Solution for the valid sudoku problem from LeetCode."
-published: "2023-02-25 PDT"
-modified: "2023-02-25 PDT"
----
-
 # Valid Sudoku Problem & Solution
 
 See the [valid sudoku problem on LeetCode](https://leetcode.com/problems/valid-sudoku).

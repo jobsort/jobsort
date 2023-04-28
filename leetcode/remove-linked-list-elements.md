@@ -1,11 +1,3 @@
----
-name: "Remove Linked List Elements"
-title: "LeetCode Remove Linked List Elements Solution"
-description: "Solution for the remove linked list elements problem from LeetCode."
-published: "2021-06-27 PDT"
-modified: "2021-06-27 PDT"
----
-
 # Remove Linked List Elements Problem & Solution
 
 Given the `head` of a linked list and an integer `val`, remove all the nodes of the linked list that has `Node.val == val`, and return the new `head`.

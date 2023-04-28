@@ -1,11 +1,3 @@
----
-name: "Find the Difference"
-title: "LeetCode Find the Difference Solution"
-description: "Solution for the find the difference problem from LeetCode."
-published: "2021-07-23 PDT"
-modified: "2021-07-23 PDT"
----
-
 # Find the Difference Problem & Solution
 
 You are given two strings `s` and `t`.

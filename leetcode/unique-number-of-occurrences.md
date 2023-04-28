@@ -1,11 +1,3 @@
----
-name: "Unique Number of Occurrences"
-title: "LeetCode Unique Number of Occurrences Solution"
-description: "Solution for the unique number of occurrences problem from LeetCode."
-published: "2022-12-20 PDT"
-modified: "2022-12-20 PDT"
----
-
 # Unique Number of Occurrences Problem & Solution
 
 See the [unique number of occurrences problem on LeetCode](https://leetcode.com/problems/unique-number-of-occurrences).

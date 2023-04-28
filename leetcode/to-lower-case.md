@@ -1,11 +1,3 @@
----
-name: "To Lower Case"
-title: "LeetCode To Lower Case Solution"
-description: "Solution for given a string s, return the string after replacing every uppercase letter with the same lowercase letter."
-published: "2021-08-17 PDT"
-modified: "2021-08-17 PDT"
----
-
 # To Lower Case Problem & Solution
 
 Given a string `s`, return the string after replacing every uppercase letter with the same lowercase letter.

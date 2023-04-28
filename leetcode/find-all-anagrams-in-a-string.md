@@ -1,11 +1,3 @@
----
-name: "Find All Anagrams in a String"
-title: "LeetCode Find All Anagrams in a String Solution"
-description: "Solution for the find all anagrams in a string problem from LeetCode."
-published: "2022-12-25 PDT"
-modified: "2022-12-25 PDT"
----
-
 # Find All Anagrams in a String Problem & Solution
 
 See the [find all anagrams in a string problem on LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string).

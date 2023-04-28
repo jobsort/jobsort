@@ -1,11 +1,3 @@
----
-name: "Max Consecutive Ones"
-title: "LeetCode Max Consecutive Ones Solution"
-description: "Solution for given a binary array nums, return the maximum number of consecutive 1's in the array."
-published: "2021-08-05 PDT"
-modified: "2021-08-05 PDT"
----
-
 # Max Consecutive Ones Problem & Solution
 
 Given a binary array `nums`, return the maximum number of consecutive 1's in the array.

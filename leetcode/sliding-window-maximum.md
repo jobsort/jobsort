@@ -1,11 +1,3 @@
----
-name: "Sliding Window Maximum"
-title: "LeetCode Sliding Window Maximum Solution"
-description: "Solution for the sliding window maximum problem from LeetCode."
-published: "2022-12-24 PDT"
-modified: "2022-12-24 PDT"
----
-
 # Sliding Window Maximum Problem & Solution
 
 See the [sliding window maximum problem on LeetCode](https://leetcode.com/problems/sliding-window-maximum).

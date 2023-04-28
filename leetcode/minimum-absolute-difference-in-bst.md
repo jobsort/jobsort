@@ -1,11 +1,3 @@
----
-name: "Minimum Absolute Difference in BST"
-title: "LeetCode Minimum Absolute Difference in BST Solution"
-description: "Solution for given the root of a Binary Search Tree (BST), return the minimum absolute difference between the values of any two different nodes in the tree."
-published: "2021-08-24 PDT"
-modified: "2021-08-24 PDT"
----
-
 # Minimum Absolute Difference in BST Problem & Solution
 
 Given the `root` of a Binary Search Tree (BST), return the minimum absolute difference between the values of any two different nodes in the tree.

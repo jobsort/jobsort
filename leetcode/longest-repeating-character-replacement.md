@@ -1,11 +1,3 @@
----
-name: "Longest Repeating Character Replacement"
-title: "LeetCode Longest Repeating Character Replacement Solution"
-description: "Solution for the longest repeating character replacement problem from LeetCode."
-published: "2022-12-31 PDT"
-modified: "2022-12-31 PDT"
----
-
 # Longest Repeating Character Replacement Problem & Solution
 
 See the [longest repeating character replacement problem on LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement).

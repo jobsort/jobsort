@@ -1,11 +1,3 @@
----
-name: "Concatenation of Array"
-title: "LeetCode Concatenation of Array Solution"
-description: "Solution for the concatenation of array problem from LeetCode."
-published: "2023-03-08 PDT"
-modified: "2023-03-08 PDT"
----
-
 # Concatenation of Array Problem & Solution
 
 See the [concatenation of array problem on LeetCode](https://leetcode.com/problems/concatenation-of-array).

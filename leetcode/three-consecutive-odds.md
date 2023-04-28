@@ -1,11 +1,3 @@
----
-name: "Three Consecutive Odds"
-title: "LeetCode Three Consecutive Odds Solution"
-description: "Solution for the three consecutive odds problem from LeetCode."
-published: "2023-01-04 PDT"
-modified: "2023-01-04 PDT"
----
-
 # Three Consecutive Odds Problem & Solution
 
 See the [three consecutive odds problem on LeetCode](https://leetcode.com/problems/three-consecutive-odds).

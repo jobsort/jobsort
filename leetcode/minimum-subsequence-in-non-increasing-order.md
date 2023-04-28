@@ -1,11 +1,3 @@
----
-name: "Minimum Subsequence in Non-Increasing Order"
-title: "LeetCode Minimum Subsequence in Non-Increasing Order Solution"
-description: "Solution for the minimum subsequence in non-increasing order problem from LeetCode."
-published: "2022-12-21 PDT"
-modified: "2022-12-21 PDT"
----
-
 # Minimum Subsequence in Non-Increasing Order Problem & Solution
 
 See the [minimum subsequence in non-increasing order problem on LeetCode](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order).

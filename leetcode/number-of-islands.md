@@ -1,11 +1,3 @@
----
-name: "Number of Islands"
-title: "LeetCode Number of Islands Solution"
-description: "Solution for the number of islands problem from LeetCode."
-published: "2023-02-16 PDT"
-modified: "2023-02-16 PDT"
----
-
 # Number of Islands Problem & Solution
 
 See the [number of islands problem on LeetCode](https://leetcode.com/problems/number-of-islands).

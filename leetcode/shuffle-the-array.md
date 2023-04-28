@@ -1,11 +1,3 @@
----
-name: "Shuffle the Array"
-title: "LeetCode Shuffle the Array Solution"
-description: "Solution for the shuffle the array problem from LeetCode."
-published: "2023-03-13 PDT"
-modified: "2023-03-13 PDT"
----
-
 # Shuffle the Array Problem & Solution
 
 See the [shuffle the array problem on LeetCode](https://leetcode.com/problems/shuffle-the-array).

@@ -1,11 +1,3 @@
----
-name: "Partition Array into Three Parts with Equal Sum"
-title: "LeetCode Partition Array into Three Parts with Equal Sum Solution"
-description: "Solution for the partition array into three parts with equal sum problem from LeetCode."
-published: "2022-12-08 PDT"
-modified: "2022-12-08 PDT"
----
-
 # Partition Array into Three Parts with Equal Sum Problem & Solution
 
 See the [partition array into three parts with equal sum problem on LeetCode](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum).

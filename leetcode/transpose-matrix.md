@@ -1,11 +1,3 @@
----
-name: "Transpose Matrix"
-title: "LeetCode Transpose Matrix Solution"
-description: "Solution for given a 2D integer array matrix, return the transpose of matrix. The transpose of a matrix is the matrix flipped over its main diagonal, switching the matrix's row and column indices."
-published: "2021-12-01 PDT"
-modified: "2021-12-01 PDT"
----
-
 # Transpose Matrix Problem & Solution
 
 Given a 2D integer array `matrix`, return the transpose of `matrix`.

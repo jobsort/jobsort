@@ -1,11 +1,3 @@
----
-name: "Best Time to Buy and Sell Stock II"
-title: "LeetCode Best Time to Buy and Sell Stock II Solution"
-description: "Solution for you are given an array prices where prices[i] is the price of a given stock on the ith day. Find the maximum profit you can achieve. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times). Note: You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again)."
-published: "2021-08-25 PDT"
-modified: "2021-08-25 PDT"
----
-
 # Best Time to Buy and Sell Stock II Problem & Solution
 
 You are given an array prices where `prices[i]` is the price of a given stock on the `i`th day.

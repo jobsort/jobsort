@@ -1,11 +1,3 @@
----
-name: "Subsets"
-title: "LeetCode Subsets Solution"
-description: "Solution for the subsets problem from LeetCode."
-published: "2022-12-31 PDT"
-modified: "2022-12-31 PDT"
----
-
 # Subsets Problem & Solution
 
 See the [subsets problem on LeetCode](https://leetcode.com/problems/subsets).

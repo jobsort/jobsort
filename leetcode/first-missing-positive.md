@@ -1,11 +1,3 @@
----
-name: "First Missing Positive"
-title: "LeetCode First Missing Positive Solution"
-description: "Solution for the first missing positive problem from LeetCode."
-published: "2022-12-30 PDT"
-modified: "2022-12-30 PDT"
----
-
 # First Missing Positive Problem & Solution
 
 See the [first missing positive problem on LeetCode](https://leetcode.com/problems/first-missing-positive).

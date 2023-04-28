@@ -1,11 +1,3 @@
----
-name: "Minimum Depth of Binary Tree"
-title: "LeetCode Minimum Depth of Binary Tree Solution"
-description: "Solution for the minimum depth of binary tree problem from LeetCode."
-published: "2021-06-06 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Minimum Depth of Binary Tree Problem & Solution
 
 Given a binary tree, find its minimum depth.

@@ -1,11 +1,3 @@
----
-name: "Reverse Only Letters"
-title: "LeetCode Reverse Only Letters Solution"
-description: "Solution for given a string s, reverse the string according to the following rules: All the characters that are not English letters remain in the same position. All the English letters (lowercase or uppercase) should be reversed. Return s after reversing it."
-published: "2021-09-22 PDT"
-modified: "2021-09-22 PDT"
----
-
 # Reverse Only Letters Problem & Solution
 
 Given a string `s`, reverse the string according to the following rules:

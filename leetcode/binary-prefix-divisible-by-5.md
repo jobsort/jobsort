@@ -1,11 +1,3 @@
----
-name: "Binary Prefix Divisible by 5"
-title: "LeetCode Binary Prefix Divisible by 5 Solution"
-description: "Solution for the binary prefix divisible by 5 problem from LeetCode."
-published: "2022-12-09 PDT"
-modified: "2022-12-09 PDT"
----
-
 # Binary Prefix Divisible by 5 Problem & Solution
 
 See the [binary prefix divisible by 5 problem on LeetCode](https://leetcode.com/problems/binary-prefix-divisible-by-5).

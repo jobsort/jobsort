@@ -1,11 +1,3 @@
----
-name: "Circular Sentence"
-title: "LeetCode Circular Sentence Solution"
-description: "Solution for the circular sentence problem from LeetCode."
-published: "2023-01-24 PDT"
-modified: "2023-01-24 PDT"
----
-
 # Circular Sentence Problem & Solution
 
 See the [circular sentence problem on LeetCode](https://leetcode.com/problems/circular-sentence).

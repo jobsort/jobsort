@@ -1,11 +1,3 @@
----
-name: "3Sum Closest"
-title: "LeetCode 3Sum Closest Solution"
-description: "Solution for the 3sum closest problem from LeetCode."
-published: "2022-09-11 PDT"
-modified: "2022-09-11 PDT"
----
-
 # 3Sum Closest Problem & Solution
 
 See the [3sum closest problem on LeetCode](https://leetcode.com/problems/3sum-closest).

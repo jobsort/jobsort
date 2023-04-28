@@ -1,11 +1,3 @@
----
-name: "Add Binary"
-title: "LeetCode Add Binary Solution"
-description: "Solution for the add binary problem from LeetCode."
-published: "2021-05-31 PDT"
-modified: "2021-09-01 PDT"
----
-
 # Add Binary Problem & Solution
 
 Given two binary strings `a` and `b`, return their sum as a binary string.

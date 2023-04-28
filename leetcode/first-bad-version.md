@@ -1,11 +1,3 @@
----
-name: "First Bad Version"
-title: "LeetCode First Bad Version Solution"
-description: "Solution for the first bad version problem from LeetCode."
-published: "2021-07-13 PDT"
-modified: "2021-07-13 PDT"
----
-
 # First Bad Version Problem & Solution
 
 You are a product manager and currently leading a team to develop a new product.

@@ -1,11 +1,3 @@
----
-name: "Word Pattern"
-title: "LeetCode Word Pattern Solution"
-description: "Solution for the word pattern problem from LeetCode."
-published: "2021-07-19 PDT"
-modified: "2021-07-19 PDT"
----
-
 # Word Pattern Problem & Solution
 
 Given a `pattern` and a string `s`, find if `s` follows the same `pattern`.

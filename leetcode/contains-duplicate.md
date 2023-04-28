@@ -1,11 +1,3 @@
----
-name: "Contains Duplicate"
-title: "LeetCode Contains Duplicate Solution"
-description: "Solution for the contains duplicate problem from LeetCode."
-published: "2021-06-29 PDT"
-modified: "2021-06-29 PDT"
----
-
 # Contains Duplicate Problem & Solution
 
 Given an integer array `nums`, return true if any value appears at least twice in the array, and return false if every element is distinct.

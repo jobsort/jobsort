@@ -1,11 +1,3 @@
----
-name: "Reverse Linked List"
-title: "LeetCode Reverse Linked List Solution"
-description: "Solution for the reverse linked list problem from LeetCode."
-published: "2021-06-29 PDT"
-modified: "2021-06-29 PDT"
----
-
 # Reverse Linked List Problem & Solution
 
 Given the `head` of a singly linked list, reverse the list, and return the reversed list.

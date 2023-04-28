@@ -1,11 +1,3 @@
----
-name: "Ransom Note"
-title: "LeetCode Ransom Note Solution"
-description: "Solution for the ransom note problem from LeetCode."
-published: "2021-07-05 PDT"
-modified: "2021-07-05 PDT"
----
-
 # Ransom Note Problem & Solution
 
 Given two strings `ransomNote` and `magazine`, return true if `ransomNote` can be constructed from `magazine` and false otherwise.

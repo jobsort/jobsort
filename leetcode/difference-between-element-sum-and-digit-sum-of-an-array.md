@@ -1,11 +1,3 @@
----
-name: "Difference between Element Sum and Digit Sum of an Array"
-title: "LeetCode Difference between Element Sum and Digit Sum of an Array Solution"
-description: "Solution for the difference between element sum and digit sum of an array problem from LeetCode."
-published: "2023-01-15 PDT"
-modified: "2023-01-15 PDT"
----
-
 # Difference between Element Sum and Digit Sum of an Array Problem & Solution
 
 See the [difference between element sum and digit sum of an array problem on LeetCode](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array).

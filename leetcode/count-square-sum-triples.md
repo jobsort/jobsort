@@ -1,11 +1,3 @@
----
-name: "Count Square Sum Triples"
-title: "LeetCode Count Square Sum Triples Solution"
-description: "Solution for the count square sum triples problem from LeetCode."
-published: "2023-03-10 PDT"
-modified: "2023-03-10 PDT"
----
-
 # Count Square Sum Triples Problem & Solution
 
 See the [count square sum triples problem on LeetCode](https://leetcode.com/problems/count-square-sum-triples).

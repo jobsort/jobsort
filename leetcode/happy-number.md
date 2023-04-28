@@ -1,11 +1,3 @@
----
-name: "Happy Number"
-title: "LeetCode Happy Number Solution"
-description: "Solution for the happy number problem from LeetCode."
-published: "2021-06-30 PDT"
-modified: "2021-06-30 PDT"
----
-
 # Happy Number Problem & Solution
 
 Write an algorithm to determine if a number `n` is happy.

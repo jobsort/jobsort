@@ -1,11 +1,3 @@
----
-name: "Binary Tree Postorder Traversal"
-title: "LeetCode Binary Tree Postorder Traversal Solution"
-description: "Solution for the binary tree postorder traversal problem from LeetCode."
-published: "2021-06-13 PDT"
-modified: "2021-06-13 PDT"
----
-
 # Binary Tree Postorder Traversal Problem & Solution
 
 Given the `root` of a binary tree, return the postorder traversal of its nodes' values.

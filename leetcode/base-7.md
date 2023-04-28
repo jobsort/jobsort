@@ -1,11 +1,3 @@
----
-name: "Base 7"
-title: "LeetCode Base 7 Solution"
-description: "Solution for given an integer num, return a string of its base 7 representation."
-published: "2021-08-07 PDT"
-modified: "2021-08-07 PDT"
----
-
 # Base 7 Problem & Solution
 
 Given an integer `num`, return a string of its base 7 representation.

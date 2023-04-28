@@ -1,11 +1,3 @@
----
-name: "Validate Binary Search Tree"
-title: "LeetCode Validate Binary Search Tree Solution"
-description: "Solution for the validate binary search tree problem from LeetCode."
-published: "2023-02-02 PDT"
-modified: "2023-02-02 PDT"
----
-
 # Validate Binary Search Tree Problem & Solution
 
 See the [validate binary search tree problem on LeetCode](https://leetcode.com/problems/validate-binary-search-tree).

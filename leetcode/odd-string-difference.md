@@ -1,11 +1,3 @@
----
-name: "Odd String Difference"
-title: "LeetCode Odd String Difference Solution"
-description: "Solution for the odd string difference problem from LeetCode."
-published: "2023-01-31 PDT"
-modified: "2023-01-31 PDT"
----
-
 # Odd String Difference Problem & Solution
 
 See the [odd string difference problem on LeetCode](https://leetcode.com/problems/odd-string-difference).

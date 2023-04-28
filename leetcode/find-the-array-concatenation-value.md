@@ -1,11 +1,3 @@
----
-name: "Find the Array Concatenation Value"
-title: "LeetCode Find the Array Concatenation Value Solution"
-description: "Solution for the find the array concatenation value problem from LeetCode."
-published: "2023-02-17 PDT"
-modified: "2023-02-17 PDT"
----
-
 # Find the Array Concatenation Value Problem & Solution
 
 See the [find the array concatenation value problem on LeetCode](https://leetcode.com/problems/find-the-array-concatenation-value).

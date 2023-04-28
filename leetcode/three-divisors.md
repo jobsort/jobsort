@@ -1,11 +1,3 @@
----
-name: "Three Divisors"
-title: "LeetCode Three Divisors Solution"
-description: "Solution for the three divisors problem from LeetCode."
-published: "2023-04-01 PDT"
-modified: "2023-04-01 PDT"
----
-
 # Three Divisors Problem & Solution
 
 See the [three divisors problem on LeetCode](https://leetcode.com/problems/three-divisors).

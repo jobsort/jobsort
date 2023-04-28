@@ -1,11 +1,3 @@
----
-name: "Minimum Window Substring"
-title: "LeetCode Minimum Window Substring Solution"
-description: "Solution for the minimum window substring problem from LeetCode."
-published: "2023-01-25 PDT"
-modified: "2023-01-25 PDT"
----
-
 # Minimum Window Substring Problem & Solution
 
 See the [minimum window substring problem on LeetCode](https://leetcode.com/problems/minimum-window-substring).

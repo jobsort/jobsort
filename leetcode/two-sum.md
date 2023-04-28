@@ -1,11 +1,3 @@
----
-name: "Two Sum"
-title: "LeetCode Two Sum Solution"
-description: "Solution for the two sum problem from LeetCode."
-published: "2021-05-16 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Two Sum Problem & Solution
 
 Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.

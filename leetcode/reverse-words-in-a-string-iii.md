@@ -1,11 +1,3 @@
----
-name: "Reverse Words in a String III"
-title: "LeetCode Reverse Words in a String III Solution"
-description: "Solution for given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order."
-published: "2021-08-03 PDT"
-modified: "2021-08-03 PDT"
----
-
 # Reverse Words in a String III Problem & Solution
 
 Given a string `s`, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.

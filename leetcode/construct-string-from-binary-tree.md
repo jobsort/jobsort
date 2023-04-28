@@ -1,11 +1,3 @@
----
-name: "Construct String from Binary Tree"
-title: "LeetCode Construct String from Binary Tree Solution"
-description: "Solution for the construct string from binary tree problem from LeetCode."
-published: "2022-11-30 PDT"
-modified: "2022-11-30 PDT"
----
-
 # Construct String from Binary Tree Problem & Solution
 
 See the [construct string from binary tree problem on LeetCode](https://leetcode.com/problems/construct-string-from-binary-tree).

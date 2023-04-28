@@ -1,11 +1,3 @@
----
-name: "Reverse String"
-title: "LeetCode Reverse String Solution"
-description: "Solution for the reverse string problem from LeetCode."
-published: "2021-07-08 PDT"
-modified: "2021-07-08 PDT"
----
-
 # Reverse String Problem & Solution
 
 Write a function that reverses a string.

@@ -1,11 +1,3 @@
----
-name: "LRU Cache"
-title: "LeetCode LRU Cache Solution"
-description: "Solution for the LRU cache problem from LeetCode."
-published: "2023-02-09 PDT"
-modified: "2023-02-09 PDT"
----
-
 # LRU Cache Problem & Solution
 
 See the [LRU cache problem on LeetCode](https://leetcode.com/problems/lru-cache).

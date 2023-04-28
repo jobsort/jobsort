@@ -1,11 +1,3 @@
----
-name: "Reverse Bits"
-title: "LeetCode Reverse Bits Solution"
-description: "Solution for the reverse bits problem from LeetCode."
-published: "2021-06-25 PDT"
-modified: "2021-06-25 PDT"
----
-
 # Reverse Bits Problem & Solution
 
 Reverse bits of a given 32 bits unsigned integer.

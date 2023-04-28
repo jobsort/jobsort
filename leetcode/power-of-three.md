@@ -1,11 +1,3 @@
----
-name: "Power of Three"
-title: "LeetCode Power of Three Solution"
-description: "Solution for the power of three problem from LeetCode."
-published: "2021-07-11 PDT"
-modified: "2021-07-11 PDT"
----
-
 # Power of Three Problem & Solution
 
 Given an integer `n`, return true if it is a power of three.

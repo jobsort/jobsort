@@ -1,11 +1,3 @@
----
-name: "Number of Equivalent Domino Pairs"
-title: "LeetCode Number of Equivalent Domino Pairs Solution"
-description: "Solution for the number of equivalent domino pairs problem from LeetCode."
-published: "2022-12-20 PDT"
-modified: "2022-12-20 PDT"
----
-
 # Number of Equivalent Domino Pairs Problem & Solution
 
 See the [number of equivalent domino pairs problem on LeetCode](https://leetcode.com/problems/number-of-equivalent-domino-pairs).

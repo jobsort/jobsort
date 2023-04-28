@@ -1,11 +1,3 @@
----
-name: "Shortest Distance to a Character"
-title: "LeetCode Shortest Distance to a Character Solution"
-description: "Solution for given a string s and a character c that occurs in s, return an array of integers answer where answer.length == s.length and answer[i] is the distance from index i to the closest occurrence of character c in s. The distance between two indices i and j is abs(i - j), where abs is the absolute value function."
-published: "2021-12-20 PDT"
-modified: "2021-12-20 PDT"
----
-
 # Shortest Distance to a Character Problem & Solution
 
 Given a string `s` and a character `c` that occurs in `s`, return an array of integers `answer` where `answer.length == s.length` and `answer[i]` is the distance from index `i` to the closest occurrence of character `c` in `s`.

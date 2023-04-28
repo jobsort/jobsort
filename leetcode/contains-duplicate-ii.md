@@ -1,11 +1,3 @@
----
-name: "Contains Duplicate II"
-title: "LeetCode Contains Duplicate II Solution"
-description: "Solution for given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] and abs(i - j) <= k."
-published: "2021-08-27 PDT"
-modified: "2021-08-27 PDT"
----
-
 # Contains Duplicate II Problem & Solution
 
 Given an integer array `nums` and an integer `k`, return true if there are two distinct indices `i` and `j` in the array such that `nums[i] == nums[j]` and `abs(i - j) <= k`.

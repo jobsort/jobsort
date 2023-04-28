@@ -1,11 +1,3 @@
----
-name: "Binary Tree Right Side View"
-title: "LeetCode Binary Tree Right Side View Solution"
-description: "Solution for the binary tree right side view problem from LeetCode."
-published: "2023-02-04 PDT"
-modified: "2023-02-04 PDT"
----
-
 # Binary Tree Right Side View Problem & Solution
 
 See the [binary tree right side view problem on LeetCode](https://leetcode.com/problems/binary-tree-right-side-view).

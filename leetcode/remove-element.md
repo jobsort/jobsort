@@ -1,11 +1,3 @@
----
-name: "Remove Element"
-title: "LeetCode Remove Element Solution"
-description: "Solution for the remove element problem from LeetCode."
-published: "2021-05-16 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Remove Element Problem & Solution
 
 Given an array `nums` and a value `val`, remove all instances of that value in-place and return the new length.

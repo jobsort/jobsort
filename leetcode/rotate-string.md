@@ -1,11 +1,3 @@
----
-name: "Rotate String"
-title: "LeetCode Rotate String Solution"
-description: 'Solution for given two strings s and goal, return true if and only if s can become goal after some number of shifts on s. A shift on s consists of moving the leftmost character of s to the rightmost position. For example, if s = "abcde", then it will be "bcdea" after one shift.'
-published: "2021-12-04 PDT"
-modified: "2021-12-04 PDT"
----
-
 # Rotate String Problem & Solution
 
 Given two strings `s` and `goal`, return true if and only if `s` can become `goal` after some number of shifts on `s`.

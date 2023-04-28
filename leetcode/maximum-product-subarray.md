@@ -1,11 +1,3 @@
----
-name: "Maximum Product Subarray"
-title: "LeetCode Maximum Product Subarray Solution"
-description: "Solution for the maximum product subarray problem from LeetCode."
-published: "2022-12-22 PDT"
-modified: "2022-12-22 PDT"
----
-
 # Maximum Product Subarray Problem & Solution
 
 See the [maximum product subarray problem on LeetCode](https://leetcode.com/problems/maximum-product-subarray).

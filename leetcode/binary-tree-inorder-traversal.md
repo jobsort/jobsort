@@ -1,11 +1,3 @@
----
-name: "Binary Tree Inorder Traversal"
-title: "LeetCode Binary Tree Inorder Traversal Solution"
-description: "Solution for the binary tree inorder traversal problem from LeetCode."
-published: "2021-06-03 PDT"
-modified: "2021-06-10 PDT"
----
-
 # Binary Tree Inorder Traversal Problem & Solution
 
 Given the `root` of a binary tree, return the inorder traversal of its nodes' values.

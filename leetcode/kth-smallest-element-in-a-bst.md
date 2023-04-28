@@ -1,11 +1,3 @@
----
-name: "Kth Smallest Element in a BST"
-title: "LeetCode Kth Smallest Element in a BST Solution"
-description: "Solution for the kth smallest element in a BST problem from LeetCode."
-published: "2023-02-03 PDT"
-modified: "2023-02-03 PDT"
----
-
 # Kth Smallest Element in a BST Problem & Solution
 
 See the [kth smallest element in a BST problem on LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst).

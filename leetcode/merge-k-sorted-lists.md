@@ -1,11 +1,3 @@
----
-name: "Merge K Sorted Lists"
-title: "LeetCode Merge K Sorted Lists Solution"
-description: "Solution for the merge k sorted lists problem from LeetCode."
-published: "2023-02-23 PDT"
-modified: "2023-02-23 PDT"
----
-
 # Merge K Sorted Lists Problem & Solution
 
 See the [merge k sorted lists problem on LeetCode](https://leetcode.com/problems/merge-k-sorted-lists).

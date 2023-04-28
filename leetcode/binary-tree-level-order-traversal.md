@@ -1,11 +1,3 @@
----
-name: "Binary Tree Level Order Traversal"
-title: "LeetCode Binary Tree Level Order Traversal Solution"
-description: "Solution for the binary tree level order traversal problem from LeetCode."
-published: "2023-02-03 PDT"
-modified: "2023-02-03 PDT"
----
-
 # Binary Tree Level Order Traversal Problem & Solution
 
 See the [binary tree level order traversal problem on LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal).

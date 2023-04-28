@@ -1,11 +1,3 @@
----
-name: "Middle of the Linked List"
-title: "LeetCode Middle of the Linked List Solution"
-description: "Solution for given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node."
-published: "2021-11-28 PDT"
-modified: "2021-11-28 PDT"
----
-
 # Middle of the Linked List Problem & Solution
 
 Given the `head` of a singly linked list, return the middle node of the linked list.

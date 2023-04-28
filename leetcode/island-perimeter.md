@@ -1,11 +1,3 @@
----
-name: "Island Perimeter"
-title: "LeetCode Island Perimeter Solution"
-description: "Solution for the island perimeter problem from LeetCode."
-published: "2021-07-29 PDT"
-modified: "2021-07-29 PDT"
----
-
 # Island Perimeter Problem & Solution
 
 You are given row x col `grid` representing a map where `grid[i][j] = 1` represents land and `grid[i][j] = 0` represents water.

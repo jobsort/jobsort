@@ -1,11 +1,3 @@
----
-name: "Single Number"
-title: "LeetCode Single Number Solution"
-description: "Solution for the single number problem from LeetCode."
-published: "2021-06-10 PDT"
-modified: "2021-06-10 PDT"
----
-
 # Single Number Problem & Solution
 
 Given a non-empty array of integers `nums`, every element appears twice except for one.

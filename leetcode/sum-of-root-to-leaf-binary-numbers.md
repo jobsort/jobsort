@@ -1,11 +1,3 @@
----
-name: "Sum of Root to Leaf Binary Numbers"
-title: "LeetCode Sum of Root to Leaf Binary Numbers Solution"
-description: "Solution for the sum of root to leaf binary numbers problem from LeetCode."
-published: "2022-12-27 PDT"
-modified: "2022-12-27 PDT"
----
-
 # Sum of Root to Leaf Binary Numbers Problem & Solution
 
 See the [sum of root to leaf binary numbers problem on LeetCode](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers).

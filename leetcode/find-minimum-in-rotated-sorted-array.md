@@ -1,11 +1,3 @@
----
-name: "Find Minimum in Rotated Sorted Array"
-title: "LeetCode Find Minimum in Rotated Sorted Array Solution"
-description: "Solution for the find minimum in rotated sorted array problem from LeetCode."
-published: "2023-01-28 PDT"
-modified: "2023-01-28 PDT"
----
-
 # Find Minimum in Rotated Sorted Array Problem & Solution
 
 See the [find minimum in rotated sorted array problem on LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array).

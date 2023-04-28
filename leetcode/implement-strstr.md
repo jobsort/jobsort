@@ -1,11 +1,3 @@
----
-name: "Implement strstr"
-title: "LeetCode Implement strstr Solution"
-description: "Solution for the implement strstr problem from LeetCode."
-published: "2021-05-26 PDT"
-modified: "2021-06-17 PDT"
----
-
 # Implement strstr Problem & Solution
 
 Implement `strstr()`. Return the index of the first occurrence of `needle` in `haystack`, or -1 if `needle` is not part of `haystack`.

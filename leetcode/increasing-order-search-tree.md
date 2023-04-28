@@ -1,11 +1,3 @@
----
-name: "Increasing Order Search Tree"
-title: "LeetCode Increasing Order Search Tree Solution"
-description: "Solution for given the root of a binary search tree, rearrange the tree in in-order so that the leftmost node in the tree is now the root of the tree, and every node has no left child and only one right child."
-published: "2021-12-18 PDT"
-modified: "2021-12-18 PDT"
----
-
 # Increasing Order Search Tree Problem & Solution
 
 Given the `root` of a binary search tree, rearrange the tree in in-order so that the leftmost node in the tree is now the root of the tree, and every node has no left child and only one right child.

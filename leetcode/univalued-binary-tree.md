@@ -1,11 +1,3 @@
----
-name: "Univalued Binary Tree"
-title: "LeetCode Univalued Binary Tree Solution"
-description: "Solution for a binary tree is uni-valued if every node in the tree has the same value. Given the root of a binary tree, return true if the given tree is uni-valued, or false otherwise."
-published: "2021-12-05 PDT"
-modified: "2021-12-05 PDT"
----
-
 # Univalued Binary Tree Problem & Solution
 
 A binary tree is uni-valued if every node in the tree has the same value.

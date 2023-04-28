@@ -1,11 +1,3 @@
----
-name: "Valid Parentheses"
-title: "LeetCode Valid Parentheses Solution"
-description: "Solution for the valid parentheses problem from LeetCode."
-published: "2021-05-23 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Valid Parentheses Problem & Solution
 
 Given a string `s` containing just the characters `(`, `)`, `{`, `}`, `[` and `]`, determine if the input string is valid.

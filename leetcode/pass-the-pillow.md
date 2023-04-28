@@ -1,11 +1,3 @@
----
-name: "Pass the Pillow"
-title: "LeetCode Pass the Pillow Solution"
-description: "Solution for the pass the pillow problem from LeetCode."
-published: "2023-03-26 PDT"
-modified: "2023-03-26 PDT"
----
-
 # Pass the Pillow Problem & Solution
 
 See the [pass the pillow problem on LeetCode](https://leetcode.com/problems/pass-the-pillow).

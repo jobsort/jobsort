@@ -1,11 +1,3 @@
----
-name: "Evaluate Reverse Polish Notation"
-title: "LeetCode Evaluate Reverse Polish Notation Solution"
-description: "Solution for the evaluate reverse Polish notation problem from LeetCode."
-published: "2023-03-04 PDT"
-modified: "2023-03-04 PDT"
----
-
 # Evaluate Reverse Polish Notation Problem & Solution
 
 See the [evaluate reverse Polish notation problem on LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation).

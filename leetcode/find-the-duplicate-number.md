@@ -1,11 +1,3 @@
----
-name: "Find the Duplicate Number"
-title: "LeetCode Find the Duplicate Number Solution"
-description: "Solution for the find the duplicate number problem from LeetCode."
-published: "2022-12-28 PDT"
-modified: "2022-12-28 PDT"
----
-
 # Find the Duplicate Number Problem & Solution
 
 See the [find the duplicate number problem on LeetCode](https://leetcode.com/problems/find-the-duplicate-number).

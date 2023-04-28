@@ -1,11 +1,3 @@
----
-name: "Binary Gap"
-title: "LeetCode Binary Gap Solution"
-description: 'Solution for given a positive integer n, find and return the longest distance between any two adjacent 1''s in the binary representation of n. If there are no two adjacent 1''s, return 0. Two 1''s are adjacent if there are only 0''s separating them (possibly no 0''s). The distance between two 1''s is the absolute difference between their bit positions. For example, the two 1''s in "1001" have a distance of 3.'
-published: "2021-12-06 PDT"
-modified: "2021-12-06 PDT"
----
-
 # Binary Gap Problem & Solution
 
 Given a positive integer `n`, find and return the longest distance between any two adjacent `1`'s in the binary representation of `n`.

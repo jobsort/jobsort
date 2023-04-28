@@ -1,11 +1,3 @@
----
-name: "Non-overlapping Intervals"
-title: "LeetCode Non-overlapping Intervals Solution"
-description: "Solution for the non-overlapping intervals problem from LeetCode."
-published: "2023-01-19 PDT"
-modified: "2023-01-19 PDT"
----
-
 # Non-overlapping Intervals Problem & Solution
 
 See the [non-overlapping intervals problem on LeetCode](https://leetcode.com/problems/non-overlapping-intervals).

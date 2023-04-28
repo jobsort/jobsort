@@ -1,11 +1,3 @@
----
-name: "Asteroid Collision"
-title: "LeetCode Asteroid Collision Solution"
-description: "Solution for the asteroid collision problem from LeetCode."
-published: "2023-01-21 PDT"
-modified: "2023-01-21 PDT"
----
-
 # Asteroid Collision Problem & Solution
 
 See the [asteroid collision problem on LeetCode](https://leetcode.com/problems/asteroid-collision).

@@ -1,11 +1,3 @@
----
-name: "Split with Minimum Sum"
-title: "LeetCode Split with Minimum Sum Solution"
-description: "Solution for the split with minimum sum problem from LeetCode."
-published: "2023-03-27 PDT"
-modified: "2023-03-27 PDT"
----
-
 # Split with Minimum Sum Problem & Solution
 
 See the [split with minimum sum problem on LeetCode](https://leetcode.com/problems/split-with-minimum-sum).

@@ -1,11 +1,3 @@
----
-name: "3Sum"
-title: "LeetCode 3Sum Solution"
-description: "Solution for the 3sum problem from LeetCode."
-published: "2022-04-03 PDT"
-modified: "2022-04-03 PDT"
----
-
 # 3Sum Problem & Solution
 
 See the [3sum problem on LeetCode](https://leetcode.com/problems/3sum).

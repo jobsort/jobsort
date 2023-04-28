@@ -1,11 +1,3 @@
----
-name: "Valid Palindrome"
-title: "LeetCode Valid Palindrome Solution"
-description: "Solution for the valid palindrome problem from LeetCode."
-published: "2021-06-09 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Valid Palindrome Problem & Solution
 
 Given a string `s`, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.

@@ -1,11 +1,3 @@
----
-name: "Merge Sorted Array"
-title: "LeetCode Merge Sorted Array Solution"
-description: "Solution for you are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively. Merge nums1 and nums2 into a single array sorted in non-decreasing order."
-published: "2021-06-03 PDT"
-modified: "2021-08-01 PDT"
----
-
 # Merge Sorted Array Problem & Solution
 
 You are given two integer arrays `nums1` and `nums2`, sorted in non-decreasing order, and two integers `m` and `n`, representing the number of elements in `nums1` and `nums2` respectively.

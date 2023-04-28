@@ -1,11 +1,3 @@
----
-name: "Kth Largest Element in an Array"
-title: "LeetCode Kth Largest Element in an Array Solution"
-description: "Solution for the kth largest element in an array problem from LeetCode."
-published: "2023-01-30 PDT"
-modified: "2023-01-30 PDT"
----
-
 # Kth Largest Element in an Array Problem & Solution
 
 See the [kth largest element in an array problem on LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array).

@@ -1,11 +1,3 @@
----
-name: "Is Subsequence"
-title: "LeetCode Is Subsequence Solution"
-description: "Solution for the is subsequence problem from LeetCode."
-published: "2021-07-24 PDT"
-modified: "2021-07-24 PDT"
----
-
 # Is Subsequence Problem & Solution
 
 Given two strings `s` and `t`, return true if `s` is a subsequence of `t`, or false otherwise.

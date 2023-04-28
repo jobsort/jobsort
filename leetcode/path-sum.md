@@ -1,11 +1,3 @@
----
-name: "Path Sum"
-title: "LeetCode Path Sum Solution"
-description: "Solution for the path sum problem from LeetCode."
-published: "2021-06-05 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Path Sum Problem & Solution
 
 Given the `root` of a binary tree and an integer `targetSum`, return `true` if the tree has a root-to-leaf path such that adding up all the values along the path equals `targetSum`.

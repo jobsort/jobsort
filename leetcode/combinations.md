@@ -1,11 +1,3 @@
----
-name: "Combinations"
-title: "LeetCode Combinations Solution"
-description: "Solution for the combinations problem from LeetCode."
-published: "2023-01-01 PDT"
-modified: "2023-01-01 PDT"
----
-
 # Combinations Problem & Solution
 
 See the [combinations problem on LeetCode](https://leetcode.com/problems/combinations).

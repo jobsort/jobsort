@@ -1,11 +1,3 @@
----
-name: "Number of 1 Bits"
-title: "LeetCode Number of 1 Bits Solution"
-description: "Solution for the number of 1 bits problem from LeetCode."
-published: "2021-06-24 PDT"
-modified: "2021-06-24 PDT"
----
-
 # Number of 1 Bits Problem & Solution
 
 Write a function that takes an unsigned integer and returns the number of '1' bits it has (also known as the Hamming weight).

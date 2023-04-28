@@ -1,11 +1,3 @@
----
-name: "Squares of a Sorted Array"
-title: "LeetCode Squares of a Sorted Array Solution"
-description: "Solution for given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order."
-published: "2021-12-11 PDT"
-modified: "2021-12-11 PDT"
----
-
 # Squares of a Sorted Array Problem & Solution
 
 Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.

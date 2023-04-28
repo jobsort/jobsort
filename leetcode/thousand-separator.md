@@ -1,11 +1,3 @@
----
-name: "Thousand Separator"
-title: "LeetCode Thousand Separator Solution"
-description: "Solution for the thousand separator problem from LeetCode."
-published: "2023-01-02 PDT"
-modified: "2023-01-02 PDT"
----
-
 # Thousand Separator Problem & Solution
 
 See the [thousand separator problem on LeetCode](https://leetcode.com/problems/thousand-separator).

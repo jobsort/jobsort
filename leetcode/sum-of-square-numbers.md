@@ -1,11 +1,3 @@
----
-name: "Sum of Square Numbers"
-title: "LeetCode Sum of Square Numbers Solution"
-description: "Solution for given a non-negative integer c, decide whether there're two integers a and b such that a2 + b2 = c."
-published: "2021-08-25 PDT"
-modified: "2021-08-25 PDT"
----
-
 # Sum of Square Numbers Problem & Solution
 
 Given a non-negative integer `c`, decide whether there're two integers `a` and `b` such that `a^2 + b^2 = c`.

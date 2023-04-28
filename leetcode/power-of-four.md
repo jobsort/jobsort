@@ -1,11 +1,3 @@
----
-name: "Power of Four"
-title: "LeetCode Power of Four Solution"
-description: "Solution for the power of four problem from LeetCode."
-published: "2021-07-09 PDT"
-modified: "2021-07-09 PDT"
----
-
 # Power of Four Problem & Solution
 
 Given an integer `n`, return true if it is a power of four.

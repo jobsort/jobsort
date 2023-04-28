@@ -1,11 +1,3 @@
----
-name: "Reorder List"
-title: "LeetCode Reorder List Solution"
-description: "Solution for the reorder list problem from LeetCode."
-published: "2023-02-24 PDT"
-modified: "2023-02-24 PDT"
----
-
 # Reorder List Problem & Solution
 
 See the [reorder list problem on LeetCode](https://leetcode.com/problems/reorder-list).

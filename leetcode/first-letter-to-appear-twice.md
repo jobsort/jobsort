@@ -1,11 +1,3 @@
----
-name: "First Letter to Appear Twice"
-title: "LeetCode First Letter to Appear Twice Solution"
-description: "Solution for the first letter to appear twice problem from LeetCode."
-published: "2023-01-31 PDT"
-modified: "2023-01-31 PDT"
----
-
 # First Letter to Appear Twice Problem & Solution
 
 See the [first letter to appear twice problem on LeetCode](https://leetcode.com/problems/first-letter-to-appear-twice).

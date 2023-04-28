@@ -1,11 +1,3 @@
----
-name: "Group Anagrams"
-title: "LeetCode Group Anagrams Solution"
-description: "Solution for the group anagrams problem from LeetCode."
-published: "2023-01-13 PDT"
-modified: "2023-01-13 PDT"
----
-
 # Group Anagrams Problem & Solution
 
 See the [group anagrams problem on LeetCode](https://leetcode.com/problems/group-anagrams).

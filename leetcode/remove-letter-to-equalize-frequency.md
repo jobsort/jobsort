@@ -1,11 +1,3 @@
----
-name: "Remove Letter to Equalize Frequency"
-title: "LeetCode Remove Letter to Equalize Frequency Solution"
-description: "Solution for the remove letter to equalize frequency problem from LeetCode."
-published: "2022-12-19 PDT"
-modified: "2022-12-19 PDT"
----
-
 # Remove Letter to Equalize Frequency Problem & Solution
 
 See the [remove letter to equalize frequency problem on LeetCode](https://leetcode.com/problems/remove-letter-to-equalize-frequency).

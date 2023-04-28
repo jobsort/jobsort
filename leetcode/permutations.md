@@ -1,11 +1,3 @@
----
-name: "Permutations"
-title: "LeetCode Permutations Solution"
-description: "Solution for the permutations problem from LeetCode."
-published: "2022-09-11 PDT"
-modified: "2023-01-01 PDT"
----
-
 # Permutations Problem & Solution
 
 See the [permutations problem on LeetCode](https://leetcode.com/problems/permutations).

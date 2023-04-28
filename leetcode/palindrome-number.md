@@ -1,11 +1,3 @@
----
-name: "Palindrome Number"
-title: "LeetCode Palindrome Number Solution"
-description: "Solution for the palindrome number problem from LeetCode."
-published: "2021-05-20 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Palindrome Number Problem & Solution
 
 Given an integer `x`, return true if `x` is palindrome integer. An integer is a palindrome when it reads the same backward as forward. For example, 121 is palindrome while 123 is not.

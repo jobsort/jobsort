@@ -1,11 +1,3 @@
----
-name: "Maximum Depth of N-ary Tree"
-title: "LeetCode Maximum Depth of N-ary Tree Solution"
-description: "Solution for given a n-ary tree, find its maximum depth. The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node."
-published: "2021-08-02 PDT"
-modified: "2021-08-02 PDT"
----
-
 # Maximum Depth of N-ary Tree Problem & Solution
 
 Given a n-ary tree, find its maximum depth.

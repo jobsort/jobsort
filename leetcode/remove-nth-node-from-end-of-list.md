@@ -1,11 +1,3 @@
----
-name: "Remove Nth Node from End of List"
-title: "LeetCode Remove Nth Node from End of List Solution"
-description: "Solution for the remove nth node from end of list problem from LeetCode."
-published: "2023-02-22 PDT"
-modified: "2023-02-22 PDT"
----
-
 # Remove Nth Node from End of List Problem & Solution
 
 See the [remove nth node from end of list problem on LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list).

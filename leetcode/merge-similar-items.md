@@ -1,11 +1,3 @@
----
-name: "Merge Similar Items"
-title: "LeetCode Merge Similar Items Solution"
-description: "Solution for the merge similar items problem from LeetCode."
-published: "2023-03-28 PDT"
-modified: "2023-03-28 PDT"
----
-
 # Merge Similar Items Problem & Solution
 
 See the [merge similar items problem on LeetCode](https://leetcode.com/problems/merge-similar-items).

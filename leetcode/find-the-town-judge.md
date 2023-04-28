@@ -1,11 +1,3 @@
----
-name: "Find the Town Judge"
-title: "LeetCode Find the Town Judge Solution"
-description: "Solution for In a town, there are n people labeled from 1 to n. There is a rumor that one of these people is secretly the town judge. If the town judge exists, then: The town judge trusts nobody. Everybody (except for the town judge) trusts the town judge. There is exactly one person that satisfies properties 1 and 2. You are given an array trust where trust[i] = [ai, bi] representing that the person labeled ai trusts the person labeled bi. Return the label of the town judge if the town judge exists and can be identified, or return -1 otherwise."
-published: "2021-12-26 PDT"
-modified: "2021-12-27 PDT"
----
-
 # Find the Town Judge Problem & Solution
 
 In a town, there are `n` people labeled from `1` to `n`.

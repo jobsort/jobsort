@@ -1,11 +1,3 @@
----
-name: "Two Sum II"
-title: "LeetCode Two Sum II Solution"
-description: "Solution for the two sum ii problem from LeetCode."
-published: "2021-06-22 PDT"
-modified: "2021-06-22 PDT"
----
-
 # Two Sum II Problem & Solution
 
 Given an array of integers `numbers` that is already sorted in non-decreasing order, find two numbers such that they add up to a specific `target` number.

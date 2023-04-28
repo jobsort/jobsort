@@ -1,11 +1,3 @@
----
-name: "Sort Array by Parity"
-title: "LeetCode Sort Array by Parity Solution"
-description: "Solution for given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers. Return any array that satisfies this condition."
-published: "2021-11-27 PDT"
-modified: "2021-11-27 PDT"
----
-
 # Sort Array by Parity Problem & Solution
 
 Given an integer array `nums`, move all the even integers at the beginning of the array followed by all the odd integers.

@@ -1,11 +1,3 @@
----
-name: "Missing Number"
-title: "LeetCode Missing Number Solution"
-description: "Solution for given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array."
-published: "2021-07-13 PDT"
-modified: "2021-08-01 PDT"
----
-
 # Missing Number Problem & Solution
 
 Given an array nums containing `n` distinct numbers in the range `[0, n]`, return the only number in the range that is missing from the array.

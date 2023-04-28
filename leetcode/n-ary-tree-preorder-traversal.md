@@ -1,11 +1,3 @@
----
-name: "N-ary Tree Preorder Traversal"
-title: "LeetCode N-ary Tree Preorder Traversal Solution"
-description: "Solution for given the root of an n-ary tree, return the preorder traversal of its nodes' values. N-ary tree input serialization is represented in their level order traversal. Each group of children is separated by the null value."
-published: "2021-08-20 PDT"
-modified: "2021-08-20 PDT"
----
-
 # N-ary Tree Preorder Traversal Problem & Solution
 
 Given the `root` of an n-ary tree, return the preorder traversal of its nodes' values.

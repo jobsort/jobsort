@@ -1,11 +1,3 @@
----
-name: "Longest Palindromic Substring"
-title: "LeetCode Longest Palindromic Substring Solution"
-description: "Solution for the longest palindromic substring problem from LeetCode."
-published: "2022-04-02 PDT"
-modified: "2022-04-02 PDT"
----
-
 # Longest Palindromic Substring Problem & Solution
 
 See the [longest palindromic substring problem on LeetCode](https://leetcode.com/problems/longest-palindromic-substring).

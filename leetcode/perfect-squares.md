@@ -1,11 +1,3 @@
----
-name: "Perfect Squares"
-title: "LeetCode Perfect Squares Solution"
-description: "Solution for the perfect squares problem from LeetCode."
-published: "2022-03-30 PDT"
-modified: "2022-03-30 PDT"
----
-
 # Perfect Squares Problem & Solution
 
 See the [perfect squares problem on LeetCode](https://leetcode.com/problems/perfect-squares).

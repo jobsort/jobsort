@@ -1,11 +1,3 @@
----
-name: "Day of the Year"
-title: "LeetCode Day of the Year Solution"
-description: "Solution for the day of the year problem from LeetCode."
-published: "2022-03-27 PDT"
-modified: "2022-03-27 PDT"
----
-
 # Day of the Year Problem & Solution
 
 See the [day of the year problem on LeetCode](https://leetcode.com/problems/day-of-the-year).

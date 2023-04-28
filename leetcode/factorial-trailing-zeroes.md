@@ -1,11 +1,3 @@
----
-name: "Factorial Trailing Zeroes"
-title: "LeetCode Factorial Trailing Zeroes Solution"
-description: "Solution for the factorial trailing zeroes problem from LeetCode."
-published: "2021-07-07 PDT"
-modified: "2021-07-07 PDT"
----
-
 # Factorial Trailing Zeroes Problem & Solution
 
 Given an integer `n`, return the number of trailing zeroes in `n!`.

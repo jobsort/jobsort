@@ -1,11 +1,3 @@
----
-name: "Sudoku Solver"
-title: "LeetCode Sudoku Solver Solution"
-description: "Solution for the sudoku solver problem from LeetCode."
-published: "2023-02-08 PDT"
-modified: "2023-02-08 PDT"
----
-
 # Sudoku Solver Problem & Solution
 
 See the [sudoku solver problem on LeetCode](https://leetcode.com/problems/sudoku-solver).

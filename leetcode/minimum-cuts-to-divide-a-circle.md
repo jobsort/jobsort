@@ -1,11 +1,3 @@
----
-name: "Minimum Cuts to Divide a Circle"
-title: "LeetCode Minimum Cuts to Divide a Circle Solution"
-description: "Solution for the minimum cuts to divide a circle problem from LeetCode."
-published: "2022-11-28 PDT"
-modified: "2022-11-28 PDT"
----
-
 # Minimum Cuts to Divide a Circle Problem & Solution
 
 See the [minimum cuts to divide a circle problem on LeetCode](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle).

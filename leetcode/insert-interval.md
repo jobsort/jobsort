@@ -1,11 +1,3 @@
----
-name: "Insert Interval"
-title: "LeetCode Insert Interval Solution"
-description: "Solution for the insert interval problem from LeetCode."
-published: "2023-01-18 PDT"
-modified: "2023-01-18 PDT"
----
-
 # Insert Interval Problem & Solution
 
 See the [insert interval problem on LeetCode](https://leetcode.com/problems/insert-interval).

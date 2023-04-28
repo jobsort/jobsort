@@ -1,11 +1,3 @@
----
-name: "Print in Order"
-title: "LeetCode Print in Order Solution"
-description: "Solution for the print in order problem from LeetCode."
-published: "2022-03-29 PDT"
-modified: "2022-03-29 PDT"
----
-
 # Print in Order Problem & Solution
 
 See the [print in order problem on LeetCode](https://leetcode.com/problems/print-in-order).

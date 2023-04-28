@@ -1,11 +1,3 @@
----
-name: "Invert Binary Tree"
-title: "LeetCode Invert Binary Tree Solution"
-description: "Solution for the invert binary tree problem from LeetCode."
-published: "2021-07-15 PDT"
-modified: "2021-07-15 PDT"
----
-
 # Invert Binary Tree Problem & Solution
 
 Given the `root` of a binary tree, invert the tree, and return its `root`.

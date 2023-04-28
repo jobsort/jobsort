@@ -1,11 +1,3 @@
----
-name: "Number of Unequal Triplets in Array"
-title: "LeetCode Number of Unequal Triplets in Array Solution"
-description: "Solution for the number of unequal triplets in array problem from LeetCode."
-published: "2022-11-26 PDT"
-modified: "2022-11-26 PDT"
----
-
 # Number of Unequal Triplets in Array Problem & Solution
 
 See the [number of unequal triplets in array problem on LeetCode](https://leetcode.com/problems/number-of-unequal-triplets-in-array).

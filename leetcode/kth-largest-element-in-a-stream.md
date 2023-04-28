@@ -1,11 +1,3 @@
----
-name: "Kth Largest Element in a Stream"
-title: "LeetCode Kth Largest Element in a Stream Solution"
-description: "Solution for kth largest element in a stream problem from LeetCode."
-published: "2022-11-24 PDT"
-modified: "2022-11-24 PDT"
----
-
 # Kth Largest Element in a Stream Problem & Solution
 
 See the [kth largest element in a stream problem on LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream).

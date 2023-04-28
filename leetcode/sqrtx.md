@@ -1,11 +1,3 @@
----
-name: "sqrt(x)"
-title: "LeetCode sqrt(x) Solution"
-description: "Solution for the sqrt(x) problem from LeetCode."
-published: "2021-06-01 PDT"
-modified: "2021-06-09 PDT"
----
-
 # sqrt(x) Problem & Solution
 
 Given a non-negative integer `x`, compute and return the square root of `x`.

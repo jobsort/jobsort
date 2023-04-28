@@ -1,11 +1,3 @@
----
-name: "Fizz Buzz"
-title: "LeetCode Fizz Buzz Solution"
-description: "Solution for the fizz buzz problem from LeetCode."
-published: "2021-07-26 PDT"
-modified: "2021-07-26 PDT"
----
-
 # Fizz Buzz Problem & Solution
 
 Given an integer `n`, return a string array answer (1-indexed) where:

@@ -1,11 +1,3 @@
----
-name: "Lowest Common Ancestor of a Binary Tree"
-title: "LeetCode Lowest Common Ancestor of a Binary Tree Solution"
-description: "Solution for the lowest common ancestor of a binary tree problem from LeetCode."
-published: "2023-02-04 PDT"
-modified: "2023-02-04 PDT"
----
-
 # Lowest Common Ancestor of a Binary Tree Problem & Solution
 
 See the [lowest common ancestor of a binary tree problem on LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree).

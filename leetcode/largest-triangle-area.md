@@ -1,11 +1,3 @@
----
-name: "Largest Triangle Area"
-title: "LeetCode Largest Triangle Area Solution"
-description: "Solution for given an array of points on the X-Y plane points where points[i] = [xi, yi], return the area of the largest triangle that can be formed by any three different points. Answers within 10-5 of the actual answer will be accepted."
-published: "2021-12-21 PDT"
-modified: "2021-12-21 PDT"
----
-
 # Largest Triangle Area Problem & Solution
 
 Given an array of points on the X-Y plane points where `points[i] = [xi, yi]`, return the area of the largest triangle that can be formed by any three different points.

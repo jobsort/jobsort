@@ -1,11 +1,3 @@
----
-name: "Reverse Vowels of a String"
-title: "LeetCode Reverse Vowels of a String Solution"
-description: "Solution for the reverse vowels of a string problem from LeetCode."
-published: "2021-07-08 PDT"
-modified: "2021-07-08 PDT"
----
-
 # Reverse Vowels of a String Problem & Solution
 
 Given a string `s`, reverse only all the vowels in the string and return it.

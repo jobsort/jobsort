@@ -1,11 +1,3 @@
----
-name: "Ugly Number"
-title: "LeetCode Ugly Number Solution"
-description: "Solution for the ugly number problem from LeetCode."
-published: "2021-07-13 PDT"
-modified: "2021-07-13 PDT"
----
-
 # Ugly Number Problem & Solution
 
 An ugly number is a positive integer whose prime factors are limited to 2, 3, and 5.

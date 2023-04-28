@@ -1,11 +1,3 @@
----
-name: "Count Primes"
-title: "LeetCode Count Primes Solution"
-description: "Solution for the count primes problem from LeetCode."
-published: "2021-06-28 PDT"
-modified: "2021-06-28 PDT"
----
-
 # Count Primes Problem & Solution
 
 Count the number of prime numbers less than a non-negative number, `n`.

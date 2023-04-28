@@ -1,11 +1,3 @@
----
-name: "Count Binary Substrings"
-title: "LeetCode Count Binary Substrings Solution"
-description: "Solution for the count binary substrings problem from LeetCode."
-published: "2022-12-05 PDT"
-modified: "2022-12-05 PDT"
----
-
 # Count Binary Substrings Problem & Solution
 
 See the [count binary substrings problem on LeetCode](https://leetcode.com/problems/count-binary-substrings).

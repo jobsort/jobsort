@@ -1,11 +1,3 @@
----
-name: "Count Distinct Numbers on Board"
-title: "LeetCode Count Distinct Numbers on Board Solution"
-description: "Solution for the count distinct numbers on board problem from LeetCode."
-published: "2023-01-29 PDT"
-modified: "2023-01-29 PDT"
----
-
 # Count Distinct Numbers on Board Problem & Solution
 
 See the [count distinct numbers on board problem on LeetCode](https://leetcode.com/problems/count-distinct-numbers-on-board).

@@ -1,11 +1,3 @@
----
-name: "Remove All Adjacent Duplicates in String II"
-title: "LeetCode Remove All Adjacent Duplicates in String II Solution"
-description: "Solution for the remove all adjacent duplicates in string ii problem from LeetCode."
-published: "2022-12-12 PDT"
-modified: "2022-12-12 PDT"
----
-
 # Remove All Adjacent Duplicates in String II Problem & Solution
 
 See the [remove all adjacent duplicates in string ii problem on LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii).

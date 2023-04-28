@@ -1,11 +1,3 @@
----
-name: "Check if Array is Sorted and Rotated"
-title: "LeetCode Check if Array is Sorted and Rotated Solution"
-description: "Solution for the check if array is sorted and rotated problem from LeetCode."
-published: "2022-11-29 PDT"
-modified: "2022-11-29 PDT"
----
-
 # Check if Array is Sorted and Rotated Problem & Solution
 
 See the [check if array is sorted and rotated problem on LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated).

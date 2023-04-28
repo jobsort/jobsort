@@ -1,11 +1,3 @@
----
-name: "Matrix Diagonal Sum"
-title: "LeetCode Matrix Diagonal Sum Solution"
-description: "Solution for the matrix diagonal sum problem from LeetCode."
-published: "2023-01-02 PDT"
-modified: "2023-01-02 PDT"
----
-
 # Matrix Diagonal Sum Problem & Solution
 
 See the [matrix diagonal sum problem on LeetCode](https://leetcode.com/problems/matrix-diagonal-sum).

@@ -1,11 +1,3 @@
----
-name: "Relative Sort Array"
-title: "LeetCode Relative Sort Array Solution"
-description: "Solution for the relative sort array problem from LeetCode."
-published: "2022-12-17 PDT"
-modified: "2022-12-17 PDT"
----
-
 # Relative Sort Array Problem & Solution
 
 See the [relative sort array problem on LeetCode](https://leetcode.com/problems/relative-sort-array).

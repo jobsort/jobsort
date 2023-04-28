@@ -1,11 +1,3 @@
----
-name: "Hamming Distance"
-title: "LeetCode Hamming Distance Solution"
-description: "Solution for the Hamming distance problem from LeetCode."
-published: "2021-07-17 PDT"
-modified: "2021-07-17 PDT"
----
-
 # Hamming Distance Problem & Solution
 
 The Hamming distance between two integers is the number of positions at which the corresponding bits are different.

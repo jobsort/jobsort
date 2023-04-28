@@ -1,11 +1,3 @@
----
-name: "Intersection of Two Arrays II"
-title: "LeetCode Intersection of Two Arrays II Solution"
-description: "Solution for the intersection of two arrays ii problem from LeetCode."
-published: "2021-07-09 PDT"
-modified: "2021-07-09 PDT"
----
-
 # Intersection of Two Arrays II Problem & Solution
 
 Given two integer arrays `nums1` and `nums2`, return an array of their intersection.

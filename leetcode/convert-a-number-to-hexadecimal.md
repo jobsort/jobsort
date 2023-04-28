@@ -1,11 +1,3 @@
----
-name: "Convert a Number to Hexadecimal"
-title: "LeetCode Convert a Number to Hexadecimal Solution"
-description: "Solution for the convert a number to hexadecimal problem from LeetCode."
-published: "2021-07-25 PDT"
-modified: "2021-07-25 PDT"
----
-
 # Convert a Number to Hexadecimal Problem & Solution
 
 Given an integer `num`, return a string representing its hexadecimal representation.

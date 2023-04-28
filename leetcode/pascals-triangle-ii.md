@@ -1,11 +1,3 @@
----
-name: "Pascal's Triangle II"
-title: "LeetCode Pascal's Triangle II Solution"
-description: "The solution for Pascal's triangle ii problem from LeetCode is to initialize the vector of vector of integers for the edge cases of rows equals 1 or 2, and then keep adding up the inner cells to construct the next row. And then swap the current row with the previous row."
-published: "2021-06-08 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Pascal's Triangle II Problem & Solution
 
 Given an integer `rowIndex`, return the `rowIndex`th (0-indexed) row of the Pascal's triangle.

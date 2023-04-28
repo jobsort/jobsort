@@ -1,11 +1,3 @@
----
-name: "4Sum"
-title: "LeetCode 4Sum Solution"
-description: "Solution for the 4sum problem from LeetCode."
-published: "2022-09-12 PDT"
-modified: "2022-09-12 PDT"
----
-
 # 4Sum Problem & Solution
 
 See the [4sum problem on LeetCode](https://leetcode.com/problems/4sum).

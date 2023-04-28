@@ -1,11 +1,3 @@
----
-name: "Binary Tree Preorder Traversal"
-title: "LeetCode Binary Tree Preorder Traversal Solution"
-description: "Solution for the binary tree preorder traversal problem from LeetCode."
-published: "2021-06-12 PDT"
-modified: "2021-06-18 PDT"
----
-
 # Binary Tree Preorder Traversal Problem & Solution
 
 Given the `root` of a binary tree, return the preorder traversal of its nodes' values.

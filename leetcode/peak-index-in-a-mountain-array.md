@@ -1,11 +1,3 @@
----
-name: "Peak Index in a Mountain Array"
-title: "LeetCode Peak Index in a Mountain Array Solution"
-description: "Solution for let's call an array arr a mountain if the following properties hold: arr.length >= 3 There exists some i with 0 < i < arr.length - 1 such that: arr[0] < arr[1] < ... arr[i-1] < arr[i] arr[i] > arr[i+1] > ... > arr[arr.length - 1] Given an integer array arr that is guaranteed to be a mountain, return any i such that arr[0] < arr[1] < ... arr[i - 1] < arr[i] > arr[i + 1] > ... > arr[arr.length - 1]."
-published: "2021-12-13 PDT"
-modified: "2021-12-13 PDT"
----
-
 # Peak Index in a Mountain Array Problem & Solution
 
 Let's call an array `arr` a mountain if the following properties hold:

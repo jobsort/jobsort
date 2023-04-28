@@ -1,11 +1,3 @@
----
-name: "Prime Arrangements"
-title: "LeetCode Prime Arrangements Solution"
-description: "Solution for the prime arrangements problem from LeetCode."
-published: "2022-12-15 PDT"
-modified: "2022-12-15 PDT"
----
-
 # Prime Arrangements Problem & Solution
 
 See the [prime arrangements problem on LeetCode](https://leetcode.com/problems/prime-arrangements).

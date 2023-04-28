@@ -1,11 +1,3 @@
----
-name: "Valid Boomerang"
-title: "LeetCode Valid Boomerang Solution"
-description: "Solution for the valid boomerang problem from LeetCode."
-published: "2022-12-07 PDT"
-modified: "2022-12-07 PDT"
----
-
 # Valid Boomerang Problem & Solution
 
 See the [valid boomerang problem on LeetCode](https://leetcode.com/problems/valid-boomerang).

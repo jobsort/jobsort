@@ -1,11 +1,3 @@
----
-name: "01 Matrix"
-title: "LeetCode 01 Matrix Solution"
-description: "Solution for the 01 matrix problem from LeetCode."
-published: "2023-03-07 PDT"
-modified: "2023-03-07 PDT"
----
-
 # 01 Matrix Problem & Solution
 
 See the [01 matrix problem on LeetCode](https://leetcode.com/problems/01-matrix).

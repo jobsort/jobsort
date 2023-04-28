@@ -1,11 +1,3 @@
----
-name: "Greatest Common Divisor of Strings"
-title: "LeetCode Greatest Common Divisor of Strings Solution"
-description: "Solution for the greatest common divisor of strings problem from LeetCode."
-published: "2022-12-06 PDT"
-modified: "2022-12-06 PDT"
----
-
 # Greatest Common Divisor of Strings Problem & Solution
 
 See the [greatest common divisor of strings problem on LeetCode](https://leetcode.com/problems/greatest-common-divisor-of-strings).

@@ -1,11 +1,3 @@
----
-name: "Lucky Numbers in a Matrix"
-title: "LeetCode Lucky Numbers in a Matrix Solution"
-description: "Solution for the lucky numbers in a matrix problem from LeetCode."
-published: "2022-12-18 PDT"
-modified: "2022-12-18 PDT"
----
-
 # Lucky Numbers in a Matrix Problem & Solution
 
 See the [lucky numbers in a matrix problem on LeetCode](https://leetcode.com/problems/lucky-numbers-in-a-matrix).

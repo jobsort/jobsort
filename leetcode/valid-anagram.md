@@ -1,11 +1,3 @@
----
-name: "Valid Anagram"
-title: "LeetCode Valid Anagram Solution"
-description: "Solution for the valid anagram problem from LeetCode."
-published: "2021-07-08 PDT"
-modified: "2021-07-08 PDT"
----
-
 # Valid Anagram Problem & Solution
 
 Given two strings `s` and `t`, return true if `t` is an anagram of `s`, and false otherwise.

@@ -1,11 +1,3 @@
----
-name: "Power of Two"
-title: "LeetCode Power of Two Solution"
-description: "Solution for the power of two problem from LeetCode."
-published: "2021-06-29 PDT"
-modified: "2021-06-29 PDT"
----
-
 # Power of Two Problem & Solution
 
 Given an integer `n`, return true if it is a power of two.

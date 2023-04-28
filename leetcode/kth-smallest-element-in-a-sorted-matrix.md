@@ -1,11 +1,3 @@
----
-name: "Kth Smallest Element in a Sorted Matrix"
-title: "LeetCode Kth Smallest Element in a Sorted Matrix Solution"
-description: "Solution for the kth smallest element in a sorted matrix problem from LeetCode."
-published: "2023-03-02 PDT"
-modified: "2023-03-02 PDT"
----
-
 # Kth Smallest Element in a Sorted Matrix Problem & Solution
 
 See the [kth smallest element in a sorted matrix problem on LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix).

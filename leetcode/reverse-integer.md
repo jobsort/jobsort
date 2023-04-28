@@ -1,11 +1,3 @@
----
-name: "Reverse Integer"
-title: "LeetCode Reverse Integer Solution"
-description: "Solution for the reverse integer problem from LeetCode."
-published: "2021-05-21 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Reverse Integer Problem & Solution
 
 Given a signed 32-bit integer `x`, return `x` with its digits reversed. If reversing `x` causes the value to go outside the signed 32-bit integer range, then return 0.

@@ -1,11 +1,3 @@
----
-name: "Minimum Absolute Difference"
-title: "LeetCode Minimum Absolute Difference Solution"
-description: "Solution for the minimum absolute difference problem from LeetCode."
-published: "2022-12-17 PDT"
-modified: "2022-12-17 PDT"
----
-
 # Minimum Absolute Difference Problem & Solution
 
 See the [minimum absolute difference problem on LeetCode](https://leetcode.com/problems/minimum-absolute-difference).

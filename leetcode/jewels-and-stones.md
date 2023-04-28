@@ -1,11 +1,3 @@
----
-name: "Jewels and Stones"
-title: "LeetCode Jewels and Stones Solution"
-description: "Solution for the jewels and stones problem from LeetCode."
-published: "2023-03-03 PDT"
-modified: "2023-03-03 PDT"
----
-
 # Jewels and Stones Problem & Solution
 
 See the [jewels and stones problem on LeetCode](https://leetcode.com/problems/jewels-and-stones).

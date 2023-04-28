@@ -1,11 +1,3 @@
----
-name: "Maximum Subarray"
-title: "LeetCode Maximum Subarray Solution"
-description: "Solution for the maximum subarray problem from LeetCode."
-published: "2021-05-28 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Maximum Subarray Problem & Solution
 
 Given an integer array `nums`, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.

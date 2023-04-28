@@ -1,11 +1,3 @@
----
-name: "Length of Last Word"
-title: "LeetCode Length of Last Word Solution"
-description: "Solution for the length of last word problem from LeetCode."
-published: "2021-05-29 PDT"
-modified: "2021-06-13 PDT"
----
-
 # Length of Last Word Problem & Solution
 
 Given a string `s`, which consists of some words separated by spaces, return the length of the last word in the string. If the last word does not exist, return 0.

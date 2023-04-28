@@ -1,11 +1,3 @@
----
-name: "Assign Cookies"
-title: "LeetCode Assign Cookies Solution"
-description: "Solution for the assign cookies problem from LeetCode."
-published: "2021-07-28 PDT"
-modified: "2021-07-28 PDT"
----
-
 # Assign Cookies Problem & Solution
 
 Assume you are an awesome parent and want to give your children some cookies.

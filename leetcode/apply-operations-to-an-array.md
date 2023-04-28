@@ -1,11 +1,3 @@
----
-name: "Apply Operations to an Array"
-title: "LeetCode Apply Operations to an Array Solution"
-description: "Solution for apply operations to an array problem from LeetCode."
-published: "2022-11-23 PDT"
-modified: "2022-11-23 PDT"
----
-
 # Apply Operations to an Array Problem & Solution
 
 See the [apply operations to an array problem on LeetCode](https://leetcode.com/problems/apply-operations-to-an-array).

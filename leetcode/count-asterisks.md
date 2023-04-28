@@ -1,11 +1,3 @@
----
-name: "Count Asterisks"
-title: "LeetCode Count Asterisks Solution"
-description: "Solution for the count asterisks problem from LeetCode."
-published: "2023-01-30 PDT"
-modified: "2023-01-30 PDT"
----
-
 # Count Asterisks Problem & Solution
 
 See the [count asterisks problem on LeetCode](https://leetcode.com/problems/count-asterisks).

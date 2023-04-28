@@ -1,11 +1,3 @@
----
-name: "Check if N and its Double Exist"
-title: "LeetCode Check if N and its Double Exist Solution"
-description: "Solution for the check if n and its double exist problem from LeetCode."
-published: "2023-01-02 PDT"
-modified: "2023-01-02 PDT"
----
-
 # Check if N and its Double Exist Problem & Solution
 
 See the [check if n and its double exist problem on LeetCode](https://leetcode.com/problems/check-if-n-and-its-double-exist).

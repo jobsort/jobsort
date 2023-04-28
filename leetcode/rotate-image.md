@@ -1,11 +1,3 @@
----
-name: "Rotate Image"
-title: "LeetCode Rotate Image Solution"
-description: "Solution for the rotate image problem from LeetCode."
-published: "2023-03-01 PDT"
-modified: "2023-03-01 PDT"
----
-
 # Rotate Image Problem & Solution
 
 See the [rotate image problem on LeetCode](https://leetcode.com/problems/rotate-image).

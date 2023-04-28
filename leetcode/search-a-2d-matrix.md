@@ -1,11 +1,3 @@
----
-name: "Search a 2D Matrix"
-title: "LeetCode Search a 2D Matrix Solution"
-description: "Solution for the search a 2d matrix problem from LeetCode."
-published: "2023-01-27 PDT"
-modified: "2023-01-27 PDT"
----
-
 # Search a 2D Matrix Problem & Solution
 
 See the [search a 2d matrix problem on LeetCode](https://leetcode.com/problems/search-a-2d-matrix).

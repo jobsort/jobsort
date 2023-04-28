@@ -1,11 +1,3 @@
----
-name: "Excel Sheet Column Title"
-title: "LeetCode Excel Sheet Column Title Solution"
-description: "Solution for the Excel sheet column title problem from LeetCode."
-published: "2021-06-15 PDT"
-modified: "2021-06-17 PDT"
----
-
 # Excel Sheet Column Title Problem & Solution
 
 Given an integer `columnNumber`, return its corresponding column title as it appears in an Excel sheet.

@@ -1,11 +1,3 @@
----
-name: "Duplicate Zeros"
-title: "LeetCode Duplicate Zeros Solution"
-description: "Solution for the duplicate zeros problem from LeetCode."
-published: "2022-03-25 PDT"
-modified: "2022-03-25 PDT"
----
-
 # Duplicate Zeros Problem & Solution
 
 See the [duplicate zeros problem on LeetCode](https://leetcode.com/problems/duplicate-zeros).

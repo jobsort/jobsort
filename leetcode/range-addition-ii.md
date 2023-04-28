@@ -1,11 +1,3 @@
----
-name: "Range Addition II"
-title: "LeetCode Range Addition II Solution"
-description: "Solution for the range addition ii problem from LeetCode."
-published: "2022-12-01 PDT"
-modified: "2022-12-01 PDT"
----
-
 # Range Addition II Problem & Solution
 
 See the [range addition ii problem on LeetCode](https://leetcode.com/problems/range-addition-ii).

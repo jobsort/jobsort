@@ -1,11 +1,3 @@
----
-name: "Fibonacci Number"
-title: "LeetCode Fibonacci Number Solution"
-description: "Solution for the Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1."
-published: "2021-08-08 PDT"
-modified: "2021-08-08 PDT"
----
-
 # Fibonacci Number Problem & Solution
 
 The Fibonacci numbers, commonly denoted `F(n)` form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1.

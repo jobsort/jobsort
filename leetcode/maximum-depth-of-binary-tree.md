@@ -1,11 +1,3 @@
----
-name: "Maximum Depth of Binary Tree"
-title: "LeetCode Maximum Depth of Binary Tree Solution"
-description: "Solution for the maximum depth of binary tree problem from LeetCode."
-published: "2021-06-04 PDT"
-modified: "2021-06-10 PDT"
----
-
 # Maximum Depth of Binary Tree Problem & Solution
 
 Given the `root` of a binary tree, return its maximum depth.

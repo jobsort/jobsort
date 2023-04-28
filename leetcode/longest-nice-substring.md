@@ -1,11 +1,3 @@
----
-name: "Longest Nice Substring"
-title: "LeetCode Longest Nice Substring Solution"
-description: "Solution for the longest nice substring problem from LeetCode."
-published: "2023-01-10 PDT"
-modified: "2023-01-10 PDT"
----
-
 # Longest Nice Substring Problem & Solution
 
 See the [longest nice substring problem on LeetCode](https://leetcode.com/problems/longest-nice-substring).

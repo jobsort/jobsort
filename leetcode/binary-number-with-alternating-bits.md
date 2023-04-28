@@ -1,11 +1,3 @@
----
-name: "Binary Number with Alternating Bits"
-title: "LeetCode Binary Number with Alternating Bits Solution"
-description: "Solution for given a positive integer, check whether it has alternating bits: namely, if two adjacent bits will always have different values."
-published: "2021-09-01 PDT"
-modified: "2021-09-01 PDT"
----
-
 # Binary Number with Alternating Bits Problem & Solution
 
 Given a positive integer, check whether it has alternating bits: namely, if two adjacent bits will always have different values.

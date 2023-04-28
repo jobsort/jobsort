@@ -1,11 +1,3 @@
----
-name: "XOR Operation in an Array"
-title: "LeetCode XOR Operation in an Array Solution"
-description: "Solution for the XOR operation in an array problem from LeetCode."
-published: "2023-03-14 PDT"
-modified: "2023-03-14 PDT"
----
-
 # XOR Operation in an Array Problem & Solution
 
 See the [XOR operation in an array problem on LeetCode](https://leetcode.com/problems/xor-operation-in-an-array).

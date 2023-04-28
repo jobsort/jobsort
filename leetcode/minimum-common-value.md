@@ -1,11 +1,3 @@
----
-name: "Minimum Common Value"
-title: "LeetCode Minimum Common Value Solution"
-description: "Solution for the minimum common value problem from LeetCode."
-published: "2023-01-21 PDT"
-modified: "2023-01-21 PDT"
----
-
 # Minimum Common Value Problem & Solution
 
 Given two integer arrays `nums1` and `nums2`, sorted in non-decreasing order, return the minimum integer common to both arrays.

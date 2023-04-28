@@ -1,11 +1,3 @@
----
-name: "Remove Outermost Parentheses"
-title: "LeetCode Remove Outermost Parentheses Solution"
-description: "Solution for the remove outermost parentheses problem from LeetCode."
-published: "2022-03-23 PDT"
-modified: "2022-12-11 PDT"
----
-
 # Remove Outermost Parentheses Problem & Solution
 
 See the [remove outermost parentheses problem on LeetCode](https://leetcode.com/problems/remove-outermost-parentheses).

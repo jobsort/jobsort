@@ -1,11 +1,3 @@
----
-name: "Longest Common Prefix"
-title: "LeetCode Longest Common Prefix Solution"
-description: "Solution for the longest common prefix problem from LeetCode."
-published: "2021-05-22 PDT"
-modified: "2021-06-12 PDT"
----
-
 # Longest Common Prefix Problem & Solution
 
 Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".

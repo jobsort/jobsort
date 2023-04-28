@@ -1,11 +1,3 @@
----
-name: "Search Insert Position"
-title: "LeetCode Search Insert Position Solution"
-description: "Solution for the search insert position problem from LeetCode."
-published: "2021-05-27 PDT"
-modified: "2021-06-09 PDT"
----
-
 # Search Insert Position Problem & Solution
 
 Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.

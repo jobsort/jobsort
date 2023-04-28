@@ -1,11 +1,3 @@
----
-name: "Number of Even and Odd Bits"
-title: "LeetCode Number of Even and Odd Bits Solution"
-description: "Solution for the number of even and odd bits problem from LeetCode."
-published: "2023-03-22 PDT"
-modified: "2023-03-22 PDT"
----
-
 # Number of Even and Odd Bits Problem & Solution
 
 See the [number of even and odd bits problem on LeetCode](https://leetcode.com/problems/number-of-even-and-odd-bits).
