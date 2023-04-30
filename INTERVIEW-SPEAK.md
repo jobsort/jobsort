@@ -9,4 +9,4 @@
 
 ## Management
 
-- **radical candor**:
+- **radical candor**: a management technique that involves giving kind but direct feedback to team members.
