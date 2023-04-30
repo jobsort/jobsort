@@ -9,4 +9,5 @@
 
 ## Management
 
+- **1:1**: a short meeting between the manager and the individual contributor, usually 30 minutes, that occurs weekly or biweekly.
 - **radical candor**: a management technique that involves giving kind but direct feedback to team members.
