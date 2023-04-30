@@ -1,4 +1,4 @@
-# Engineering Dictionary, a.k.a. what keywords to use during interviews to get your point across
+# Engineering Dictionary
 
 ## Frontend
 
