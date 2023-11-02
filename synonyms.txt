@@ -16,6 +16,7 @@ llm,large language model
 nyc,new york city
 pm,program manager,product manager
 principal,staff
+rag,retrieval augmented generation
 sde,software development engineer
 sdet,software development engineer in test
 seo,search engine optimization
